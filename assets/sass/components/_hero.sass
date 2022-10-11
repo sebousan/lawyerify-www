@@ -1,5 +1,5 @@
 .hero
-    @extend .text-bg-primary
+    background-color: $light
     .container
         align-items: center
         display: flex
@@ -8,5 +8,9 @@
         width: 100%
     &-content
         @extend .col-md-8
+    &-media
+        @extend .col-md-4
+        img
+            @extend .img-fluid
     .btn
-        @extend .bg-light
+        @extend .btn-primary

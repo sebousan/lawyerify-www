@@ -3,8 +3,7 @@ index: true
 title: CMS pour
 image: /images/uploads/hero-home.svg
 hero:
-  title: Créez le site web de votre cabinet d’avocat sécurisé, bas carbone et accessible à tous.
-  text: Grâce à son CMS orienté métier, vous pourrez éditer votre contenu en toute simplicité
+  title: Créez le site web de votre cabinet d’avocat éco-conçu, sécurisé et accessible à tous.
   cta:
     url: /avantages
     text: Découvir les avantages
