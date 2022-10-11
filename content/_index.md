@@ -1,10 +1,11 @@
 ---
 index: true
-title: Accueil
+title: CMS pour
+image: /images/uploads/hero-home.svg
 hero:
-  title: Hugo template
-  text: Ce template Hugo utilise un theme et un admin Netlify CMS
+  title: Créez le site web de votre cabinet d’avocat sécurisé, bas carbone et accessible à tous.
+  text: Grâce à son CMS orienté métier, vous pourrez éditer votre contenu en toute simplicité
   cta:
-    url: https://github.com/sebousan/hugo-template
-    text: Découvir sur Github
+    url: /avantages
+    text: Découvir les avantages
 ---
