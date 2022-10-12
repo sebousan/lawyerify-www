@@ -1,7 +1,8 @@
 ---
 index: true
 title: Les études de cas
-slug: etudes-de-cas
+url: /etudes-de-cas
+image: /image/uploads/illu-study-group.svg
 hero:
-  title: Les études de cas de Lawyerify
+  title: Les études de cas avec Lawyerify
 ---

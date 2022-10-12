@@ -1,6 +1,11 @@
 ---
 draft: false
 title: Avantages
+url: /avantages
+layout: blocks
+image: /images/uploads/illu-business-plan.svg
+hero:
+  title: Les avantages de Lawyerify
 blocks:
   - name: editorial
     direction: rtl
@@ -24,20 +29,20 @@ blocks:
     image: /images/uploads/illu-password.svg
   - name: editorial
     direction: rtl
-    title: Performance optimale, site éco-conçu
+    title: Performance optimale grâce à un site web éco-conçu
     text: >-
      Lorem ipsum
     cta: 
       text: En savoir plus sur l’éco-conception
       url: /avantages/eco-conception
-    image: /images/uploads/illu-website.svg
+    image: /images/uploads/illu-settings.svg
   - name: editorial
     direction: ltr
-    title: Accessibilité
+    title: Accessible à tous
     text: >-
-     Lorem ipsum
+     L’accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. La direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/dinum/)) édite le référentiel général d’amélioration de l’accessibilité ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)) ce à quoi Lawyerify respecte au plus près.
     cta: 
       text: En savoir plus sur l’accessibilité
       url: /avantages/accessibilite
-    image: /images/uploads/illu-website.svg
+    image: /images/uploads/illu-project.svg
 ---

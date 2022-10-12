@@ -16,7 +16,7 @@ blocks:
     cta: 
       text: En savoir plus sur les avantages
       url: /avantages/
-    image: /images/uploads/illu-website.svg
+    image: /images/uploads/illu-business-plan.svg
   - name: editorial
     direction: ltr
     title: Les fonctionnalités
@@ -26,14 +26,13 @@ blocks:
       text: En savoir plus sur les fonctionnalités
       url: /fonctionnalites/
     image: /images/uploads/illu-multitasking.svg
-  - name: blockquote
-    quote: A well-known quote, contained in a blockquote element.
-    author:
-      name: Me Joseph Hazan
-      company: Cabinet d’avocats Le 52
-      url: "https://www.le52-avocats.com/"
-      image: /images/uploads/joseph-hazan.jpg
+  - name: editorial
+    direction: rtl
+    title: Les études de cas
+    text: >-
+     Découvrez nos expériences sur les migrations de site web de nos clients. Le passage d’un CMS commun à notre outil dédié aux avocats.
     cta: 
-      text: Découvrir l’étude de cas Le 52
-      url: /etudes-de-cas/le-52
+      text: En savoir plus sur les études de cas
+      url: /etudes-de-cas/
+    image: /images/uploads/illu-study-group.svg
 ---
