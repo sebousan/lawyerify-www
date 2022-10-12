@@ -1,1 +1,2 @@
-pages:          /:slug/
+# pages:          /:slug/
+casestudies:    /etudes-de-cas/:slug/
