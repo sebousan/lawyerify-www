@@ -2,6 +2,8 @@
 draft: false
 title: Les expertises métier
 description: Lorem ipsum
-layout: blocks
 url: /fonctionnalites/expertises
+image: /images/uploads/illu-strategy.svg
+hero:
+  title: Les expertises métier
 ---

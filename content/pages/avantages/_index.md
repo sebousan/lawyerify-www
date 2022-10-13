@@ -1,8 +1,8 @@
 ---
 draft: false
+layout: blocks
 title: Avantages
 url: /avantages
-layout: blocks
 image: /images/uploads/illu-business-plan.svg
 hero:
   title: Les avantages de Lawyerify
@@ -13,7 +13,7 @@ blocks:
     text: >-
      Grâce à son espace administration dédié aux cabinets d’avocats, la mise à jour de contenu est grandement facilité.
 
-     Que vous aillez des associés, collaborateurs, jurites
+     Que vous aillez des associés, collaborateurs, jurites…
     cta: 
       text: En savoir plus sur le CMS Lawyerify
       url: /avantages/cms-oriente-metier
@@ -25,13 +25,13 @@ blocks:
      Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la technologie Jamstack, il n'y a donc pas de langage serveur, ni de base de données, donc aucun risque de hacking par la couche applicative.
     cta: 
       text: En savoir plus sur la sécurité
-      url: /avantages/securite
+      url: /avantages/securite-maximale
     image: /images/uploads/illu-password.svg
   - name: editorial
     direction: rtl
     title: Performance optimale grâce à un site web éco-conçu
     text: >-
-     Lorem ipsum
+     L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites web performant et ultra rapide.
     cta: 
       text: En savoir plus sur l’éco-conception
       url: /avantages/eco-conception
@@ -43,6 +43,6 @@ blocks:
      L’accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. La direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/dinum/)) édite le référentiel général d’amélioration de l’accessibilité ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)) ce à quoi Lawyerify respecte au plus près.
     cta: 
       text: En savoir plus sur l’accessibilité
-      url: /avantages/accessibilite
+      url: /avantages/accessible-a-tous
     image: /images/uploads/illu-project.svg
 ---
