@@ -3,7 +3,7 @@ index: true
 title: La solution web pour les avocats
 image: /images/uploads/hero-home.svg
 hero:
-  title: Créez le site web de votre cabinet d’avocats éco-conçu, sécurisé et
+  title: Créez le site web de votre cabinet d’avocats sécurisé, rapide et
     accessible à tous.
   cta:
     url: /avantages

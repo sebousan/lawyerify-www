@@ -1,0 +1,36 @@
+.casestudy
+    @extend .card
+    border: 0
+    border-radius: 0
+    .media
+        @extend .card-img-top
+        @extend .ratio
+        @extend .ratio-21x9
+        background-color: $light
+        order: -1
+        > *
+            height: 70%
+            left: 15%
+            top: 15%
+            width: 70%
+        img
+            object-fit: contain
+        picture
+            img
+                height: 100%
+                width: 100%
+    .content
+        @extend .card-body
+        padding-left: 0
+        padding-right: 0
+        text-decoration: none
+    p
+        @extend .card-text
+    a
+        @extend .stretched-link
+    .title
+        @extend .card-title
+        @extend .h5
+    .cta
+        @extend .btn
+        @extend .btn-primary

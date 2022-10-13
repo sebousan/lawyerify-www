@@ -1,0 +1,19 @@
+{{ define "hero"}}
+  {{- partial "commons/hero.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+  {{ partial "casestudies/schema" . }}
+
+  <div class="container">
+
+    <section>
+      {{ partial "blocks/title" . }}
+      {{ partial "blocks/list" .Params.blocks }}
+    </section>
+
+    <code>SINGLE CASE STUDY</code>
+
+  </div>
+
+{{ end }}

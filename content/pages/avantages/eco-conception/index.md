@@ -4,7 +4,7 @@ title: Éco-conception
 url: /avantages/eco-conception
 image: /images/uploads/illu-settings.svg
 hero: 
-  title: Éco-conception
+  title: Performance optimale grâce à un site web éco-conçu
   text: L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites web performant et ultra rapide.
 ---
 ## Site web pré-compilé

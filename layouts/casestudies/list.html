@@ -1,0 +1,21 @@
+{{ define "hero"}}
+  {{- partial "commons/hero.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+
+  <div class="container">
+
+    <header class="title">
+      {{ partial "commons/title" . }}
+    </header>
+
+    {{ with .Pages }}
+      {{ partial "casestudies/items" . }}
+    {{ end }}
+
+    <code>LIST CASE STUDIES</code>
+
+  </div>
+
+{{ end }}
