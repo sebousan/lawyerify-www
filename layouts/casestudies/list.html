@@ -6,15 +6,11 @@
 
   <div class="container">
 
-    <header class="title">
-      {{ partial "commons/title" . }}
-    </header>
+    {{ partial "commons/title" . }}
 
     {{ with .Pages }}
       {{ partial "casestudies/items" . }}
     {{ end }}
-
-    <code>LIST CASE STUDIES</code>
 
   </div>
 

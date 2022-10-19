@@ -1,7 +1,11 @@
 .casestudy
+    --bs-card-spacer-x: 0
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-bg: transparent
+    --bs-card-cap-bg: transparent
     @extend .card
-    border: 0
-    border-radius: 0
     .media
         @extend .card-img-top
         @extend .ratio
@@ -21,8 +25,6 @@
                 width: 100%
     .content
         @extend .card-body
-        padding-left: 0
-        padding-right: 0
         text-decoration: none
     p
         @extend .card-text
