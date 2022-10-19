@@ -1,7 +1,7 @@
 ---
 draft: false
-title: Prix
-url: /prix
+title: Tarif
+url: /tarif
 ---
 
 ## Tableau des prix
