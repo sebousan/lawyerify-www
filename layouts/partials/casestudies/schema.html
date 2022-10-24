@@ -5,7 +5,7 @@
     "headline": {{ .Title }},
 
     {{ with .Params.image }}
-      "image": {{ . | absURL }},
+      "image": {{ .src | absURL }},
     {{ end }}
     
     {{ with .Date }}

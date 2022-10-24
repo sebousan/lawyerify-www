@@ -2,7 +2,8 @@
 draft: false
 title: Sécurité maximale
 url: /avantages/securite-maximale
-image: /images/uploads/illu-password.svg
+image:
+  src: /images/uploads/illu-password.svg
 hero: 
   title: Sécurité maximale
 ---

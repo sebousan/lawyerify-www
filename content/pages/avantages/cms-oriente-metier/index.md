@@ -1,7 +1,8 @@
 ---
 draft: false
 title: CMS orienté métier
-image: /images/uploads/illu-website.svg
+image:
+  src: /images/uploads/illu-website.svg
 url: /avantages/cms-oriente-metier
 hero:
   title: CMS orienté métier

@@ -3,7 +3,8 @@ draft: false
 layout: blocks
 title: Avantages
 url: /avantages
-image: /images/uploads/illu-business-plan.svg
+image:
+  src: /images/uploads/illu-business-plan.svg
 hero:
   title: Les avantages de Lawyerify
 blocks:
@@ -17,7 +18,8 @@ blocks:
     cta: 
       text: En savoir plus sur le CMS Lawyerify
       url: /avantages/cms-oriente-metier
-    image: /images/uploads/illu-website.svg
+    image:
+      src: /images/uploads/illu-website.svg
   - name: editorial
     direction: ltr
     title: Sécurité maximale
@@ -26,7 +28,8 @@ blocks:
     cta: 
       text: En savoir plus sur la sécurité
       url: /avantages/securite-maximale
-    image: /images/uploads/illu-password.svg
+    image:
+      src: /images/uploads/illu-password.svg
   - name: editorial
     direction: rtl
     title: Performance optimale grâce à un site web éco-conçu
@@ -35,7 +38,8 @@ blocks:
     cta: 
       text: En savoir plus sur l’éco-conception
       url: /avantages/eco-conception
-    image: /images/uploads/illu-settings.svg
+    image:
+      src: /images/uploads/illu-settings.svg
   - name: editorial
     direction: ltr
     title: Accessible à tous
@@ -44,5 +48,6 @@ blocks:
     cta: 
       text: En savoir plus sur l’accessibilité
       url: /avantages/accessible-a-tous
-    image: /images/uploads/illu-project.svg
+    image:
+      src: /images/uploads/illu-project.svg
 ---

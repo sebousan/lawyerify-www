@@ -1,7 +1,8 @@
 ---
 index: true
 title: La solution web pour les avocats
-image: /images/uploads/hero-home.svg
+image:
+  src: /images/uploads/hero-home.svg
 hero:
   title: Créez le site web de votre cabinet d’avocats sécurisé, rapide et
     accessible à tous.
@@ -17,7 +18,8 @@ blocks:
     cta:
       text: En savoir plus sur les avantages
       url: /avantages/
-    image: /images/uploads/illu-business-plan.svg
+    image:
+      src: /images/uploads/illu-business-plan.svg
   - name: editorial
     direction: ltr
     title: Les fonctionnalités
@@ -26,7 +28,8 @@ blocks:
     cta:
       text: En savoir plus sur les fonctionnalités
       url: /fonctionnalites/
-    image: /images/uploads/illu-multitasking.svg
+    image:
+      src: /images/uploads/illu-multitasking.svg
   - name: editorial
     direction: rtl
     title: Les études de cas
@@ -35,5 +38,6 @@ blocks:
     cta:
       text: En savoir plus sur les études de cas
       url: /etudes-de-cas/
-    image: /images/uploads/illu-study-group.svg
+    image:
+      src: /images/uploads/illu-study-group.svg
 ---

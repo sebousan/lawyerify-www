@@ -1,7 +1,8 @@
 ---
 draft: false
 title: Accessible à tous
-image: /images/uploads/illu-project.svg
+image:
+  src: /images/uploads/illu-project.svg
 url: /avantages/accessible-a-tous
 hero: 
   title: Accessible à tous

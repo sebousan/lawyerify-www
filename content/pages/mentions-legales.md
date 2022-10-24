@@ -2,7 +2,8 @@
 draft: false
 title: Mentions légales
 url: mentions-legales
-image: /images/uploads/illu-curiosity.svg
+image:
+  src: /images/uploads/illu-curiosity.svg
 hero:
   title: Mentions légales
 ---

@@ -3,7 +3,8 @@ layout: blocks
 date: 2022-10-02T19:34:08.410Z
 title: CB2P
 description: Avocats contentieux et conseils à Bordeaux
-image: /images/uploads/logo-cb2p.png
+image:
+  src: /images/uploads/logo-cb2p.png
 hero:
   title: "Étude de cas : CB2P, Migration d’un site Wordpress vers Lawyerify"
 blocks:
@@ -15,11 +16,9 @@ blocks:
     author:
       name: Me Louis Coulaud
       company: Cabinet d’avocats CB2P
-      image: 
   - name: editorial
     title: Analyse Google Lighthouse
     text: Google Lighthouse est un outil open source et automatisé permettant de mesurer la qualité des pages Web. 
-    image: 
   - name: cta
     cta:
       text: Découvrez le site web

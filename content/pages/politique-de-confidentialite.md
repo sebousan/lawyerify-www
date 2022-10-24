@@ -2,7 +2,8 @@
 draft: false
 title: Politique de confidentialité
 url: /politique-de-confidentialite
-image: /images/uploads/illu-erasing.svg
+image:
+  src: /images/uploads/illu-erasing.svg
 hero:
   title: Politique de confidentialité
 ---
