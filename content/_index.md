@@ -10,7 +10,7 @@ hero:
     url: /avantages
     text: Découvir les avantages
 blocks:
-  - name: editorial
+  - type: editorial
     direction: rtl
     title: Les avantages
     text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
@@ -20,7 +20,7 @@ blocks:
       url: /avantages/
     image:
       src: /images/uploads/illu-business-plan.svg
-  - name: editorial
+  - type: editorial
     direction: ltr
     title: Les fonctionnalités
     text: Création du ou des cabinets, des personnes (avocats, collaborateur,
@@ -30,7 +30,7 @@ blocks:
       url: /fonctionnalites/
     image:
       src: /images/uploads/illu-multitasking.svg
-  - name: editorial
+  - type: editorial
     direction: rtl
     title: Les études de cas
     text: Découvrez nos expériences sur les migrations de site web de nos clients.

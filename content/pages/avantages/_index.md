@@ -8,7 +8,7 @@ image:
 hero:
   title: Les avantages de Lawyerify
 blocks:
-  - name: editorial
+  - type: editorial
     direction: rtl
     title: Un CMS orienté métier
     text: >-
@@ -20,7 +20,7 @@ blocks:
       url: /avantages/cms-oriente-metier
     image:
       src: /images/uploads/illu-website.svg
-  - name: editorial
+  - type: editorial
     direction: ltr
     title: Sécurité maximale
     text: >-
@@ -30,7 +30,7 @@ blocks:
       url: /avantages/securite-maximale
     image:
       src: /images/uploads/illu-password.svg
-  - name: editorial
+  - type: editorial
     direction: rtl
     title: Performance optimale grâce à un site web éco-conçu
     text: >-
@@ -40,7 +40,7 @@ blocks:
       url: /avantages/eco-conception
     image:
       src: /images/uploads/illu-settings.svg
-  - name: editorial
+  - type: editorial
     direction: ltr
     title: Accessible à tous
     text: >-
