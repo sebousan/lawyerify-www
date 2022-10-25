@@ -1,5 +1,6 @@
 ---
 layout: blocks
+index: false
 date: 2022-10-02T19:34:08.410Z
 title: CB2P
 description: Avocats contentieux et conseils à Bordeaux
