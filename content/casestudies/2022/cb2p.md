@@ -13,10 +13,10 @@ blocks:
     title: Quelques mots sur le cabinet
     text: Créé en juin 2017, CB2P Avocats est né de la réunion du cabinet de Maître Bénédicte de Boussac-Di Pace avec celui de Maîtres Françoise Pillet et Louis Coulaud.
   - type: blockquote
-    quote: A well-known quote, contained in a blockquote element.
+    text: A well-known quote, contained in a blockquote element.
     author:
-      name: Me Louis Coulaud
-      company: Cabinet d’avocats CB2P
+      title: Me Louis Coulaud
+      text: Cabinet d’avocats CB2P
   - type: editorial
     title: Analyse Google Lighthouse
     text: Google Lighthouse est un outil open source et automatisé permettant de mesurer la qualité des pages Web. 
