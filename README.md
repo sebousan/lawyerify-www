@@ -2,9 +2,18 @@
 
 ## Table des matières
 
+- [Preprod](#preprod)
+- [Illustrations](#illustrations)
 - [Git](#git)
 - [Hugo](#hugo)
 
+## Preprod
+https://lawyerify-www.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77934568-56cf-4711-a03f-5f8b59618eab/deploy-status)](https://app.netlify.com/sites/lawyerify-www/deploys)
+
+## Illustrations
+https://notioly.com/
 
 ## Git
 
