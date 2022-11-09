@@ -21,7 +21,7 @@ Types supportés par le thème et l’admin
 * pages
 
 ## Repositories
-* Template: [Hugo theme](https://github.com/sebousan/hugo-template)
+* Template: [Hugo template](https://github.com/sebousan/hugo-template)
 * Theme: [Hugo theme](https://github.com/sebousan/hugo-theme)
 * Admin: [Hugo Netlify CMS template](https://github.com/sebousan/hugo-netlify-cms-template)
 
