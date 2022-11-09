@@ -1,9 +1,9 @@
-import { index } from '../partials/index.js'
-import { draft } from '../partials/draft.js'
-import { date } from '../partials/date.js'
-import { description } from '../partials/description.js'
-import { image } from '../partials/image.js'
-import { title } from '../partials/title.js'
+import { index } from '../fields/index.js'
+import { draft } from '../fields/draft.js'
+import { date } from '../fields/date.js'
+import { description } from '../fields/description.js'
+import { image } from '../fields/image.js'
+import { title } from '../fields/title.js'
 import { hero } from '../blocks/hero.js'
 import { blocks } from '../blocks/blocks.js'
 
@@ -15,7 +15,7 @@ const casestudies = {
     create: true,
 
     editor: { preview: false },
-    // preview_path: "/projects/",
+    // preview_path: "/casestudies/",
 
     // #i18n: true,
 

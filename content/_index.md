@@ -1,6 +1,6 @@
 ---
 index: true
-title: La solution web pour les avocats
+title: Accueil
 image:
   src: /images/uploads/hero-home.svg
 hero:

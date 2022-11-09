@@ -5,9 +5,7 @@
 {{ define "main" }}
   {{ partial "casestudies/schema" . }}
 
-  <div class="container">
-    {{ partial "blocks/title" . }}
-    {{ partial "blocks/list" .Params.blocks }}
-  </div>
+  {{ partial "blocks/title" . }}
+  {{ partial "blocks/list" . }}
 
 {{ end }}

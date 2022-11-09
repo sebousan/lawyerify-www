@@ -1,9 +1,9 @@
-item:
+links:
   - title: Avantages
-    link: /avantages
+    url: /avantages
   - title: Fonctionnalités
-    link: /fonctionnalites
+    url: /fonctionnalites
   - title: Tarif
-    link: /tarif
+    url: /tarif
   - title: Contact
-    link: /contact
+    url: /contact
