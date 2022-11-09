@@ -4,8 +4,8 @@
 
 - [Preprod](#preprod)
 - [Illustrations](#illustrations)
-- [Git](#git)
-- [Hugo](#hugo)
+- [Repositories](#repositories)
+- [Installation](#installation)
 
 ## Preprod
 https://lawyerify-www.netlify.app/
@@ -15,41 +15,18 @@ https://lawyerify-www.netlify.app/
 ## Illustrations
 https://notioly.com/
 
-## Git
+## Fonctionnalités
+Types supportés par le thème et l’admin
+* casestudies
+* pages
 
-### Submodules
-Ce template est composé de deux submodules
+## Repositories
+* Template: [Hugo theme](https://github.com/sebousan/hugo-template)
 * Theme: [Hugo theme](https://github.com/sebousan/hugo-theme)
 * Admin: [Hugo Netlify CMS template](https://github.com/sebousan/hugo-netlify-cms-template)
 
-### Installation
+## Installation
 Pour cloner avec le template avec ses submodules
 ```
 git clone git@github.com:sebousan/lawyerify-www.git --recurse-submodules
 ```
-
-### Mettre à jour les submodules
-```
-git pull --recurse-submodules
-```
-
-### Mettre à jour son repo via le template
-
-```
-git remote add template git@github.com:sebousan/hugo-template.git
-git fetch --all
-git merge template/main --allow-unrelated-histories
-```
-
-## Hugo
-
-### Install
-
-* Pour installer Hugo : `brew install hugo`
-* Mise à jour : `brew upgrade hugo`
-
-### Commands
-
-* Pour installer les packages : `yarn`
-* Pour lancer Hugo en livereload : `yarn watch`
-* Pour lancer Netlify CMS en localhost : `yarn cms`
