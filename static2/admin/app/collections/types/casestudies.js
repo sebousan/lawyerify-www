@@ -4,7 +4,7 @@ import { date } from '../fields/date.js'
 import { description } from '../fields/description.js'
 import { image } from '../fields/image.js'
 import { title } from '../fields/title.js'
-import { hero } from '../blocks/hero.js'
+import { hero } from '../fields/hero.js'
 import { blocks } from '../blocks/blocks.js'
 
 const casestudies = {
