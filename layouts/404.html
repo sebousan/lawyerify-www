@@ -1,0 +1,22 @@
+{{ define "hero" }}
+  <div class="container">
+    <div class="row">
+      <div class="content">
+        <h1>{{ i18n "page404.title" }}</h1>
+        <p>{{ i18n "page404.text" }}</p>
+        <p><a href="{{ site.BaseURL }}" class="btn btn-primary">{{ i18n "page404.cta" }}</a></p>
+      </div>
+      <div class="media">
+        <img src="/images/uploads/illu-404.svg" alt="" height="520" width="520">
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <h1>{{ i18n "page404.title" }}</h1>
+    <p>{{ i18n "page404.text" }}</p>
+    <p><a href="{{ site.BaseURL }}" class="btn btn-primary">{{ i18n "page404.cta" }}</a></p>
+  </div>
+{{ end }}

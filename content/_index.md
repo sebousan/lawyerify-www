@@ -9,6 +9,9 @@ hero:
   cta:
     url: /avantages
     text: Découvir les avantages
+  cta_second:
+    text: Découvrir les foncionnalités
+    url: /fonctionnalites
 blocks:
   - type: editorial
     direction: rtl

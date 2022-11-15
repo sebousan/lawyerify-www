@@ -7,12 +7,13 @@ image:
   src: /images/uploads/illu-multitasking.svg
 hero:
   title: Les fonctionnalités
+  text: Création du ou des cabinets, des personnes (avocats, collaborateur, juriste…), des expertises métier…
 show_list: false
 blocks:
   - type: editorial
     direction: rtl
     title: Présentation du cabinet
-    text: Présentation de l’équipe et du ou des cabinets.
+    text: Présentation du ou des cabinets avec informations de contact.
     image:
       src: /images/uploads/illu-cubes.svg
     cta:
@@ -20,6 +21,15 @@ blocks:
       url: /fonctionnalites/cabinet
   - type: editorial
     direction: ltr
+    title: Présentation de l’équipe
+    text: Présentation des avocats, collaborateurs…
+    image:
+      src: /images/uploads/illu-teaming-up.svg
+    cta:
+      text: En savoir plus
+      url: /fonctionnalites/equipe
+  - type: editorial
+    direction: rtl
     title: Les compétences et expertises du cabinet
     text: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail…).
     image:
@@ -28,7 +38,7 @@ blocks:
       text: En savoir plus
       url: /fonctionnalites/expertises
   - type: editorial
-    direction: rtl
+    direction: ltr
     title: Mettre en avant votre actualité
     text: L’actualité de votre cabinet sous la forme d’un journal ou simplement une liste d’articles qui renvoient vers d’autres sites web.
     image:
@@ -37,11 +47,20 @@ blocks:
       text: En savoir plus
       url: /fonctionnalites/actualite
   - type: editorial
-    direction: ltr
-    title: Job board
+    direction: rtl
+    title: Job board (à venir)
     text: Que vous recherchiez un collaborateur ou stagiaire, cette partie vous permet de créer votre annonce et d’y mettre tout le détail du poste.
     image:
       src: /images/uploads/illu-job-application.svg
+    cta:
+      text: En savoir plus
+      url: /fonctionnalites/expertises
+  - type: editorial
+    direction: ltr
+    title: Et bien d’autres fonctionnalités (à venir)
+    text: Annonces immobilières, …
+    image:
+      src: /images/uploads/illu-workspace.svg
     cta:
       text: En savoir plus
       url: /fonctionnalites/expertises
