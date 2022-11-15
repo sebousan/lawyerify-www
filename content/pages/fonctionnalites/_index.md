@@ -15,7 +15,7 @@ blocks:
     title: Présentation du cabinet
     text: Présentation du ou des cabinets avec informations de contact.
     image:
-      src: /images/uploads/illu-cubes.svg
+      src: /images/uploads/illu-project.svg
     cta:
       text: En savoir plus
       url: /fonctionnalites/cabinet

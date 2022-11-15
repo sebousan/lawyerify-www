@@ -50,5 +50,5 @@ blocks:
       text: En savoir plus sur l’accessibilité
       url: /avantages/accessible-a-tous
     image:
-      src: /images/uploads/illu-project.svg
+      src: /images/uploads/illu-cubes.svg
 ---

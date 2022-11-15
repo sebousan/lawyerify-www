@@ -3,7 +3,7 @@ draft: false
 title: Présentation du cabinet
 url: /fonctionnalites/cabinet
 image:
-  src: /images/uploads/illu-cube.svg
+  src: /images/uploads/illu-project.svg
 hero: 
   title: Présentation du cabinet
 ---
