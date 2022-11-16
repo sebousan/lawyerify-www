@@ -17,7 +17,8 @@ module.exports = {
                     /^js-/,
                 ],
                 deep: [
-                    /-page$/
+                    /-page$/,
+                    /^block-/
                 ]
             }
         }
