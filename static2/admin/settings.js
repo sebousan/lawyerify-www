@@ -29,5 +29,3 @@ export const availableBlocks = [
     'gauges',
     'title'
 ];
-
-export default availableCollections;
