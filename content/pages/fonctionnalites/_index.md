@@ -48,20 +48,11 @@ blocks:
       url: /fonctionnalites/actualite
   - type: editorial
     direction: rtl
-    title: Job board (à venir)
-    text: Que vous recherchiez un collaborateur ou stagiaire, cette partie vous permet de créer votre annonce et d’y mettre tout le détail du poste.
-    image:
-      src: /images/uploads/illu-job-application.svg
-    cta:
-      text: En savoir plus
-      url: /fonctionnalites/expertises
-  - type: editorial
-    direction: ltr
-    title: Et bien d’autres fonctionnalités (à venir)
-    text: Annonces immobilières, …
+    title: Et bien d’autres fonctionnalités à venir
+    text: Job board, annonces immobilières, …
     image:
       src: /images/uploads/illu-workspace.svg
     cta:
       text: En savoir plus
-      url: /fonctionnalites/expertises
+      url: /fonctionnalites/a-venir
 ---
