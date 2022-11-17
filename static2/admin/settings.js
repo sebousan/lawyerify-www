@@ -18,7 +18,7 @@ export const availableTypeSection = [
 export const availableBlocks = [
     'cta',
     'map',
-    'blockquote',
+    'quote',
     'latest',
     'editorial',
     'embed',

@@ -1,1 +1,6 @@
 _merge: deep
+casestudies:
+    thumbnail:
+      desktop: "291x"
+      mobile: "235x"
+      

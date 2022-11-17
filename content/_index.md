@@ -17,7 +17,7 @@ blocks:
     direction: rtl
     title: Les avantages
     text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
-      performant, éco-conçu et accessible à tous."
+      performant, rapide, éco-conçu et accessible à tous."
     cta:
       text: En savoir plus sur les avantages
       url: /avantages/
