@@ -27,7 +27,7 @@ Bien qu'il soit une composante et un levier d'amélioration de leur qualité glo
 
 ## Le référentiel général d'amélioration de l'accessibilité
 
-La [direction interministérielle du numérique](https://www.numerique.gouv.fr/dinum/) (DINUM) édite le [référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) (RGAA, anciennement référentiel général d’accessibilité pour les administrations), dont voici la quatrième version.
+La [direction interministérielle du numérique](https://www.numerique.gouv.fr/dinum/) (DINUM) édite le [référentiel général d’amélioration de l’accessibilité](https://accessibilite.numerique.gouv.fr/) (RGAA, anciennement référentiel général d’accessibilité pour les administrations), dont voici la quatrième version.
 
 ## RGAA friendly
 

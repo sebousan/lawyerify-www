@@ -52,13 +52,7 @@ blocks:
   - type: editorial
     direction: ltr
     title: Accessible à tous
-    text: L’accessibilité numérique consiste à rendre les services en ligne
-      accessibles aux personnes en situation de handicap. La direction
-      interministérielle du numérique
-      ([DINUM](https://www.numerique.gouv.fr/dinum/)) édite le référentiel
-      général d’amélioration de l’accessibilité
-      ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/))
-      ce à quoi Lawyerify respecte au plus près.
+    text: L’accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. La direction interministérielle du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité (RGAA) ce à quoi Lawyerify respecte au plus près.
     cta:
       text: En savoir plus sur l’accessibilité
       url: /avantages/accessible-a-tous
