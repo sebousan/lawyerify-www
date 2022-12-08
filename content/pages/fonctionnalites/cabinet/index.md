@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Présentation du cabinet
 url: /fonctionnalites/cabinet
+title: Présentation du cabinet
 image:
   src: /images/uploads/illu-project.svg
 hero: 
   title: Présentation du cabinet
+  image:
+    src: /images/uploads/illu-project.svg
 ---
 
 ## Création d’ un ou plusieurs cabinets

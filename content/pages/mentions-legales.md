@@ -4,6 +4,8 @@ title: Mentions légales
 url: mentions-legales
 hero:
   title: Mentions légales
+  image:
+    src: /images/uploads/illu-curiosity.svg
 image:
   src: /images/uploads/illu-curiosity.svg
 ---

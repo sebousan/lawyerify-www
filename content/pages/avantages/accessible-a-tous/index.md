@@ -1,13 +1,15 @@
 ---
 draft: false
+url: /avantages/accessible-a-tous
 title: Accessible à tous
 image:
   src: /images/uploads/illu-cubes.svg
-url: /avantages/accessible-a-tous
 hero:
   title: Accessible à tous
   text: L’accessibilité numérique consiste à rendre les services en ligne
     accessibles aux personnes en situation de handicap.
+  image:
+    src: /images/uploads/illu-cubes.svg
 description: "L’accessibilité numérique consiste à rendre les services en ligne
   accessibles aux personnes en situation de handicap. "
 ---

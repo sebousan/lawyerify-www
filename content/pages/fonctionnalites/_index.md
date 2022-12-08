@@ -8,6 +8,8 @@ image:
 hero:
   title: Les fonctionnalités
   text: Création du ou des cabinets, des personnes (avocats, collaborateur, juriste…), des expertises métier…
+  image:
+    src: /images/uploads/illu-multitasking.svg
 show_list: false
 blocks:
   - type: editorial

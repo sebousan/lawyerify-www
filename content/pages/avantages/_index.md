@@ -9,6 +9,8 @@ hero:
   title: Les avantages de Lawyerify
   text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
     performant, rapide, éco-conçu et accessible à tous."
+  image:
+    src: /images/uploads/illu-business-plan.svg
 image:
   src: /images/uploads/illu-business-plan.svg
 blocks:

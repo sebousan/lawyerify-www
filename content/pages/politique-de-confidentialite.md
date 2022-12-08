@@ -6,6 +6,8 @@ image:
   src: /images/uploads/illu-erasing.svg
 hero:
   title: Politique de confidentialité
+  image:
+    src: /images/uploads/illu-erasing.svg
 ---
 *Date de dernière mise à jour : octobre 2022*
 

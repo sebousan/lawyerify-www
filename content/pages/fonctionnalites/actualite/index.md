@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Actualité
 url: /fonctionnalites/actualite
+title: Actualité
 image:
   src: /images/uploads/illu-paperboy.svg
 hero: 
   title: L’actualité du cabinet
+  image:
+    src: /images/uploads/illu-paperboy.svg
 ---
 
 ## Création d’article 

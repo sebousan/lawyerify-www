@@ -1,12 +1,15 @@
 ---
 draft: false
-title: Les expertises métier
-description: Lorem ipsum
 url: /fonctionnalites/expertises
+title: Les compétences et expertises du cabinet
+description: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail…).
 image:
   src: /images/uploads/illu-strategy.svg
 hero:
-  title: Les expertises métier
+  title: Les compétences et expertises du cabinet
+  text: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail…).
+  image:
+    src: /images/uploads/illu-strategy.svg
 ---
 
 ## Liste des expertises du cabinet

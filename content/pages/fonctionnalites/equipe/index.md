@@ -1,13 +1,15 @@
 ---
 draft: false
+url: /fonctionnalites/equipe
 title: Présentation de l’équipe
 description: Présentation des avocats, collaborateurs…
-url: /fonctionnalites/equipe
 image:
   src: /images/uploads/illu-teaming-up.svg
 hero: 
   title: Présentation de l’équipe
   text: Présentation des avocats, collaborateurs…
+  image:
+    src: /images/uploads/illu-teaming-up.svg
 ---
 
 ## Création d’ une personne
