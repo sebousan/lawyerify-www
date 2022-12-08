@@ -16,16 +16,23 @@ export const availableTypeSection = [
 ]
 
 export const availableBlocks = [
+    'alert',
     'cta',
+    'infos',
+    'pushes',
+    'datas',
     'map',
     'quote',
     'latest',
     'editorial',
     'embed',
     'figure',
-    'infos',
+    'gallery',
+    'images',
     'paragraph',
-    'selectedprojects',
-    'gauges',
+    // 'selectedposts',
+    'selectedcasestudies',
+    // 'selectedprojects',
+    // 'selectedpublications',
     'title'
 ];

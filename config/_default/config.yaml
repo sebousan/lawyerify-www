@@ -8,6 +8,8 @@ languageCode: fr
 ## ADVANCED
 paginate: 18
 enableRobotsTXT: true
+build:
+  writeStats: true
 
 ## STATIC
 staticDir:
