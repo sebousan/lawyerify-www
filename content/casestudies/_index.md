@@ -1,5 +1,6 @@
 ---
 index: true
+draft: true
 title: Les études de cas
 url: /etudes-de-cas
 image:

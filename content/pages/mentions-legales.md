@@ -9,7 +9,7 @@ hero:
 image:
   src: /images/uploads/illu-curiosity.svg
 ---
-*Date de dernière mise à jour : novembre 2022*
+*Date de dernière mise à jour : décembre 2022*
 
 ## Bienvenue sur le site lawyerify.fr
 
@@ -17,17 +17,30 @@ En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions
 
 ## Responsable de publication
 
-S﻿ébastien Moulène
+Le site www.lawyerify.fr est la propriété de Sébastien Moulène.
+
+* Contactez moi par email : sebousan@gmail.com
+* Trouvez moi sur twitter : https://twitter.com/sebousan
 
 ## Hébergement
 
-Le site lawyerify.fr est hébergé par **Netlify** :
-2325 3rd Street, Suite 296, 
-San Francisco, 
-California 94107, 
+Le site lawyerify.fr est hébergé par :
+
+**Netlify** \
+2325 3rd Street, Suite 296, \
+San Francisco, \
+California 94107, \
 Etats-Unis.
-+1 844-899-7312
+
++1 844-899-7312\
+https://www.netlify.com
+
+## Conception
+
+Ce site web a été conçu avec [Hugolify](https://www.hugolify.com), une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
 
 ## Crédits
 
 L’image de la page d’accueil : [Image by storyset on Freepik](https://www.freepik.com/profile/license/pdf/8497417?lang=en)
+
+Toutes les illustrations sont l’œuvre de [Mary Amato](https://twitter.com/maryamato88)

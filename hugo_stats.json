@@ -70,8 +70,8 @@
       "cta",
       "description",
       "disabled",
-      "full",
       "gauge",
+      "grid",
       "header",
       "heading",
       "hero",
@@ -80,12 +80,9 @@
       "home-page",
       "hugolify",
       "icon",
-      "icon-euro",
-      "icon-face",
       "icon-globe-europe-africa",
       "icon-graph-up-arrow",
       "icon-people",
-      "icon-public",
       "img-fluid",
       "items",
       "items-3",
@@ -101,7 +98,6 @@
       "nav-social",
       "next",
       "offcanvas",
-      "offset-md-2",
       "page-casestudies",
       "page-page",
       "page-pages",
@@ -113,9 +109,9 @@
       "section-pages",
       "section-sitemap",
       "sidebar",
+      "social-twitter",
       "title",
-      "toc",
-      "value"
+      "toc"
     ],
     "ids": [
       "TableOfContents",
@@ -127,6 +123,7 @@
       "casestudies",
       "choix-de-ou-des-expertises-métiers",
       "choix-du-statut-dans-le-cabinet",
+      "conception",
       "création-d-un-ou-plusieurs-cabinets",
       "création-d-une-personne",
       "création-darticle",
@@ -151,7 +148,6 @@
       "rgaa-friendly",
       "serveur",
       "site-web-pré-compilé",
-      "tableau-des-prix",
       "toc",
       "tocLabel"
     ]
