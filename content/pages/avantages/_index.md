@@ -1,4 +1,5 @@
 ---
+index: false
 draft: false
 layout: blocks
 title: Avantages
@@ -22,9 +23,9 @@ blocks:
       jour de contenu est grandement facilité.
 
       Que vous aillez des associés, collaborateurs, jurites…
-    cta:
-      text: En savoir plus sur le CMS Lawyerify
-      url: /avantages/cms-oriente-metier
+    # cta:
+    #   text: En savoir plus sur le CMS Lawyerify
+    #   url: /avantages/cms-oriente-metier
     image:
       src: /images/uploads/illu-website.svg
   - type: editorial
@@ -33,9 +34,9 @@ blocks:
     text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la
       technologie Jamstack, il n'y a donc pas de langage serveur, ni de base de
       données, donc aucun risque de hacking par la couche applicative.
-    cta:
-      text: En savoir plus sur la sécurité
-      url: /avantages/securite-maximale
+    # cta:
+    #   text: En savoir plus sur la sécurité
+    #   url: /avantages/securite-maximale
     image:
       src: /images/uploads/illu-password.svg
   - type: editorial

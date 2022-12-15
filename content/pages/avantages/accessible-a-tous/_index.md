@@ -1,4 +1,5 @@
 ---
+index: false
 draft: false
 url: /avantages/accessible-a-tous
 title: Accessible à tous
@@ -31,6 +32,4 @@ La [direction interministérielle du numérique](https://www.numerique.gouv.fr/d
 
 ## RGAA friendly
 
-Cras iaculis libero velit, eu eleifend risus interdum eu. Aliquam a scelerisque dolor. Proin maximus, eros et pellentesque rhoncus, nisl massa iaculis diam, ut congue libero nulla at erat. Mauris commodo aliquam dolor et finibus. Integer et sem ac dolor molestie sagittis. Morbi iaculis felis a arcu condimentum, eu volutpat nunc finibus. Quisque viverra lobortis pellentesque. Maecenas euismod at lacus non venenatis. Nullam vel justo nisl.
-
-Praesent ac aliquet urna. Ut molestie sed turpis ut ultricies. Phasellus aliquam laoreet ex ut lobortis. Aenean fermentum pulvinar volutpat. In pretium elit quis arcu interdum iaculis. Aliquam pulvinar leo a tincidunt sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra blandit lorem, vitae vehicula dolor feugiat nec.
+En suivant les bonnes pratiques d’accessibilité ainsi que le référentiel nous parvenons à atteindre un niveau d‘accessibilité conforme aux attentes RGAA. Néanmoins un audit humain est indispensable pour auditer chaque site et valider sa conformité.
