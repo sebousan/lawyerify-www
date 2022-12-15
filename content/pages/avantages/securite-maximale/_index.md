@@ -7,19 +7,15 @@ image:
   src: /images/uploads/illu-password.svg
 hero: 
   title: Sécurité maximale
+  text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la technologie Jamstack, il n’y a donc pas de langage serveur, ni de base de données, donc aucun risque de hacking par la couche applicative.
   image:
     src: /images/uploads/illu-password.svg
 ---
-## Infrastrucure
-Cras iaculis libero velit, eu eleifend risus interdum eu. Aliquam a scelerisque dolor. Proin maximus, eros et pellentesque rhoncus, nisl massa iaculis diam, ut congue libero nulla at erat. Mauris commodo aliquam dolor et finibus. Integer et sem ac dolor molestie sagittis. Morbi iaculis felis a arcu condimentum, eu volutpat nunc finibus. Quisque viverra lobortis pellentesque. Maecenas euismod at lacus non venenatis. Nullam vel justo nisl.
 
 ## Serveur 
-Donec maximus a nulla ut feugiat. Duis a enim et ex commodo cursus. Pellentesque in vehicula turpis. Nulla tincidunt eleifend ligula mollis volutpat. Vivamus sed placerat purus. Pellentesque feugiat sed massa sed ullamcorper. Donec diam orci, mattis et elit non, pulvinar venenatis neque. 
+Tous les sites Lawyerify sont hébergés chez [Netlify](https://netlify.app/) pour garantir une rapidité d’exécution optimale.
 
-## Outils Open-Source
-Praesent ac aliquet urna. Ut molestie sed turpis ut ultricies. Phasellus aliquam laoreet ex ut lobortis. Aenean fermentum pulvinar volutpat. In pretium elit quis arcu interdum iaculis. Aliquam pulvinar leo a tincidunt sodales. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra blandit lorem, vitae vehicula dolor feugiat nec.
+Netlify est une entreprise américano-danoise fondée en 2014 qui propose des services d'hébergement et de cloud computing sans serveur pour les sites web statiques. Son siège social se trouve à San Francisco, Californie.
 
 ## Qu’est-ce que le précompilé ?
 Donec maximus a nulla ut feugiat. Duis a enim et ex commodo cursus. Pellentesque in vehicula turpis. Nulla tincidunt eleifend ligula mollis volutpat. Vivamus sed placerat purus. Pellentesque feugiat sed massa sed ullamcorper. Donec diam orci, mattis et elit non, pulvinar venenatis neque. 

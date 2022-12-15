@@ -59,4 +59,22 @@ blocks:
       url: /avantages/accessible-a-tous
     image:
       src: /images/uploads/illu-cubes.svg
+  - type: editorial
+    direction: rtl
+    title: Référencement soigné
+    text: Le fait de concevoir un site bas carbone profite au référencement, Google mettra plus en avant un site bien conçu et rapide qu’un site lourd.
+    # cta:
+    #   text: En savoir plus sur le référencement
+    #   url: /avantages/referencement-soigne
+    image:
+      src: /images/uploads/illu-seo.svg
+  - type: editorial
+    direction: ltr
+    title: Infrastructure
+    text: En toute transparence, prenez connaissance en détail de l'infrastructure technique de Lawyerify.
+    cta:
+      text: En savoir plus sur l’infrastructure
+      url: /avantages/infrastructure
+    image:
+      src: /images/uploads/illu-nodes.svg
 ---
