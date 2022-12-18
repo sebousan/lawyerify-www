@@ -1,19 +1,5 @@
 ---
-index: false
 draft: false
-layout: blocks
-title: Avantages
-url: /avantages
-description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site
-  web performant, rapide, éco-conçu et accessible à tous."
-hero:
-  title: Les avantages de Lawyerify
-  text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
-    performant, rapide, éco-conçu et accessible à tous."
-  image:
-    src: /images/uploads/illu-business-plan.svg
-image:
-  src: /images/uploads/illu-business-plan.svg
 blocks:
   - type: editorial
     direction: rtl
@@ -22,21 +8,18 @@ blocks:
       Grâce à son espace administration dédié aux cabinets d’avocats, la mise à
       jour de contenu est grandement facilité.
 
-      Que vous aillez des associés, collaborateurs, jurites…
-    # cta:
-    #   text: En savoir plus sur le CMS Lawyerify
-    #   url: /avantages/cms-oriente-metier
+      Que vous aillez des associés, collaborateurs, juristes…
     image:
       src: /images/uploads/illu-website.svg
+    cta:
+      url: /avantages/cms-oriente-metier/
+      text: En savoir plus sur le CMS
   - type: editorial
     direction: ltr
     title: Sécurité maximale
     text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la
       technologie Jamstack, il n'y a donc pas de langage serveur, ni de base de
       données, donc aucun risque de hacking par la couche applicative.
-    # cta:
-    #   text: En savoir plus sur la sécurité
-    #   url: /avantages/securite-maximale
     image:
       src: /images/uploads/illu-password.svg
   - type: editorial
@@ -53,7 +36,11 @@ blocks:
   - type: editorial
     direction: ltr
     title: Accessible à tous
-    text: L’accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. La direction interministérielle du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité (RGAA) ce à quoi Lawyerify respecte au plus près.
+    text: L’accessibilité numérique consiste à rendre les services en ligne
+      accessibles aux personnes en situation de handicap. La direction
+      interministérielle du numérique (DINUM) édite le référentiel général
+      d’amélioration de l’accessibilité (RGAA) ce à quoi Lawyerify respecte au
+      plus près.
     cta:
       text: En savoir plus sur l’accessibilité
       url: /avantages/accessible-a-tous
@@ -62,19 +49,32 @@ blocks:
   - type: editorial
     direction: rtl
     title: Référencement soigné
-    text: Le fait de concevoir un site bas carbone profite au référencement, Google mettra plus en avant un site bien conçu et rapide qu’un site lourd.
-    # cta:
-    #   text: En savoir plus sur le référencement
-    #   url: /avantages/referencement-soigne
+    text: Le fait de concevoir un site bas carbone profite au référencement, Google
+      mettra plus en avant un site bien conçu et rapide qu’un site lourd.
     image:
       src: /images/uploads/illu-seo.svg
   - type: editorial
     direction: ltr
     title: Infrastructure
-    text: En toute transparence, prenez connaissance en détail de l'infrastructure technique de Lawyerify.
+    text: En toute transparence, prenez connaissance en détail de l'infrastructure
+      technique de Lawyerify.
     cta:
       text: En savoir plus sur l’infrastructure
       url: /avantages/infrastructure
     image:
       src: /images/uploads/illu-nodes.svg
+layout: blocks
+url: /avantages
+index: false
+title: Avantages
+description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site
+  web performant, rapide, éco-conçu et accessible à tous."
+image:
+  src: /images/uploads/illu-business-plan.svg
+hero:
+  title: Les avantages de Lawyerify
+  text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
+    performant, rapide, éco-conçu et accessible à tous."
+  image:
+    src: /images/uploads/illu-business-plan.svg
 ---
