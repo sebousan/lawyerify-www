@@ -35,6 +35,7 @@
     ],
     "classes": [
       "404-page",
+      "active",
       "block-cta",
       "block-editorial",
       "block-editorial-ltr",
@@ -49,7 +50,6 @@
       "container",
       "content",
       "content-body",
-      "credit",
       "cta",
       "embed",
       "grid",
