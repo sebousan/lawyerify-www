@@ -33,14 +33,14 @@ California 94107, \
 Etats-Unis.
 
 +1 844-899-7312\
-https://www.netlify.com
+{{< blank_link link="https://www.netlify.com" text="www.netlify.com" >}}
 
 ## Conception
 
-Ce site web a été conçu avec [Hugolify](https://www.hugolify.com), une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
+Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.com" text="Hugolify" >}}, une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
 
 ## Crédits
 
-L’image de la page d’accueil : [Image by storyset on Freepik](https://www.freepik.com/profile/license/pdf/8497417?lang=en)
+L’image de la page d’accueil : {{< blank_link link="https://www.freepik.com/profile/license/pdf/8497417?lang=en" text="Image by storyset on Freepik" >}}
 
-Toutes les illustrations sont l’œuvre de [Mary Amato](https://twitter.com/maryamato88)
+Toutes les illustrations sont l’œuvre de {{< blank_link link="https://twitter.com/maryamato88" text="Mary Amato" >}}

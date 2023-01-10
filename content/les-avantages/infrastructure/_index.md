@@ -30,7 +30,7 @@ Github est un service en ligne qui permet aux développeurs et aux équipes de s
 ## Netlify
 Netlify offre une solution simple et efficace pour générer et déployer des sites web statiques en fournissant des fonctionnalités avancées, une intégration facile avec différents dépôts de code source, il offre des fonctionnalités avancées telles que la mise en place de certificats SSL et des fonctionnalités de mise en cache et de sécurité améliorées.
 
-{{< blank_link link="https://netlify.app" text="En savoir plus sur Netlify" >}}
+{{< blank_link link="https://www.netlify.com" text="En savoir plus sur Netlify" >}}
 
 ## Netlify CMS
 
