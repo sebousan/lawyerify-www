@@ -1,5 +1,5 @@
 ---
-index: true
+isIndex: true
 title: Accueil
 image:
   src: /images/uploads/hero-home.svg
@@ -9,11 +9,11 @@ hero:
   image:
     src: /images/uploads/hero-home.svg
   cta:
-    url: /avantages
+    url: /les-avantages
     text: Découvir les avantages
   cta_second:
     text: Découvrir les foncionnalités
-    url: /fonctionnalites
+    url: /les-fonctionnalites
 blocks:
   - type: editorial
     direction: rtl
@@ -22,7 +22,7 @@ blocks:
       performant, rapide, éco-conçu et accessible à tous."
     cta:
       text: En savoir plus sur les avantages
-      url: /avantages/
+      url: /les-avantages/
     image:
       src: /images/uploads/illu-business-plan.svg
   - type: editorial
@@ -32,7 +32,7 @@ blocks:
       juriste…), des expertises métier…
     cta:
       text: En savoir plus sur les fonctionnalités
-      url: /fonctionnalites/
+      url: /les-fonctionnalites/
     image:
       src: /images/uploads/illu-multitasking.svg
   - type: editorial
