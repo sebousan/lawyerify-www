@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: Fonctionnalités
+title: Les fonctionnalités
 image:
   src: /images/uploads/illu-multitasking.svg
 hero:
@@ -14,12 +14,12 @@ blocks:
   - type: editorial
     direction: rtl
     title: Présentation du cabinet
-    text: Ajouter les différents lieux et leurs informations contact.
+    text: Ajouter un ou différents lieux et leurs informations de contact.
     image:
       src: /images/uploads/illu-project.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /fonctionnalites/cabinet
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/cabinet
   - type: editorial
     direction: ltr
     title: Présentation de l’équipe
@@ -28,7 +28,7 @@ blocks:
       src: /images/uploads/illu-teaming-up.svg
     # cta:
     #   text: En savoir plus
-    #   url: /fonctionnalites/equipe
+    #   url: /les-fonctionnalites/equipe
   - type: editorial
     direction: rtl
     title: Les compétences et expertises du cabinet
@@ -37,7 +37,7 @@ blocks:
       src: /images/uploads/illu-strategy.svg
     # cta:
     #   text: En savoir plus
-    #   url: /fonctionnalites/expertises
+    #   url: /les-fonctionnalites/expertises
   - type: editorial
     direction: ltr
     title: Mettre en avant votre actualité et parutions presse
@@ -46,7 +46,7 @@ blocks:
       src: /images/uploads/illu-paperboy.svg
     # cta:
     #   text: En savoir plus
-    #   url: /fonctionnalites/actualite
+    #   url: /les-fonctionnalites/actualite
   - type: editorial
     direction: rtl
     title: Et bien d’autres fonctionnalités à venir
@@ -55,5 +55,5 @@ blocks:
       src: /images/uploads/illu-workspace.svg
     # cta:
     #   text: En savoir plus
-    #   url: /fonctionnalites/a-venir
+    #   url: /les-fonctionnalites/a-venir
 ---
