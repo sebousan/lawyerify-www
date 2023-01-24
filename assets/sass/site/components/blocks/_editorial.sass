@@ -1,0 +1,8 @@
+.block-editorial
+    body:not(.page-casestudies) &
+        padding-bottom: 0
+        padding-top: 0
+        @include media-breakpoint-down(md)
+            &:not(:last-child)
+                @include rfs($global-spacing, margin-bottom)
+                
