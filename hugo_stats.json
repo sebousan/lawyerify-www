@@ -56,6 +56,7 @@
       "block-informations",
       "block-paragraph",
       "block-quote",
+      "block-title",
       "bottom-links",
       "breadcrumb-wrapper",
       "btn",
@@ -75,6 +76,7 @@
       "description",
       "disabled",
       "embed",
+      "fail",
       "gauge",
       "grid",
       "half",
@@ -120,7 +122,9 @@
       "section-sitemap",
       "text-center",
       "title",
-      "toc"
+      "toc",
+      "true",
+      "value"
     ],
     "ids": [
       "TableOfContents",

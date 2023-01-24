@@ -62,8 +62,7 @@ blocks:
         src: /images/uploads/le52-sophie-rey-gascon.jpg
   - type: datas
     title: Analyse de l’ancien site du cabinet
-    text: Grâce à Google Lighthouse qui est un outil open source et automatisé
-      permettant de mesurer la qualité des pages Web.
+    text: Grâce à Google Lighthouse qui est un outil open source permettant de mesurer la qualité des pages Web. Voici, ci-dessous, le test de la page d’accueil.
     column: 4
     show_color: true
     show_gauge: true
@@ -84,6 +83,39 @@ blocks:
         value: 100
         suffix: "%"
         limit: 100
+  - type: datas
+    column: 4
+    show_color: false
+    show_gauge: false
+    text: De nombreux fichiers chargés et trop lourd.
+    items:
+      - title: fichiers JS chargés
+        value: 16
+      - title: JS chargés
+        value: 443
+        suffix: Ko
+      - title: fichiers CSS chargés
+        value: 8
+      - title: CSS chargés
+        value: 40.8
+        suffix: Ko
+  - type: datas
+    column: 4
+    show_color: false
+    show_gauge: false
+    text: Donc trop long à charger
+    items:
+      - title: requêtes au total
+        value: 78
+      - title: transférés au total
+        value: 1.2
+        suffix: Mo
+      - title: Temps de chargement (mobile)
+        value: 2.23
+        suffix: s
+      - title: Temps de chargement total (mobile)
+        value: 7.88
+        suffix: s
   - type: informations
     column: 3
     background: false
@@ -146,6 +178,34 @@ blocks:
         value: 100
         limit: 100
         suffix: "%"
+  - type: datas
+    column: 4
+    show_color: false
+    show_gauge: false
+    title: Un site optimisé et deux fois plus rapide !
+    text: Les images et les assets sont optimisées pour peser le moins lourd possible.
+    items:
+      - title: fichiers JS chargés
+        value: 3
+      - title: JS chargés
+        value: 68.3
+        suffix: Ko
+      - title: fichiers CSS chargés
+        value: 2
+      - title: CSS chargés
+        value: 16.4
+        suffix: Ko
+      - title: requêtes au total
+        value: 28
+      - title: transférés au total
+        value: 779
+        suffix: Ko
+      - title: Temps de chargement à l’arrivée (mobile)
+        value: 1.41
+        suffix: s
+      - title: Temps de chargement total (mobile)
+        value: 3.70
+        suffix: s
   - type: figure
     grid: small
     figure:
