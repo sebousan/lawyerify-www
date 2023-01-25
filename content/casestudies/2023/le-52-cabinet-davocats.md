@@ -27,10 +27,10 @@ blocks:
       La précédente version du site a été créé grâce au système de gestion de
       contenu Wordpress. Ce logiciel écrit en PHP repose sur une base de données
       MySQL. Cela implique un hébergement sur serveur Apache et une maintenance
-      quotidienne du système et de ses plugins.
+      quotidienne du système, de wordpress et de ses plugins.
 
 
-      Sans mise à jour constante de votre wordpress, vous vous exposez grandement au hacking de votre site web.
+      Sans mise à jour de ces solutions, vous vous exposez grandement au piratage de votre site web.
     background: false
     offset: start
     title: État des lieux
@@ -62,7 +62,7 @@ blocks:
         src: /images/uploads/le52-sophie-rey-gascon.jpg
   - type: datas
     title: Analyse de l’ancien site du cabinet
-    text: Grâce à Google Lighthouse qui est un outil open source permettant de mesurer la qualité des pages Web. Voici, ci-dessous, le test de la page d’accueil.
+    text: Grâce à Google Lighthouse qui est un outil open source permettant de mesurer la qualité des pages Web. Voici, ci-dessous, le test de la page d’accueil sur mobile.
     column: 4
     show_color: true
     show_gauge: true
@@ -99,17 +99,22 @@ blocks:
       - title: CSS chargés
         value: 40.8
         suffix: Ko
-  - type: datas
-    column: 4
-    show_color: false
-    show_gauge: false
-    text: Donc trop long à charger
-    items:
+      - title: requêtes à l’arrivée
+        value: 19
+      - title: transférés à l’arrivée
+        value: 402
+        suffix: Ko
       - title: requêtes au total
         value: 78
       - title: transférés au total
         value: 1.2
         suffix: Mo
+  - type: datas
+    column: 2
+    show_color: false
+    show_gauge: false
+    text: Donc trop long à charger !
+    items:
       - title: Temps de chargement (mobile)
         value: 2.23
         suffix: s
@@ -128,7 +133,7 @@ blocks:
           très bon."
       - icon: graph-up-arrow
         title: Pour votre activité
-        text: Un site plus rapide, c'est une meilleure performance business. Cela a
+        text: Un site web plus rapide, c'est une meilleure performance business. Cela a
           aussi de nombreux autres impacts positifs.
       - title: Pour votre empreinte carbone
         icon: globe-europe-africa
@@ -182,7 +187,7 @@ blocks:
     column: 4
     show_color: false
     show_gauge: false
-    title: Un site optimisé et deux fois plus rapide !
+    title: Un site web optimisé et sobre
     text: Les images et les assets sont optimisées pour peser le moins lourd possible.
     items:
       - title: fichiers JS chargés
@@ -195,15 +200,27 @@ blocks:
       - title: CSS chargés
         value: 16.4
         suffix: Ko
+      - title: requêtes à l’arrivée
+        value: 10
+      - title: transférés à l’arrivée
+        value: 323
+        suffix: Ko
       - title: requêtes au total
         value: 28
       - title: transférés au total
         value: 779
         suffix: Ko
-      - title: Temps de chargement à l’arrivée (mobile)
+  - type: datas
+    column: 2
+    show_color: false
+    show_gauge: false
+    title: Un site web deux fois plus rapide !
+    text: Tests effectués en simulant une connexion 3G rapide sur Moto G4
+    items:
+      - title: Temps de chargement à l’arrivée
         value: 1.41
         suffix: s
-      - title: Temps de chargement total (mobile)
+      - title: Temps de chargement total
         value: 3.70
         suffix: s
   - type: figure
