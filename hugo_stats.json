@@ -14,7 +14,6 @@
       "h2",
       "head",
       "header",
-      "hr",
       "html",
       "img",
       "li",
@@ -58,6 +57,7 @@
       "hero-content",
       "hero-media",
       "home-page",
+      "hugolify",
       "img-fluid",
       "logo",
       "media",
@@ -74,7 +74,6 @@
       "section-mentions-legales",
       "section-politique-de-confidentialite",
       "section-sitemap",
-      "smfd",
       "social-twitter",
       "title",
       "toc"
