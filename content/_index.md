@@ -4,8 +4,7 @@ title: Accueil
 image:
   src: /images/uploads/hero-home.svg
 hero:
-  title: Créez le site web de votre cabinet d’avocats sécurisé, rapide et
-    accessible à tous.
+  title: Créez le site web de votre cabinet d’avocats sécurisé, rapide et accessible à tous.
   image:
     src: /images/uploads/hero-home.svg
   cta:
