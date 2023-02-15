@@ -3,11 +3,11 @@ isPage: true
 draft: false
 title: Actualité et parutions
 image:
-  src: /images/uploads/illu-paperboy.svg
+  src: /images/uploads/144.Paperboy.svg
 hero: 
   title: L’actualité du cabinet
   image:
-    src: /images/uploads/illu-paperboy.svg
+    src: /images/uploads/144.Paperboy.svg
 ---
 
 ## Création d’article 

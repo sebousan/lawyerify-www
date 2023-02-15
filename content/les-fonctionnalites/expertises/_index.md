@@ -4,12 +4,12 @@ draft: false
 title: Les compétences et expertises du cabinet
 description: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail…).
 image:
-  src: /images/uploads/illu-strategy.svg
+  src: /images/uploads/148.Strategy.svg
 hero:
   title: Les compétences et expertises du cabinet
   text: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail…).
   image:
-    src: /images/uploads/illu-strategy.svg
+    src: /images/uploads/148.Strategy.svg
 ---
 
 ## Liste des expertises du cabinet

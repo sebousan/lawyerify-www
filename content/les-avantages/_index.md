@@ -5,13 +5,13 @@ title: Les avantages
 description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site
   web performant, rapide, éco-conçu et accessible à tous."
 image:
-  src: /images/uploads/illu-business-plan.svg
+  src: /images/uploads/111.Business-plan.svg
 hero:
   title: Les avantages de Lawyerify
   text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
     performant, rapide, éco-conçu et accessible à tous."
   image:
-    src: /images/uploads/illu-business-plan.svg
+    src: /images/uploads/111.Business-plan.svg
 blocks:
   - type: editorial
     direction: rtl
@@ -22,7 +22,7 @@ blocks:
 
       Que vous aillez des associés, collaborateurs, juristes…
     image:
-      src: /images/uploads/illu-website.svg
+      src: /images/uploads/123.Website-builder.svg
     cta:
       url: /les-avantages/cms-oriente-metier/
       text: En savoir plus sur le CMS
@@ -36,7 +36,7 @@ blocks:
       text: En savoir plus sur l’éco-conception
       url: /les-avantages/eco-conception
     image:
-      src: /images/uploads/illu-planet.svg
+      src: /images/uploads/179.Planet.svg
   - type: editorial
     direction: rtl
     title: Sécurité maximale
@@ -44,7 +44,7 @@ blocks:
       technologie Jamstack, il n'y a donc pas de langage serveur, ni de base de
       données, donc aucun risque de hacking par la couche applicative.
     image:
-      src: /images/uploads/illu-password.svg
+      src: /images/uploads/37.Password.svg
     cta:
       text: En savoir plus sur la sécurité
       url: /les-avantages/securite-maximale
@@ -60,14 +60,14 @@ blocks:
       text: En savoir plus sur l’accessibilité
       url: /les-avantages/accessible-a-tous
     image:
-      src: /images/uploads/illu-cubes.svg
+      src: /images/uploads/150.Cubes.svg
   - type: editorial
     direction: rtl
     title: Référencement soigné
     text: Le fait de concevoir un site bas carbone profite au référencement, Google
       mettra plus en avant un site bien conçu et rapide qu’un site lourd.
     image:
-      src: /images/uploads/illu-seo.svg
+      src: /images/uploads/190.Not-Found.svg
     cta:
       text: En savoir plus sur le référencement
       url: /les-avantages/referencement-soigne
@@ -79,5 +79,5 @@ blocks:
       text: En savoir plus sur l’infrastructure
       url: /les-avantages/infrastructure
     image:
-      src: /images/uploads/illu-nodes.svg
+      src: /images/uploads/181.Nodes.svg
 ---

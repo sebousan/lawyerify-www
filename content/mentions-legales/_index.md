@@ -5,11 +5,11 @@ title: Mentions légales
 hero:
   title: Mentions légales
   image:
-    src: /images/uploads/illu-curiosity.svg
+    src: /images/uploads/155.Curiosity.svg
 image:
-  src: /images/uploads/illu-curiosity.svg
+  src: /images/uploads/155.Curiosity.svg
 ---
-*Date de dernière mise à jour : décembre 2022*
+*Date de dernière mise à jour : février 2023*
 
 ## Bienvenue sur le site lawyerify.fr
 
@@ -17,10 +17,8 @@ En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions
 
 ## Responsable de publication
 
-Le site www.lawyerify.fr est la propriété de Sébastien Moulène.
+Le site lawyerify.fr est la propriété de {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
 
-* Contactez moi par email : sebousan@gmail.com
-* Trouvez moi sur twitter : https://twitter.com/sebousan
 
 ## Hébergement
 
@@ -40,7 +38,5 @@ Etats-Unis.
 Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.com" text="Hugolify" >}}, une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
 
 ## Crédits
-
-L’image de la page d’accueil : {{< blank_link link="https://www.freepik.com/profile/license/pdf/8497417?lang=en" text="Image by storyset on Freepik" >}}
 
 Toutes les illustrations sont l’œuvre de {{< blank_link link="https://twitter.com/maryamato88" text="Mary Amato" >}}

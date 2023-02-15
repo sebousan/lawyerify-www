@@ -3,12 +3,12 @@ isPage: true
 draft: false
 title: Contact
 image:
-  src: /images/uploads/illu-mention.svg
+  src: /images/uploads/153.Mention.svg
 hero:
   title: Contact
   text: Pour toutes informations concernant la solution.
   image:
-    src: /images/uploads/illu-mention.svg
+    src: /images/uploads/153.Mention.svg
 blocks:
   - type: cta
     title: Par email

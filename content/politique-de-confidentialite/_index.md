@@ -3,11 +3,11 @@ isPage: true
 draft: false
 title: Politique de confidentialité
 image:
-  src: /images/uploads/illu-erasing.svg
+  src: /images/uploads/146.Erasing.svg
 hero:
   title: Politique de confidentialité
   image:
-    src: /images/uploads/illu-erasing.svg
+    src: /images/uploads/146.Erasing.svg
 ---
 *Date de dernière mise à jour : octobre 2022*
 

@@ -6,11 +6,11 @@ description: Grâce à son espace administration dédié aux cabinets d’avocat
   mise à jour de contenu est grandement facilité. Que vous aillez des associés,
   collaborateurs, juristes…
 image:
-  src: /images/uploads/illu-website.svg
+  src: /images/uploads/123.Website-builder.svg
 hero:
   title: CMS orienté métier
   image:
-    src: /images/uploads/illu-website.svg
+    src: /images/uploads/123.Website-builder.svg
   text: Grâce à son espace administration dédié aux cabinets d’avocats, la mise à
     jour de contenu est grandement facilité. Que vous aillez des associés,
     collaborateurs, juristes…

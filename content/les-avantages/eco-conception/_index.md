@@ -8,9 +8,9 @@ hero:
     expliquons pourquoi cette façon de concevoir permet d’avoir des sites web
     performant.
   image:
-    src: /images/uploads/illu-planet.svg
+    src: /images/uploads/179.Planet.svg
 image:
-  src: /images/uploads/illu-planet.svg
+  src: /images/uploads/179.Planet.svg
 ---
 ## L'éco-conception
 L'éco-conception web est un ensemble de pratiques visant à réduire l'impact environnemental d'un site web, notamment en termes de consommation d'énergie et d'empreinte carbone. Il existe plusieurs avantages à adopter une approche d'éco-conception.

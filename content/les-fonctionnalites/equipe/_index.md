@@ -4,12 +4,12 @@ draft: false
 title: Présentation de l’équipe
 description: Présentation des avocats, collaborateurs…
 image:
-  src: /images/uploads/illu-teaming-up.svg
+  src: /images/uploads/183.Teaming-Up.svg
 hero: 
   title: Présentation de l’équipe
   text: Présentation des avocats, collaborateurs…
   image:
-    src: /images/uploads/illu-teaming-up.svg
+    src: /images/uploads/183.Teaming-Up.svg
 ---
 
 ## Création d’ une personne

@@ -4,12 +4,12 @@ draft: false
 title: Présentation du cabinet
 description: Ajouter un ou différents lieux et leurs informations de contact.
 image:
-  src: /images/uploads/illu-project.svg
+  src: /images/uploads/174.Project.svg
 hero: 
   title: Présentation du cabinet
   text: Ajouter un ou différents lieux et leurs informations de contact.
   image:
-    src: /images/uploads/illu-project.svg
+    src: /images/uploads/174.Project.svg
 ---
 
 ## Création d’un ou plusieurs cabinets
