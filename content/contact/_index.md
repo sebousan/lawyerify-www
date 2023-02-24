@@ -14,8 +14,8 @@ blocks:
     title: Par email
     cta:
       blank: true
-      url: mailto:contact@lawyerify.fr
-      text: contact@lawyerify.fr
+      url: mailto:lawyerify@uncinq.dev
+      text: lawyerify@uncinq.dev
     background: false
   - type: embed
     background: false

@@ -20,6 +20,7 @@
       "watch": "hugo server",
       "build": "hugo --noChmod --gc --minify",
       "update": "hugo mod get -u",
+      "clean": "hugo mod clean",
       "cms": "npx netlify-cms-proxy-server"
   }
 }
