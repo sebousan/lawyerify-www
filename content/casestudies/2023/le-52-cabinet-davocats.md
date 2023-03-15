@@ -7,7 +7,8 @@ description: Cabinet exclusivement dédié à la défense pénale à Paris
 image:
   src: /images/uploads/le52-logo.svg
 hero:
-  title: "Étude de cas : Le 52, Migration d’un site Wordpress vers Lawyerify"
+  surtitle: Étude de cas
+  title: "Le 52, Migration d’un site Wordpress vers Lawyerify"
   image:
     src: /images/uploads/le52-logo.svg
 blocks:

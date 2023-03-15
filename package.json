@@ -17,10 +17,10 @@
     "postcss-sass": "^0.5.0"
   },
   "scripts": {
-      "watch": "hugo server",
-      "build": "hugo --noChmod --gc --minify",
-      "update": "hugo mod get -u",
-      "clean": "hugo mod clean",
-      "cms": "npx netlify-cms-proxy-server"
+    "watch": "hugo server",
+    "build": "hugo --noChmod --gc --minify",
+    "update": "hugo mod get -u",
+    "clean": "hugo mod clean",
+    "cms": "npx netlify-cms-proxy-server"
   }
 }
