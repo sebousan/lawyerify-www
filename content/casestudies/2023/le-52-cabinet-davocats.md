@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-01-02T19:34:08.410Z
 title: Le 52, cabinet d’avocats
 description: Cabinet exclusivement dédié à la défense pénale à Paris
@@ -85,43 +85,22 @@ blocks:
         suffix: "%"
         limit: 100
   - type: datas
+    title: Et son impact environnemental ?
+    text: En se basant sur une année pour 10000 pages vues par mois (provenant de website carbon calculator)
     column: 4
     show_color: false
     show_gauge: false
-    text: De nombreux fichiers chargés et trop lourd.
     items:
-      - title: fichiers JS chargés
-        value: 16
-      - title: JS chargés
-        value: 443
-        suffix: Ko
-      - title: fichiers CSS chargés
-        value: 8
-      - title: CSS chargés
-        value: 40.8
-        suffix: Ko
-      - title: requêtes à l’arrivée
-        value: 19
-      - title: transférés à l’arrivée
-        value: 402
-        suffix: Ko
-      - title: requêtes au total
-        value: 78
-      - title: transférés au total
-        value: 1.2
-        suffix: Mo
-  - type: datas
-    column: 2
-    show_color: false
-    show_gauge: false
-    text: Donc trop long à charger !
-    items:
-      - title: Temps de chargement (mobile)
-        value: 2.23
-        suffix: s
-      - title: Temps de chargement total (mobile)
-        value: 7.88
-        suffix: s
+      - title: CO2
+        text: autant que l'eau bouillante pour 2954 tasses de thé
+        limit: 100
+        suffix: "kg"
+        value: 21.8
+      - title: Énergie
+        text: soit l’équivalent de 364km en voiture électrique
+        value: 57
+        suffix: "kWh"
+        limit: 100
   - type: informations
     column: 3
     background: false
@@ -140,27 +119,6 @@ blocks:
         icon: globe-europe-africa
         text: En ayant un site web non énergivore vous réduirez considérablement votre
           impact environnemental.
-  - type: images
-    title: Comparaison des espaces d’administration
-    text: D’un côté un admin compliqué et parasité par des fonctionnalités inutiles
-      au cabinet. De l’autre coté un admin dédié et simplifié pour le cabinet Le
-      52.
-    background: false
-    images:
-      - src: /images/uploads/le52-screenshot-home-wordpress.png
-        legend: Admin Wordpress de l’ancien site
-        half: true
-      - src: /images/uploads/le52-screenshot-home-lawyerify.png
-        legend: Admin Lawyerify dédié au cabinet Le 52
-        half: true
-  - type: quote
-    text: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
-      à jour du contenu de notre site Internet »
-    author:
-      title: Me Joseph Hazan
-      text: Cabinet d’avocats Le 52
-      image:
-        src: /images/uploads/le52-joseph-hazan.jpg
   - type: datas
     title: Analyse du nouveau site du cabinet
     text: Grâce à Lawyerify, tous les voyants sont au vert !
@@ -185,50 +143,153 @@ blocks:
         limit: 100
         suffix: "%"
   - type: datas
+    title: Et son impact environnemental 
+    text: Même critère de test que pour l'ancien site
     column: 4
     show_color: false
     show_gauge: false
-    title: Un site web optimisé et sobre
-    text: Les images et les assets sont optimisées pour peser le moins lourd possible.
     items:
-      - title: fichiers JS chargés
-        value: 3
-      - title: JS chargés
-        value: 68.3
-        suffix: Ko
-      - title: fichiers CSS chargés
-        value: 2
-      - title: CSS chargés
-        value: 16.4
-        suffix: Ko
-      - title: requêtes à l’arrivée
-        value: 10
-      - title: transférés à l’arrivée
-        value: 323
-        suffix: Ko
-      - title: requêtes au total
-        value: 28
-      - title: transférés au total
-        value: 779
-        suffix: Ko
-  - type: datas
-    column: 2
-    show_color: false
-    show_gauge: false
-    title: Un site web deux fois plus rapide !
-    text: Tests effectués en simulant une connexion 3G rapide sur Moto G4
-    items:
-      - title: Temps de chargement à l’arrivée
-        value: 1.41
-        suffix: s
-      - title: Temps de chargement total
-        value: 3.70
-        suffix: s
-  - type: figure
+      - title: CO2
+        text: autant que l'eau bouillante pour 1298 tasses de thé
+        limit: 100
+        suffix: "kg"
+        value: 9.58
+      - title: Énergie
+        text: soit l’équivalent de 160km en voiture électrique
+        value: 25
+        suffix: "kWh"
+        limit: 100
+  - type: quote
+    text: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
+      à jour du contenu de notre site Internet »
+    author:
+      title: Me Joseph Hazan
+      text: Cabinet d’avocats Le 52
+      image:
+        src: /images/uploads/le52-joseph-hazan.jpg
+  - type: images
+    title: Comparaison des espaces d’administration
+    text: D’un côté un admin compliqué et parasité par des fonctionnalités inutiles
+      au cabinet. De l’autre coté un admin dédié et simplifié pour le cabinet Le
+      52.
+    background: false
+    images:
+      - src: /images/uploads/le52-screenshot-home-wordpress.png
+        legend: Admin Wordpress de l’ancien site
+        half: true
+      - src: /images/uploads/le52-screenshot-home-lawyerify.png
+        legend: Admin Lawyerify dédié au cabinet Le 52
+        half: true
+  - type: title
+    title: Comparaison des deux sites
+    text: Pour sensiblement les mêmes besoins et design, voici la comparaison chiffrée des deux sites grâce aux données de Google Lighthouse et Website carbon calculator
+  - type: chart
+    text: Octets téléchargés (en Ko), à chaque visite.
+    chart:
+      type: bar
+      data:
+        lang: JSON
+        json: |-
+          {
+            labels: [
+              'JS chargé',
+              'CSS chargé',
+              'transférés à l’arrivée',
+              'transférés au total'
+            ],
+            datasets: [{
+              label: 'Wordpress',
+              data: [443, 40.8, 402, 1200],
+              fill: true,
+              backgroundColor: '#0675c4'
+            }, {
+              label: 'Lawyerify',
+              data: [68.3, 16.4, 323, 779],
+              fill: true,
+              backgroundColor: '#060C84'
+            }]
+          };
+    grid: medium
+  - type: chart
+    text: Nombre de fichiers et de requêtes, à chaque visite.
+    chart:
+      type: bar
+      data:
+        lang: JSON
+        json: |-
+          {
+            labels: [
+              'fichiers JS chargés',
+              'fichiers CSS chargés',
+              'requêtes à l’arirvée',
+              'requêtes au total'
+            ],
+            datasets: [{
+              label: 'Wordpress',
+              data: [16, 8, 19, 78],
+              backgroundColor: '#0675c4'
+            }, {
+              label: 'Lawyerify',
+              data: [3, 2, 10, 28],
+              backgroundColor: '#060C84'
+            }]
+          };
+    grid: medium
+  - type: chart
+    text: Vitesse de chargement sur mobile (en seconde)
+    chart:
+      type: bar
+      data:
+        lang: JSON
+        json: |-
+          {
+            labels: [
+              'Temps de chargement',
+              'Temps de chargement total'
+            ],
+            datasets: [{
+              label: 'Wordpress',
+              data: [2.23,7.88],
+              backgroundColor: '#0675c4'
+            }, {
+              label: 'Lawyerify',
+              data: [1.41,3.70],
+              backgroundColor: '#060C84'
+            }]
+          };
     grid: small
-    figure:
-      src: /images/uploads/le52-screenshot-website.png
+  - type: chart
+    text: Empreinte carbone (sur 1 an, avec 10000 pages vues par mois)
+    chart:
+      type: bar
+      data:
+        lang: JSON
+        json: |-
+          {
+            labels: [
+              'CO2',
+              'Kwh'
+            ],
+            datasets: [{
+              label: 'Wordpress',
+              data: [21.8,57],
+              backgroundColor: '#0675c4'
+            }, {
+              label: 'Lawyerify',
+              data: [9.58,25],
+              backgroundColor: '#060C84'
+            }]
+          };
+    grid: small
+  - type: quote
+    text: « Un cas d’étude simple qui nous permet de constater qu'avec Lawyerify on a un site deux fois plus rapide et deux fois moins énergivore tout en gardant le même design et contenu »
+    author:
+      title: Sébastien Moulène
+      text: Lawyerify
+      image:
+        src: /images/uploads/sebastien-moulene.jpg
   - type: cta
+    title: Bonne visite !
     cta:
       text: Découvrez le site web du cabinet 52
       url: https://www.le52-avocats.com/
