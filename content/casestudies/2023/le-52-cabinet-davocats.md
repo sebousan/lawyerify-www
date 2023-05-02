@@ -55,7 +55,7 @@ blocks:
       src: /images/uploads/le52-screenshot-category-wordpress.png
     direction: ltr
   - type: quote
-    text: « L’insécurité et les spams de notre ancienne solution nous permettaient pas de garantir un contenu sérieux en ligne  »
+    quote: « L’insécurité et les spams de notre ancienne solution nous permettaient pas de garantir un contenu sérieux en ligne  »
     author:
       title: Me Sophie Rey-Gascon
       text: Cabinet d’avocats Le 52
@@ -160,7 +160,7 @@ blocks:
         suffix: "kWh"
         limit: 100
   - type: quote
-    text: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
+    quote: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
       à jour du contenu de notre site Internet »
     author:
       title: Me Joseph Hazan
@@ -170,8 +170,7 @@ blocks:
   - type: images
     title: Comparaison des espaces d’administration
     text: D’un côté un admin compliqué et parasité par des fonctionnalités inutiles
-      au cabinet. De l’autre coté un admin dédié et simplifié pour le cabinet Le
-      52.
+      au cabinet. De l’autre coté un admin dédié et simplifié pour le cabinet Le 52.
     background: false
     images:
       - src: /images/uploads/le52-screenshot-home-wordpress.png
@@ -282,7 +281,7 @@ blocks:
           };
     grid: small
   - type: quote
-    text: « Un cas d’étude simple qui nous permet de constater qu'avec Lawyerify on a un site deux fois plus rapide et deux fois moins énergivore tout en gardant le même design et contenu »
+    quote: « Un cas d’étude simple qui nous permet de constater qu'avec Lawyerify on a un site deux fois plus rapide et deux fois moins énergivore tout en gardant le même design et contenu »
     author:
       title: Sébastien Moulène
       text: Lawyerify
