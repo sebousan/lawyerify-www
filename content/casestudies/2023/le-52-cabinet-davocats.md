@@ -18,7 +18,7 @@ blocks:
       « Le 52 » est un cabinet exclusivement dédié à la défense pénale.
 
 
-      Tous formés aux côtés de pénalistes de renom et animés d’une passion commune pour la défense, Morgane Le Hir, Joseph Hazan, Sophie Rey-Gascon et Margot Pugliese, ont souhaité fonder une structure qui se consacre quotidiennement à tous les domaines du droit pénal : droit pénal général, droit pénal des affaires, droit pénal fiscal, droit pénal international, droit pénal de l’environnement, droit de la presse…
+      Tous formés aux côtés de pénalistes de renom et animés d’une passion commune pour la défense, Morgane Le Hir, Joseph Hazan, Sophie Rey-Gascon et Margot Pugliese, ont souhaité fonder une structure qui se consacre quotidiennement à tous les domaines du droit pénal.
     grid: medium
     align: center
     offset: center
@@ -55,7 +55,7 @@ blocks:
       src: /images/uploads/le52-screenshot-category-wordpress.png
     direction: ltr
   - type: quote
-    text: « L’insécuritué chronique de notre ancienne solution nous pesait »
+    text: « L’insécurité et les spams de notre ancienne solution nous permettaient pas de garantir un contenu sérieux en ligne  »
     author:
       title: Me Sophie Rey-Gascon
       text: Cabinet d’avocats Le 52

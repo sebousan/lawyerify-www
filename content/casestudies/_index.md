@@ -1,6 +1,6 @@
 ---
 isIndex: true
-draft: true
+draft: false
 title: Les études de cas
 url: /etudes-de-cas
 image:

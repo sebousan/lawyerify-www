@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "article",
       "blockquote",
       "body",
       "br",
@@ -36,6 +37,7 @@
       "span",
       "strong",
       "svg",
+      "time",
       "title",
       "ul"
     ],
@@ -61,6 +63,8 @@
       "btn-menu",
       "btn-primary",
       "card",
+      "casestudies",
+      "casestudy",
       "circle",
       "circle-bg",
       "col-md-6",
@@ -113,6 +117,7 @@
       "previous",
       "quote",
       "row",
+      "section-casestudies",
       "section-contact",
       "section-les-avantages",
       "section-les-fonctionnalites",
