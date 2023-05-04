@@ -13,7 +13,7 @@ hero:
 ---
 
 ## Création d’un ou plusieurs cabinets
-La solution vous permet de créer votre cabinet mais aussi d’en créer plusieurs si nécessaire. Vous pourrez ainsi présenter clairement tous les informations nécessaire et les contacts pour vous joindre.
+La solution vous permet de créer votre cabinet mais aussi d’en créer plusieurs si nécessaire. Vous pourrez ainsi présenter clairement tous les informations nécessaires et les contacts pour vous joindre.
 
 {{< figure src="/images/uploads/admin-cabinets.png" legend="Dashboard des cabinets" >}}
 
