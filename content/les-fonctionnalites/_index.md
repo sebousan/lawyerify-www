@@ -41,7 +41,7 @@ blocks:
   - type: editorial
     direction: ltr
     title: Mettre en avant votre actualité et parutions presse
-    text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoit vers les sites web source.
+    text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoient vers les sites web source.
     image:
       src: /images/uploads/144.Paperboy.svg
     # cta:
