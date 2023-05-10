@@ -79,7 +79,7 @@ blocks:
       - title: Meilleures pratiques
         value: 92
         suffix: "%"
-        limit: 99
+        limit: 100
       - title: Référencement (SE0)
         value: 100
         suffix: "%"

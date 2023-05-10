@@ -18,9 +18,7 @@ blocks:
     title: Un CMS orienté métier
     text: >-
       Grâce à son espace administration dédié aux cabinets d’avocats, la mise à
-      jour de contenu est grandement facilité.
-
-      Que vous ayez des associés, collaborateurs, juristes…
+      jour de contenu est grandement facilité. Que vous ayez des associés, collaborateurs, juristes…
     image:
       src: /images/uploads/123.Website-builder.svg
     cta:
@@ -29,9 +27,7 @@ blocks:
   - type: editorial
     direction: ltr
     title: Performance optimale grâce à un site web éco-conçu
-    text: L’éco-conception est un des enjeux des prochaines années, nous vous
-      expliquons pourquoi cette façon de concevoir permet d’avoir des sites web
-      performant et ultra-rapide.
+    text: L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites web performant et ultra-rapide.
     cta:
       text: En savoir plus sur l’éco-conception
       url: /les-avantages/eco-conception
@@ -40,9 +36,7 @@ blocks:
   - type: editorial
     direction: rtl
     title: Sécurité maximale
-    text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la
-      technique Jamstack, il n'y a donc pas de langage serveur, ni de base de
-      données, donc aucun risque d’hacking par la couche applicative.
+    text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la technique Jamstack, il n'y a donc pas de langage serveur, ni de base de données, donc aucun risque d’hacking par la couche applicative.
     image:
       src: /images/uploads/37.Password.svg
     cta:

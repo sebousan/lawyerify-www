@@ -32,8 +32,8 @@ Netlify offre une solution simple et efficace pour générer et déployer des si
 
 {{< blank_link link="https://www.netlify.com" text="En savoir plus sur Netlify" >}}
 
-## Netlify CMS
+## Decap CMS
 
-Netlify CMS est un outil qui permet de gérer facilement le contenu d'un site web statique directement depuis l'interface de Netlify. Il s'intègre parfaitement avec les sites déployés sur Netlify et offre une interface intuitive pour les utilisateurs qui n'ont pas besoin d'avoir des compétences en développement pour mettre à jour le contenu de leur site web. Cela permet aux utilisateurs de mettre à jour leur site web en temps réel sans avoir recours à un développeur, ce qui est très pratique et efficace.
+Decap CMS (anciennement Netlify CMS) est un outil qui permet de gérer facilement le contenu d'un site web statique directement depuis l'interface de Netlify. Il s'intègre parfaitement avec les sites déployés sur Netlify et offre une interface intuitive pour les utilisateurs qui n'ont pas besoin d'avoir des compétences en développement pour mettre à jour le contenu de leur site web. Cela permet aux utilisateurs de mettre à jour leur site web en temps réel sans avoir recours à un développeur, ce qui est très pratique et efficace.
 
-{{< blank_link link="https://netlifycms.org" text="En savoir plus sur Netlify CMS" >}}
+{{< blank_link link="https://decapcms.org" text="En savoir plus sur Decap CMS" >}}
