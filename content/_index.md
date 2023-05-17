@@ -34,6 +34,12 @@ blocks:
       url: /les-fonctionnalites/
     image:
       src: /images/uploads/147.Multitasking.svg
+  - type: figure
+    grid: medium
+    offset: center
+    figure:
+      src: /images/uploads/admin-home.png
+      legend: Espace admin orienté métier
   - type: editorial
     direction: rtl
     title: Les études de cas
@@ -41,4 +47,16 @@ blocks:
       Le passage d’un CMS commun à notre outil dédié aux avocats.
     image:
       src: /images/uploads/152.Study-Group.svg
+  - type: pushes
+    column: 1
+    items:
+      - title: Le site de démonstration
+        text: Découvrez tous les blocs en situations avec différents types de contenus comme les avocats, les expertises…
+        offset: center
+        background_color: "#060C84"
+        color: "#fff"
+        cta:
+          blank: true
+          text: Découvrir la démo
+          url: https://demo.lawyerify.io
 ---
