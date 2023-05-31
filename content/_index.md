@@ -48,10 +48,10 @@ blocks:
         text: Smartphone, tablet, ordinateur portable ou de bureau…
         icon: phone
       - title: Accessible à tous
-        text: Rendre votre site seb accessible aux personnes handicapées.
+        text: Rendez votre site web accessible aux personnes handicapées.
         icon: universal-access-circle
       - title: Eco-conçu
-        text: Un site web conçu pour emettre qu'une faible émition de carbone.
+        text: Un site web conçu pour emettre qu’une faible émition de carbone.
         icon: tree
       - title: RGPD
         text: Une approche éthique permettant de s’affranchir des outils Google comme Maps, Fonts ou Analytics.
@@ -69,7 +69,7 @@ blocks:
       title: Un espace admin web orienté métier
     figure:
       src: /images/uploads/admin-home.png
-      legend: Page d’accueil de l’admin
+      legend: Page d’accueil de l’admin Lawyerify, permettant la mise à jour de votre site web
   - type: editorial
     direction: rtl
     title: Les études de cas
