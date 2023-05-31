@@ -24,16 +24,6 @@ blocks:
       url: /les-avantages/
     image:
       src: /images/uploads/111.Business-plan.svg
-  - type: editorial
-    direction: ltr
-    title: Les fonctionnalités
-    text: Création du ou des cabinets, des personnes (avocats, collaborateur,
-      juriste…), des expertises métier…
-    cta:
-      text: En savoir plus sur les fonctionnalités
-      url: /les-fonctionnalites/
-    image:
-      src: /images/uploads/147.Multitasking.svg
   - type: informations
     column: 4
     background: true
@@ -62,7 +52,18 @@ blocks:
       - title: Pérenne
         text: Un site web fait pour durer, intemporel.
         icon: clock-history
+  - type: editorial
+    direction: ltr
+    title: Les fonctionnalités
+    text: Création du ou des cabinets, des personnes (avocats, collaborateur,
+      juriste…), des expertises métier…
+    cta:
+      text: En savoir plus sur les fonctionnalités
+      url: /les-fonctionnalites/
+    image:
+      src: /images/uploads/147.Multitasking.svg
   - type: figure
+    background: true
     grid: medium
     offset: center
     heading:
