@@ -34,12 +34,42 @@ blocks:
       url: /les-fonctionnalites/
     image:
       src: /images/uploads/147.Multitasking.svg
+  - type: informations
+    column: 4
+    background: true
+    items: 
+      - title: Performant
+        text: Un site web ultra rapide pour un accès même avec une connexion faible.
+        icon: speedometer2
+      - title: Sécurisé
+        text: Pas de base de données, de plugins, de spam, de virus…
+        icon: shield-check
+      - title: Responsive
+        text: Smartphone, tablet, ordinateur portable ou de bureau…
+        icon: phone
+      - title: Accessible à tous
+        text: Rendre votre site seb accessible aux personnes handicapées.
+        icon: universal-access-circle
+      - title: Eco-conçu
+        text: Un site web conçu pour emettre qu'une faible émition de carbone.
+        icon: tree
+      - title: RGPD
+        text: Une approche éthique permettant de s’affranchir des outils Google comme Maps, Fonts ou Analytics.
+        icon: heart
+      - title: SEO friendly
+        text: Un code respectueux des standards et de la sémantique pour un réferencement naturel optimisé.
+        icon: search-heart
+      - title: Pérenne
+        text: Un site web fait pour durer, intemporel.
+        icon: clock-history
   - type: figure
     grid: medium
     offset: center
+    heading:
+      title: Un espace admin web orienté métier
     figure:
       src: /images/uploads/admin-home.png
-      legend: Espace admin orienté métier
+      legend: Page d’accueil de l’admin
   - type: editorial
     direction: rtl
     title: Les études de cas

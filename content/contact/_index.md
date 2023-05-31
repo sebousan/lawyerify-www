@@ -2,11 +2,12 @@
 isPage: true
 draft: false
 title: Contact
+description: Pour toutes informations ou intérogations concernant la solution.
 image:
   src: /images/uploads/153.Mention.svg
 hero:
   title: Contact
-  text: Pour toutes informations concernant la solution.
+  text: Pour toutes informations ou intérogations concernant la solution.
   image:
     src: /images/uploads/153.Mention.svg
 blocks:
@@ -17,6 +18,8 @@ blocks:
       url: mailto:lawyerify@uncinq.dev
       text: lawyerify@uncinq.dev
     background: false
+    heading:
+      title: Par email ?
   - type: embed
     background: false
     embed: >-
@@ -42,5 +45,6 @@ blocks:
       </script>
 
       <!-- Cal inline embed code ends -->
-    title: Ou prendre rendez-vous en ligne ?
+    heading:
+      title: Ou prendre rendez-vous en ligne ?
 ---
