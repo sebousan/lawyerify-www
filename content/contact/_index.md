@@ -12,14 +12,13 @@ hero:
     src: /images/uploads/153.Mention.svg
 blocks:
   - type: cta
-    title: Par email
     cta:
       blank: true
       url: mailto:lawyerify@uncinq.dev
       text: lawyerify@uncinq.dev
     background: false
     heading:
-      title: Par email ?
+      title: Par email
   - type: embed
     background: false
     embed: >-

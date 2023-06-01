@@ -68,6 +68,7 @@ blocks:
     offset: center
     heading:
       title: Un espace admin web orienté métier
+      text: Et parfaitement personnalisable sur mesure.
     figure:
       src: /images/uploads/admin-home.png
       legend: Page d’accueil de l’admin Lawyerify, permettant la mise à jour de votre site web
