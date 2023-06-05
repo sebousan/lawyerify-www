@@ -67,7 +67,7 @@ blocks:
     offset: center
     heading:
       title: Un espace de gestion de contenu orienté métier
-      text: Et configurable sur mesure.
+      text: Configuration sur mesure.
     figure:
       src: /images/uploads/admin-home.png
       legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à jour de votre site Web.
