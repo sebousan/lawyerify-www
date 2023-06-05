@@ -2,11 +2,12 @@
 isPage: true
 draft: false
 title: Référencement soigné
+description: La conception d’un site Web bas carbone profite au référencement. Google favorise un site Web bien conçu et rapide.
 image:
   src: /images/uploads/190.Not-Found.svg
 hero: 
   title: Référencement soigné
-  text: Le fait de concevoir un site bas carbone profite au référencement, Google mettra plus en avant un site bien conçu et rapide qu’un site lourd.
+  text: La conception d’un site Web bas carbone profite au référencement. Google favorise un site Web bien conçu et rapide.
   image:
     src: /images/uploads/190.Not-Found.svg
 ---

@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Infrastructure technique
-description: Voici en détail et en toute transparence, l'infrastructure technique de Lawyerify.
+description: Découvrez l’infrastructure technique de Lawyerify.
 image:
   src: /images/uploads/181.Nodes.svg
 hero: 
   title: Infrastructure technique
-  text: Voici en détail et en toute transparence, l'infrastructure technique de Lawyerify.
+  text: Découvrez l’infrastructure technique de Lawyerify.
   image:
     src: /images/uploads/181.Nodes.svg
 ---

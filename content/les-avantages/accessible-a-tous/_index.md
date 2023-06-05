@@ -11,7 +11,7 @@ hero:
   image:
     src: /images/uploads/150.Cubes.svg
 description: "L’accessibilité numérique consiste à rendre les services en ligne
-  accessibles aux personnes en situation de handicap. "
+  accessibles aux personnes en situation de handicap."
 ---
 ## Qu’est-ce que l’accessibilité ?
 

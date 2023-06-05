@@ -17,8 +17,8 @@ blocks:
     direction: rtl
     title: Un CMS orienté métier
     text: >-
-      Grâce à son espace administration dédié aux cabinets d’avocats, la mise à
-      jour de contenu est grandement facilité. Que vous ayez des associés, collaborateurs, juristes…
+      Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à
+      jour de contenu est facilité. Que vous ayez associés, collaborateurs…
     image:
       src: /images/uploads/123.Website-builder.svg
     cta:
@@ -36,7 +36,7 @@ blocks:
   - type: editorial
     direction: rtl
     title: Sécurité maximale
-    text: Les sites web Lawyerify sont sécurisés, parce que ces sites utilisent la technique Jamstack, il n'y a donc pas de langage serveur, ni de base de données, donc aucun risque d’hacking par la couche applicative.
+    text: Les sites web Lawyerify sont sécurisés grâce à l’utilisation de la technique Jamstack. Pas de langage serveur, ni de base de données.
     image:
       src: /images/uploads/37.Password.svg
     cta:
@@ -46,10 +46,9 @@ blocks:
     direction: ltr
     title: Accessible à tous
     text: L’accessibilité numérique consiste à rendre les services en ligne
-      accessibles aux personnes en situation de handicap. La direction
-      interministérielle du numérique (DINUM) édite le référentiel général
-      d’amélioration de l’accessibilité (RGAA) ce à quoi Lawyerify respecte au
-      plus près.
+      accessibles aux personnes en situation de handicap. Nous suivons la direction
+      interministérielle du numérique (DINUM) qui édite le référentiel général
+      d’amélioration de l’accessibilité (RGAA).
     cta:
       text: En savoir plus sur l’accessibilité
       url: /les-avantages/accessible-a-tous
@@ -58,8 +57,7 @@ blocks:
   - type: editorial
     direction: rtl
     title: Référencement soigné
-    text: Le fait de concevoir un site bas carbone profite au référencement, Google
-      mettra plus en avant un site bien conçu et rapide qu’un site lourd.
+    text: La conception d’un site Web bas carbone profite au référencement. Google favorise un site Web bien conçu et rapide.
     image:
       src: /images/uploads/190.Not-Found.svg
     cta:
@@ -68,7 +66,7 @@ blocks:
   - type: editorial
     direction: ltr
     title: Infrastructure
-    text: Voici en détail et en toute transparence, l'infrastructure technique de Lawyerify.
+    text: Découvrez l’infrastructure technique de Lawyerify.
     cta:
       text: En savoir plus sur l’infrastructure
       url: /les-avantages/infrastructure
