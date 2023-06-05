@@ -15,7 +15,7 @@ blocks:
   - type: editorial
     direction: rtl
     title: Présentation du cabinet
-    text: Ajouter un ou différents lieux et leurs informations de contact.
+    text: Lieu(x), contacts et informations.
     image:
       src: /images/uploads/174.Project.svg
     cta:
@@ -24,7 +24,7 @@ blocks:
   - type: editorial
     direction: ltr
     title: Présentation de l’équipe
-    text: Vous avez la possibilité de présenter toutes personnes composant le cabinet comme les avocats, collaborateurs…
+    text: Vous avez la possibilité de présenter chacun de vos collaborateurs…
     image:
       src: /images/uploads/183.Teaming-Up.svg
     # cta:
@@ -33,7 +33,7 @@ blocks:
   - type: editorial
     direction: rtl
     title: Les compétences et expertises du cabinet
-    text: Créez vos pages sur vos différentes compétences et expertises (droit pénal, du travail, de la famille…).
+    text: Création de pages dédiées à vos compétences et expertises (droit pénal, du travail, de la famille…).
     image:
       src: /images/uploads/148.Strategy.svg
     # cta:
@@ -42,18 +42,18 @@ blocks:
   - type: editorial
     direction: ltr
     title: Mettre en avant votre actualité et parutions presse
-    text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoient vers les sites web source.
+    text: Partagez l’actualité de votre cabinet sous la forme d’un blog ou d’une liste de publications.
     image:
       src: /images/uploads/144.Paperboy.svg
     # cta:
     #   text: En savoir plus
     #   url: /les-fonctionnalites/actualite
-  - type: editorial
-    direction: rtl
-    title: Et bien d’autres fonctionnalités à venir
-    text: Job board, annonces immobilières, …
-    image:
-      src: /images/uploads/184.Workspace.svg
+  # - type: editorial
+  #   direction: rtl
+  #   title: Et bien d’autres fonctionnalités à venir
+  #   text: Job board, annonces immobilières, …
+  #   image:
+  #     src: /images/uploads/184.Workspace.svg
     # cta:
     #   text: En savoir plus
     #   url: /les-fonctionnalites/a-venir

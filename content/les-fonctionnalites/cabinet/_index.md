@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Présentation du cabinet
-description: Ajouter un ou différents lieux et leurs informations de contact.
+description: Lieu(x), contacts et informations.
 image:
   src: /images/uploads/174.Project.svg
 hero: 
   title: Présentation du cabinet
-  text: Ajouter un ou différents lieux et leurs informations de contact.
+  text: Lieu(x), contacts et informations.
   image:
     src: /images/uploads/174.Project.svg
 ---

@@ -1,6 +1,6 @@
 ---
 isPage: true
-draft: false
+draft: true
 title: À venir
 image:
   src: /images/uploads/184.Workspace.svg
