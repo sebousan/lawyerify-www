@@ -31,7 +31,7 @@ blocks:
       quotidienne du système, de wordpress et de ses plugins.
 
 
-      Sans mise à jour de ces solutions, vous vous exposez grandement au piratage de votre site web.
+      Sans mise à jour de ces solutions, vous vous exposez grandement au piratage de votre site Web.
     background: false
     offset: start
     title: État des lieux

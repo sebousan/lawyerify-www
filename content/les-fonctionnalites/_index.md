@@ -20,7 +20,7 @@ blocks:
       src: /images/uploads/174.Project.svg
     cta:
       text: En savoir plus
-      url: /les-fonctionnalites/cabinet
+      url: /les-fonctionnalites/cabinet/
   - type: editorial
     direction: ltr
     title: Présentation de l’équipe
@@ -29,7 +29,7 @@ blocks:
       src: /images/uploads/183.Teaming-Up.svg
     # cta:
     #   text: En savoir plus
-    #   url: /les-fonctionnalites/equipe
+    #   url: /les-fonctionnalites/equipe/
   - type: editorial
     direction: rtl
     title: Les compétences et expertises du cabinet
@@ -38,7 +38,7 @@ blocks:
       src: /images/uploads/148.Strategy.svg
     # cta:
     #   text: En savoir plus
-    #   url: /les-fonctionnalites/expertises
+    #   url: /les-fonctionnalites/expertises/
   - type: editorial
     direction: ltr
     title: Mettre en avant votre actualité et parutions presse
@@ -47,14 +47,5 @@ blocks:
       src: /images/uploads/144.Paperboy.svg
     # cta:
     #   text: En savoir plus
-    #   url: /les-fonctionnalites/actualite
-  # - type: editorial
-  #   direction: rtl
-  #   title: Et bien d’autres fonctionnalités à venir
-  #   text: Job board, annonces immobilières, …
-  #   image:
-  #     src: /images/uploads/184.Workspace.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/a-venir
+    #   url: /les-fonctionnalites/actualite/
 ---

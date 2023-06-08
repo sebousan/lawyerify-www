@@ -8,11 +8,11 @@ hero:
   image:
     src: /images/uploads/205.OK.svg
   cta:
-    url: /les-avantages
+    url: /les-avantages/
     text: Découvrir les avantages
   cta_second:
     text: Découvrir les fonctionnalités
-    url: /les-fonctionnalites
+    url: /les-fonctionnalites/
 blocks:
   - type: editorial
     direction: rtl

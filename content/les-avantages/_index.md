@@ -2,14 +2,12 @@
 isPage: true
 draft: false
 title: Les avantages
-description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site
-  web performant, rapide, éco-conçu et accessible à tous."
+description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous."
 image:
   src: /images/uploads/111.Business-plan.svg
 hero:
   title: Les avantages de Lawyerify
-  text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
-    performant, rapide, éco-conçu et accessible à tous."
+  text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous."
   image:
     src: /images/uploads/111.Business-plan.svg
 blocks:
@@ -17,8 +15,7 @@ blocks:
     direction: rtl
     title: Un CMS orienté métier
     text: >-
-      Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à
-      jour de contenu est facilité. Que vous ayez associés, collaborateurs…
+      Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité. Que vous ayez associés, collaborateurs…
     image:
       src: /images/uploads/123.Website-builder.svg
     cta:
@@ -26,22 +23,22 @@ blocks:
       text: En savoir plus sur le CMS
   - type: editorial
     direction: ltr
-    title: Performance optimale grâce à un site web éco-conçu
-    text: L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites web performant et ultra-rapide.
+    title: Performance optimale grâce à un site Web éco-conçu
+    text: L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites Web performant et ultra-rapide.
     cta:
       text: En savoir plus sur l’éco-conception
-      url: /les-avantages/eco-conception
+      url: /les-avantages/eco-conception/
     image:
       src: /images/uploads/179.Planet.svg
   - type: editorial
     direction: rtl
     title: Sécurité maximale
-    text: Les sites web Lawyerify sont sécurisés grâce à l’utilisation de la technique Jamstack. Pas de langage serveur, ni de base de données.
+    text: Les sites Web Lawyerify sont sécurisés grâce à l’utilisation de la technique Jamstack. Pas de langage serveur, ni de base de données.
     image:
       src: /images/uploads/37.Password.svg
     cta:
       text: En savoir plus sur la sécurité
-      url: /les-avantages/securite-maximale
+      url: /les-avantages/securite-maximale/
   - type: editorial
     direction: ltr
     title: Accessible à tous
@@ -51,7 +48,7 @@ blocks:
       d’amélioration de l’accessibilité (RGAA).
     cta:
       text: En savoir plus sur l’accessibilité
-      url: /les-avantages/accessible-a-tous
+      url: /les-avantages/accessible-a-tous/
     image:
       src: /images/uploads/150.Cubes.svg
   - type: editorial
@@ -62,14 +59,14 @@ blocks:
       src: /images/uploads/190.Not-Found.svg
     cta:
       text: En savoir plus sur le référencement
-      url: /les-avantages/referencement-soigne
+      url: /les-avantages/referencement-soigne/
   - type: editorial
     direction: ltr
     title: Infrastructure
     text: Découvrez l’infrastructure technique de Lawyerify.
     cta:
       text: En savoir plus sur l’infrastructure
-      url: /les-avantages/infrastructure
+      url: /les-avantages/infrastructure/
     image:
       src: /images/uploads/181.Nodes.svg
 ---
