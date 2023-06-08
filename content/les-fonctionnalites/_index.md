@@ -27,9 +27,9 @@ blocks:
     text: Vous avez la possibilité de présenter chacun de vos collaborateurs…
     image:
       src: /images/uploads/183.Teaming-Up.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/equipe/
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/equipe/
   - type: editorial
     direction: rtl
     title: Les compétences et expertises du cabinet
