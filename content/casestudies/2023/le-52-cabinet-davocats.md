@@ -203,7 +203,7 @@ blocks:
               backgroundColor: '#0675c4'
             }, {
               label: 'Lawyerify',
-              data: [68.3, 16.4, 323, 779],
+              data: [68.3, 13.3, 323, 779],
               fill: true,
               backgroundColor: '#060C84'
             }]
