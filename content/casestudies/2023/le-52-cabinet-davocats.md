@@ -3,12 +3,12 @@ isIndex: false
 draft: false
 date: 2023-07-02T19:34:08.410Z
 title: Le 52, cabinet d’avocats
-description: Cabinet exclusivement dédié à la défense pénale à Paris
+description: Migration d’un site Wordpress vers Lawyerify
 image:
   src: /images/uploads/le52-logo.svg
 hero:
   surtitle: Étude de cas
-  title: "Le 52, Migration d’un site Wordpress vers Lawyerify"
+  title: Le 52, Migration d’un site Wordpress vers Lawyerify
   image:
     src: /images/uploads/le52-logo.svg
 blocks:
