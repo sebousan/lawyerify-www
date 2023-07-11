@@ -4,6 +4,8 @@ draft: false
 date: 2023-07-02T19:34:08.410Z
 title: Le 52, cabinet d’avocats
 description: Migration d’un site Wordpress vers Lawyerify
+seo:
+  image: /images/uploads/le52-share.png
 image:
   src: /images/uploads/le52-logo.svg
 hero:
