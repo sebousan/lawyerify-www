@@ -73,6 +73,16 @@ blocks:
       legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à jour de votre site Web.
   - type: editorial
     direction: rtl
+    title: Le site example
+    text: Naviguez sur notre site de démonstration pour décourvir les différents types de contenus.
+    cta:
+      text: Décourvir le site example
+      url: https://demo.lawyerify.io
+      blank: true
+    image:
+      src: /images/uploads/160.Movie-Time.svg
+  - type: editorial
+    direction: ltr
     title: Les études de cas
     text: Découvrez les migrations de site Web de nos clients que nous avons réalisés.
     cta:
@@ -83,14 +93,12 @@ blocks:
   - type: pushes
     column: 1
     items:
-      - title: Le site de démonstration
-        text: Découvrez tous les blocs en situations avec différents types de contenus comme les avocats, les expertises…
-        text: Naviguez sur notre site de démonstration pour décourvir les différents types de contenus.
+      - title: Prenez contact avec nous
+        text: N’hésitez pas à nous contacter pour parler de votre projet ou planifier une démonstration de la solution.
         offset: center
         background_color: "#060C84"
         color: "#fff"
         cta:
-          blank: true
-          text: Découvrir la démo
-          url: https://demo.lawyerify.io
+          text: Contactez-nous
+          url: /contact/
 ---
