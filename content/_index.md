@@ -73,10 +73,10 @@ blocks:
       legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à jour de votre site Web.
   - type: editorial
     direction: rtl
-    title: Le site example
+    title: Le site exemple
     text: Naviguez sur notre site de démonstration pour décourvir les différents types de contenus.
     cta:
-      text: Décourvir le site example
+      text: Décourvir le site exemple
       url: https://demo.lawyerify.io
       blank: true
     image:
