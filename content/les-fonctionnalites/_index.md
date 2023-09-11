@@ -36,16 +36,16 @@ blocks:
     text: Création de pages dédiées à vos compétences et expertises (droit pénal, du travail, de la famille…).
     image:
       src: /images/uploads/148.Strategy.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/expertises/
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/expertises/
   - type: editorial
     direction: ltr
     title: Mettre en avant votre actualité et parutions presse
-    text: Partagez l’actualité de votre cabinet sous la forme d’un blog ou d’une liste de publications.
+    text: Partagez l’actualité de votre cabinet sous la forme d’un blog ou d’une liste de parutions.
     image:
       src: /images/uploads/144.Paperboy.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/actualite/
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/actualite-parutions/
 ---

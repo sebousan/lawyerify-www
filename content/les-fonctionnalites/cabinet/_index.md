@@ -17,13 +17,13 @@ La solution vous permet de créer votre cabinet mais aussi d’en créer plusieu
 
 {{< figure src="/images/uploads/admin-cabinets.png" legend="Dashboard des cabinets" >}}
 
-## Information générales
+### Information générales
 Titre, description, image par défaut, contenu…\
 Voir ci-après le détail de l'édition de l’adresse et du contact.
 
 {{< figure src="/images/uploads/admin-cabinet.png" legend="Edition d’un cabinet" >}}
 
-## Adresse
+### Adresse
 L’adresse postale en détail :
 * Numéro et nom de rue  
 * Code postal
@@ -32,7 +32,7 @@ L’adresse postale en détail :
 
 {{< figure src="/images/uploads/admin-address.png" >}}
 
-## Contact
+### Contact
 Vous pouvez ajouter différents types de contact pour votre cabinet, actuellement les champs de saisis possibles sont :
 * Email  
 * Numéro de téléphone

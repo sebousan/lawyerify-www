@@ -7,6 +7,8 @@ hero:
   title: Créez le site Web de votre cabinet d’avocats sécurisé, rapide et accessible à tous.
   image:
     src: /images/uploads/205.OK.svg
+  image_2:
+    src: /images/uploads/website.png
   cta:
     url: /les-avantages/
     text: Découvrir les avantages
@@ -46,7 +48,7 @@ blocks:
       - title: RGPD
         text: Une approche éthique permettant de s’affranchir des outils Google comme Maps, Fonts ou Analytics.
         icon: heart
-      - title: SEO friendly
+      - title: Référencement
         text: Un code respectueux des standards et de la sémantique pour un réferencement naturel optimisé.
         icon: search-heart
       - title: Pérenne

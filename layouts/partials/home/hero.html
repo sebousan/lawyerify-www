@@ -1,0 +1,85 @@
+{{ with .Params.hero }}
+{{ if or (and (.title) (ne .title "")) (and (.text) (ne .text "")) }}
+{{ $class := "hero" }}
+{{ with .align }}
+  {{ $class = printf "%s hero-%s" $class . }}
+{{ end }}
+{{ with .image }}
+  {{ $class = printf "%s hero-with-image" $class }}
+{{ end }}
+<header class="{{ $class }}"{{ partial "func/SetAnim" (dict "element" "hero") }}>
+  <div class="container">
+    <div class="row">
+
+      <div class="hero-content">
+        {{ with .surtitle }}
+          <p class="surtitle">{{ partial "func/PrepareHTML" . }}</h1>
+        {{ end }}
+        {{ with .title }}
+          <h1>{{ partial "func/PrepareHTML" . }}</h1>
+        {{ end }}
+        {{ with .text }}
+          <div class="description">
+            {{ if in (string .) "\n" }}
+              {{ partial "func/PrepareHTML" . | markdownify }}
+            {{ else }}
+              <p>{{ partial "func/PrepareHTML" . | markdownify }}</p>
+            {{ end }}
+          </div>
+        {{ end }}
+        {{ if partial "func/HasCTA" . }}
+          {{ $hasCTA_second := false }}
+          {{ if isset . "cta_second" }}
+            {{ if isset .cta_second "text" }}
+                {{ if ne .cta_second.text "" }}
+                    {{ $hasCTA_second = true }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+          <div class="cta" {{ if $hasCTA_second }}role="group"{{ end }}>
+            {{ with .cta }}
+              {{ partial "commons/cta.html" . }}
+            {{ end }}
+            {{ with .cta_second }}
+              {{ partial "commons/cta.html" . }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+
+      {{ with .image }}
+        {{ if ne .background_image true }}
+          <div class="hero-media">
+            {{ $desktop := site.Params.hero.desktop }}
+            {{ $mobile := site.Params.hero.mobile }}
+            {{ partial "commons/image.html" (dict
+                "src" .src
+                "alt" .alt
+                "desktop" $desktop
+                "mobile" $mobile
+                "lazy" false
+            ) }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+      {{ with .image_2 }}
+        {{ if ne .background_image true }}
+          <div class="hero-media">
+            {{ $mobile := site.Params.hero.mobile }}
+            {{ partial "commons/image.html" (dict
+                "src" .src
+                "alt" .alt
+                "desktop" "526x"
+                "mobile" $mobile
+                "lazy" false
+            ) }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</header>
+{{ end }}
+{{ end }}
