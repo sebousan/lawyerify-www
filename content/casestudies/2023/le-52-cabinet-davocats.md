@@ -67,14 +67,14 @@ blocks:
     image:
       src: /images/uploads/le52-screenshot-category-wordpress.png
     direction: ltr
-  - type: quote
-    background: true
-    quote: « L’insécurité et les spams de notre ancienne solution ne nous permettaient pas de garantir un contenu sérieux en ligne  »
-    author:
-      title: Me Sophie Rey-Gascon
-      text: Cabinet d’avocats Le 52
-      image:
-        src: /images/uploads/le52-sophie-rey-gascon.jpg
+#  - type: quote
+#    background: true
+#    quote: « L’insécurité et les spams de notre ancienne solution ne nous permettaient pas de garantir un contenu sérieux en ligne  »
+#    author:
+#      title: Me Sophie Rey-Gascon
+#      text: Cabinet d’avocats Le 52
+#      image:
+#        src: /images/uploads/le52-sophie-rey-gascon.jpg
   - type: datas
     heading:
       title: Analyse de l’ancien site du cabinet
@@ -191,15 +191,15 @@ blocks:
       - src: /images/uploads/le52-screenshot-home-lawyerify.png
         legend: Admin Lawyerify dédié au cabinet Le 52
         half: true
-  - type: quote
-    quote: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
-      à jour du contenu de notre site Internet. »
-    background: true
-    author:
-      title: Me Joseph Hazan
-      text: Cabinet d’avocats Le 52
-      image:
-        src: /images/uploads/le52-joseph-hazan.jpg
+#  - type: quote
+#    quote: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
+#      à jour du contenu de notre site Internet. »
+#    background: true
+#    author:
+#      title: Me Joseph Hazan
+#      text: Cabinet d’avocats Le 52
+#      image:
+#        src: /images/uploads/le52-joseph-hazan.jpg
   - type: title
     heading:
       title: Comparaison technique des deux sites
