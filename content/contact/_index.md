@@ -15,10 +15,14 @@ blocks:
     cta:
       blank: true
       url: mailto:lawyerify@uncinq.dev
-      text: lawyerify@uncinq.dev
+      text: email à lawyerify@uncinq.dev
+    cta_second:
+      blank: true
+      url: "tel:+33678858604"
+      text: téléphone au 06 78 85 86 04
     background: false
     heading:
-      title: Par email
+      title: Simplement par
   - type: embed
     background: false
     embed: >-
