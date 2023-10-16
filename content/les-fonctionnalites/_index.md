@@ -48,4 +48,13 @@ blocks:
     cta:
       text: En savoir plus
       url: /les-fonctionnalites/actualite-parutions/
+  - type: editorial
+    direction: rtl
+    title: Ventes aux enchères
+    text: Présentez les ventes immobilières dont le cabinet est responsable.
+    image:
+      src: /images/uploads/188.Buildings.svg
+    # cta:
+    #   text: En savoir plus
+    #   url: /les-fonctionnalites/ventes-immobilieres/
 ---
