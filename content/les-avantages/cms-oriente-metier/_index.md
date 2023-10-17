@@ -2,7 +2,7 @@
 isPage: true
 draft: false
 title: CMS orienté métier
-description: Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité. Que vous ayez associés, collaborateurs…
+description: Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité.
 image:
   src: /images/uploads/123.Website-builder.svg
 hero:
@@ -10,7 +10,7 @@ hero:
   image:
     src: /images/uploads/123.Website-builder.svg
   text: Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à
-      jour de contenu est facilité. Que vous ayez associés, collaborateurs…
+      jour de contenu est facilité.
 ---
 
 ## Espace admin

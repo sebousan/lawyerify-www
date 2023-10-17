@@ -15,7 +15,7 @@ blocks:
     direction: rtl
     title: Un CMS orienté métier
     text: >-
-      Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité. Que vous ayez associés, collaborateurs…
+      Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité.
     image:
       src: /images/uploads/123.Website-builder.svg
     cta:
