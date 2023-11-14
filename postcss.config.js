@@ -8,6 +8,7 @@ module.exports = {
         '@fullhuman/postcss-purgecss': {
             mode: 'all',
             content: ['./hugo_stats.json'],
+            dynamicAttributes: ['aria-current', 'href', 'role'],
             safelist: {
                 standard: [
                     'show',
@@ -19,10 +20,6 @@ module.exports = {
                 ],
                 deep: [
                     /^tobii/
-                ],
-                greedy: [
-                    /^aria-current$/,
-                    /^role$/
                 ]
             },
             defaultExtractor: (content) => {
