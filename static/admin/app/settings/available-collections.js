@@ -1,9 +1,5 @@
-export const availableCollections = [
-    // 'posts',
-    // 'categories',
-    // 'authors',
-    // 'projects',
-    // 'types',
-    'casestudies',
-    // 'publications'
-];
+import casestudies from '../content/casestudies.js'
+
+export default [
+    casestudies
+]

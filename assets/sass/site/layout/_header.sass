@@ -1,0 +1,41 @@
+header[role="banner"]
+    .dropdown-menu
+        --bs-dropdown-padding-x: 0
+        --bs-dropdown-padding-y: 0
+        li
+            border-radius: var(--bs-dropdown-border-radius)
+            padding: var(--bs-dropdown-item-padding-x)
+            position: relative
+        a
+            @extend .stretched-link
+            --bs-nav-link-font-size: 1rem
+            font-weight: $font-weight-bold
+            padding: 0
+        p
+            color: $gray-800
+            font-size: px2rem(14)
+            margin-bottom: 0
+        @include media-breakpoint-up(md)
+            --bs-dropdown-border-radius: 1rem
+            --bs-dropdown-padding-x: .5rem
+            --bs-dropdown-padding-y: .5rem
+            min-width: 320px
+            li
+                &:hover
+                    background-color: $light
+    @include media-breakpoint-down(md)
+        .nav
+            align-items: flex-start
+            text-align: left
+        .dropdown
+            display: block
+            width: 100%
+        .dropdown-toggle
+            display: none
+        .dropdown-menu
+            --bs-dropdown-border-width: 0
+            display: block
+            position: static
+            li
+                background-color: $light
+        
