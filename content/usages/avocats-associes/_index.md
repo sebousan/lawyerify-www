@@ -2,7 +2,7 @@
 isPage: true
 draft: false
 title: Avocats associés
-description: Vos domaines d’expertises et la présentation de votre cabinet ainsi que les différents membres (associés, collaborateurs…).
+description: Vos domaines d’expertises et la présentation de votre cabinet ainsi que les différents membres.
 image:
   src: /images/uploads/194.High-Five.svg
 hero:
