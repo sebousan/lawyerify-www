@@ -34,6 +34,7 @@ blocks:
     heading:
       surtitle: Conception
       title: Un site Web de grande qualité !
+      text: Développé en collaboration avec des avocats.
     items:
       - title: Ultra rapide
         text: Un site Web très rapide pour un accès même avec une connexion faible.
