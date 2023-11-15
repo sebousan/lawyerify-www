@@ -10,7 +10,7 @@ links:
         url: /usages/avocats-associes/
       - title: Multi-cabinets
         text: Plusieurs cabinets de plusieurs personnes
-        url: /usages/grand-cabinet/
+        url: /usages/multi-cabinets/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
     links:
@@ -18,33 +18,34 @@ links:
         text: Présentation du cabinet ou des cabinet
         url: /les-fonctionnalites/cabinet/
       - title: L’équipe
-        text: Présentez toutes les personnes qui composent votre cabinet
+        text: Toutes les personnes qui composent votre cabinet
         url: /les-fonctionnalites/equipe/
       - title: Expertises
         text: Présentez en détail vos compétences
         url: /les-fonctionnalites/expertises/
       - title: Actualité
-        text: Mettez en avant l’actualité et les parutions presse de votre cabinet
+        text: Mettez en avant l’actualité et les parutions
         url: /les-fonctionnalites/actualite-parutions/
   - title: Avantages
     url: /les-avantages/
     links:
       - title: CMS orienté métier
-        text: Content Management System soit l’éditeur de contenu
+        text: L’éditeur de contenu ultra simple
         url: /les-avantages/cms-oriente-metier/
       - title: Performance optimale
         text: Grâce à un site Web éco-conçu !
         url: /les-avantages/eco-conception/
       - title: Sécurité maximale
+        text: Pas de piratage possible
         url: /les-avantages/securite-maximale/
       - title: Accessible à tous
         text: Même aux personnes en situation de handicap
         url: /les-avantages/accessibilite-a-tous/
       - title: Référencement soigné
-        text: Google favorise un site Web bien conçu et rapide
+        text: Google favorise un site Web bien conçu
         url: /les-avantages/referencement-soigne/
-      - title: Infrastructure
-        text: Découvrez l’infrastructure technique de Lawyerify
+      - title: Infrastructure moderne
+        text: Découvrez l’infrastructure technique
         url: /les-avantages/infrastructure/
   - title: Contact
     url: /contact/
