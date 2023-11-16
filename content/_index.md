@@ -42,21 +42,21 @@ blocks:
       - title: Beaucoup plus sûr
         text: Pas de piratage, pas de spam, pas de virus…
         icon: shield-check
+      - title: Responsive
+        text: Smartphone, tablet, ordinateur portable ou de bureau…
+        icon: phone
+      - title: Plus visible sur Google
+        text: Réferencement naturel optimisé grâce aux bonnes pratiques.
+        icon: search-heart
       - title: Accessible à tous
         text: Rendez votre site Web accessible aux personnes handicapées.
         icon: universal-access-circle
       - title: Eco-conçu
         text: Un site Web conçu pour générer qu’une faible émition de carbone.
         icon: tree
-      - title: Responsive
-        text: Smartphone, tablet, ordinateur portable ou de bureau…
-        icon: phone
       - title: Conforme RGPD
         text: Pas de cookie et une approche éthique permettant de s’affranchir des outils Google.
         icon: heart
-      - title: Plus visible sur Google
-        text: Réferencement naturel optimisé.
-        icon: search-heart
       - title: Pérenne
         text: Un site Web fait pour durer, intemporel.
         icon: clock-history
@@ -118,16 +118,13 @@ blocks:
       url: /etudes-de-cas/
     image:
       src: /images/uploads/152.Study-Group.svg
-  - type: pushes
-    column: 1
-    items:
-      - title: Prenez contact avec nous
-        text: N’hésitez pas à nous contacter pour parler de votre projet ou planifier
-          une démonstration de la solution.
-        offset: center
-        background_color: "#060C84"
-        color: "#fff"
-        cta:
-          text: Contactez-nous
-          url: /contact/
+  - type: cta
+    background: true
+    heading:
+      title: Prenez contact avec nous
+      text: N’hésitez pas à nous contacter pour parler de votre projet ou planifier
+        une démonstration de la solution.
+    cta:
+      text: Contactez-nous
+      url: /contact/
 ---
