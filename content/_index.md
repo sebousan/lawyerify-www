@@ -55,7 +55,7 @@ blocks:
     background: true
     heading:
       surtitle: Pour qui ?
-      title: Avocat indépendant, avocats associés, cabinet d’avocats international
+      title: Pour tous les avocats !
     items:
       - Avocat indépendant
       - Avocats associés
