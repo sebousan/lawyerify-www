@@ -38,8 +38,8 @@ blocks:
     offset: center
     grid: medium
     heading:
-      surtitle: En toute simplicité
-      title: Comment gérer le contenu de votre site Web ?
+      surtitle: Editeur de contenu dédié
+      title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
       src: /images/uploads/admin-independant.png
       legend: Page d’accueil de votre éditeur de contenu

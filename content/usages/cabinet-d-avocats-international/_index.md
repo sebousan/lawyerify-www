@@ -1,12 +1,12 @@
 ---
 isPage: true
 draft: false
-title: Multi-cabinets
+title: Cabinet d’avocats international
 description: Tous vos cabinets et vos équipes, votre actualié, vos parutions, en français ou en plusieurs langues.
 image:
   src: /images/uploads/183.Teaming-Up.svg
 hero:
-  title: Multi-cabinets
+  title: Cabinet d’avocats international
   text: Présentez tous vos cabinets et vos équipes, votre actualié, vos parutions, en français ou en plusieurs langues.
   image:
     src: /images/uploads/183.Teaming-Up.svg
@@ -47,8 +47,8 @@ blocks:
     offset: center
     grid: medium
     heading:
-      surtitle: En toute simplicité
-      title: Comment gérer le contenu de votre site Web ?
+      surtitle: Editeur de contenu dédié
+      title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
       src: /images/uploads/admin-multi-cabinets.png
       legend: Page d’accueil de votre éditeur de contenu

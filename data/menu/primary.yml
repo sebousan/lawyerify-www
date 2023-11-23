@@ -8,9 +8,9 @@ links:
       - title: Associés
         text: Un cabinet de plusieurs personnes
         url: /usages/avocats-associes/
-      - title: Multi-cabinets
+      - title: Cabinet d’avocats international
         text: Plusieurs cabinets de plusieurs personnes
-        url: /usages/multi-cabinets/
+        url: /usages/cabinet-d-avocats-international/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
     links:

@@ -18,19 +18,9 @@ hero:
     text: Découvrir les fonctionnalités
     url: /les-fonctionnalites/
 blocks:
-  - type: selected-pages
-    section: pages
-    background: false
-    heading:
-      surtitle: Pour qui ?
-      title: Avocat indépendant au grand cabinet international
-    items:
-      - Avocat indépendant
-      - Avocats associés
-      - Multi-cabinets
   - type: informations
     column: 4
-    background: true
+    background: false
     heading:
       surtitle: Conception
       title: Un site Web de grande qualité !
@@ -60,6 +50,16 @@ blocks:
       - title: Pérenne
         text: Un site Web fait pour durer, intemporel.
         icon: clock-history
+  - type: selected-pages
+    section: pages
+    background: true
+    heading:
+      surtitle: Pour qui ?
+      title: Avocat indépendant, avocats associés, cabinet d’avocats international
+    items:
+      - Avocat indépendant
+      - Avocats associés
+      - Cabinet d’avocats international
   - type: editorial
     direction: rtl
     surtitle: Orienté métier

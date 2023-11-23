@@ -34,11 +34,11 @@ blocks:
       url: ./avocats-associes/
   - type: editorial
     direction: rtl
-    title: Multi-cabinet
+    title: Cabinet d’avocats international
     text: Présentez tous vos cabinets et vos équipes, votre actualié, vos parutions, en français ou en plusieurs langues.
     image:
       src: /images/uploads/183.Teaming-Up.svg
     cta:
       text: En savoir plus
-      url: ./grand-cabinet/
+      url: ./cabinet-d-avocats-international/
 ---
