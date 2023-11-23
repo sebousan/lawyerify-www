@@ -1,4 +1,3 @@
 imports:
-- path: github.com/hugolify/hugolify-netlify-cms
 - path: github.com/hugolify/hugolify-theme-casestudies
 - path: github.com/hugolify/hugolify-theme

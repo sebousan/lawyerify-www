@@ -12,8 +12,7 @@ hero:
   # align: center
   cta_second:
     text: Découvrir le site Web de démo
-    url: https://demo.lawyerify.io
-    blank: true
+    url: /sites-de-demonstration/
   cta:
     text: Découvrir les fonctionnalités
     url: /les-fonctionnalites/
@@ -103,8 +102,7 @@ blocks:
       types de contenus.
     cta:
       text: Décourvir le site exemple
-      url: https://demo.lawyerify.io
-      blank: true
+      url: /sites-de-demonstration/
     image:
       src: /images/uploads/160.Movie-Time.svg
   - type: editorial
