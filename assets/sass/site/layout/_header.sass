@@ -56,6 +56,9 @@ header[role="banner"]
         .nav
             align-items: flex-start
             text-align: left
+        .offcanvas
+            .header
+                --bs-offcanvas-padding-x: calc(var(--bs-gutter-x) * .5)
         .dropdown
             display: block
             width: 100%
@@ -64,8 +67,11 @@ header[role="banner"]
         .dropdown-menu
             --bs-dropdown-border-width: 0
             display: block
+            margin-bottom: px2rem(20)
             position: static
             li
+                padding-bottom: var(--bs-dropdown-item-padding-y)
+                padding-top: var(--bs-dropdown-item-padding-y)
                 background-color: $light
             
         
