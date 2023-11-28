@@ -13,6 +13,31 @@ hero:
 blocks:
   - type: informations
     heading:
+      surtitle: Testez le !
+      title: Les exemples de site Web
+    column: 3
+    background: false
+    items:
+      - icon: 1-square
+        title: Thème 1
+        cta:
+          text: Voir le site exemple
+          blank: true
+          url: https://theme-1-independent--lawyerify-demo.netlify.app/
+      - icon: 2-square
+        title: Thème 2
+        cta:
+          text: Voir le site exemple
+          blank: true
+          url: https://theme-2-independent--lawyerify-demo.netlify.app/
+      - icon: 3-square
+        title: Thème 3
+        cta:
+          text: Voir le site exemple
+          blank: true
+          url: https://theme-3-independent--lawyerify-demo.netlify.app/
+  - type: informations
+    heading:
       surtitle: Clair et bien conçu
       title: Contenu de votre site Web
     column: 4
