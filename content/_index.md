@@ -9,13 +9,12 @@ hero:
     src: /images/uploads/205.OK.svg
   image_2:
     src: /images/uploads/website.png
-  # align: center
-  cta_second:
-    text: Découvrir le site Web de démo
-    url: /sites-de-demonstration/
   cta:
     text: Découvrir les fonctionnalités
     url: /les-fonctionnalites/
+  cta_second:
+    text: Pour qui ?
+    url: /usages/
 blocks:
   - type: informations
     column: 4
@@ -74,7 +73,8 @@ blocks:
     direction: ltr
     surtitle: Modernité
     title: Les avantages
-    text: "Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
+    text:
+      "Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
       sécurité maximale, site Web performant, rapide, éco-conçu et accessible à
       tous."
     cta:
@@ -92,7 +92,8 @@ blocks:
       text: Configuration sur mesure.
     figure:
       src: /images/uploads/admin-home.png
-      legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à
+      legend:
+        Page d’accueil de l’espace de gestion de contenu, permettant la mise à
         jour de votre site Web.
   - type: editorial
     direction: rtl
@@ -120,7 +121,8 @@ blocks:
     background: true
     heading:
       title: Prenez contact avec nous
-      text: N’hésitez pas à nous contacter pour parler de votre projet ou planifier
+      text:
+        N’hésitez pas à nous contacter pour parler de votre projet ou planifier
         une démonstration de la solution.
     cta:
       text: Contactez-nous

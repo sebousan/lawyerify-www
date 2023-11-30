@@ -3,39 +3,14 @@ isPage: true
 draft: false
 title: Avocat indépendant
 description: Une présentation claire de vous-même ainsi que votre ou vos domaines d’expertises.
-image: 
+image:
   src: /images/uploads/267.Graduating.svg
 hero:
   title: Avocat indépendant
   text: Une présentation claire de vous-même ainsi que votre ou vos domaines d’expertises.
-  image: 
+  image:
     src: /images/uploads/267.Graduating.svg
 blocks:
-  - type: informations
-    heading:
-      surtitle: Testez le !
-      title: Les exemples de site Web
-    column: 3
-    background: false
-    items:
-      - icon: 1-square
-        title: Thème 1
-        cta:
-          text: Voir le site exemple
-          blank: true
-          url: https://theme-1-independent--lawyerify-demo.netlify.app/
-      - icon: 2-square
-        title: Thème 2
-        cta:
-          text: Voir le site exemple
-          blank: true
-          url: https://theme-2-independent--lawyerify-demo.netlify.app/
-      - icon: 3-square
-        title: Thème 3
-        cta:
-          text: Voir le site exemple
-          blank: true
-          url: https://theme-3-independent--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
@@ -57,6 +32,14 @@ blocks:
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
+  - type: cta
+    heading:
+      surtitle: Testez le !
+      title: A quoi pourrait ressembler votre site Web ?
+    cta:
+      blank: true
+      text: Découvrez un site Web démo
+      url: https://theme-3-independent--lawyerify-demo.netlify.app/
   - type: figure
     background: true
     screenshot: true
