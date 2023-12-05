@@ -11,6 +11,24 @@ hero:
   image:
     src: /images/uploads/183.Teaming-Up.svg
 blocks:
+  - type: video
+    heading:
+      surtitle: Testez le !
+      title: A quoi pourrait ressembler votre site Web ?
+    grid: large
+    background: false
+    video:
+      mp4: /videos/lawyerify-independent.mp4
+      webm: /videos/lawyerify-independent.webm
+      screenshot: true
+      autoplay: true
+      controls: false
+      loop: true
+  - type: cta
+    cta:
+      blank: true
+      text: Découvrir le site démo
+      url: https://theme-3--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
@@ -41,14 +59,7 @@ blocks:
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
-  - type: cta
-    heading:
-      surtitle: Testez le !
-      title: A quoi pourrait ressembler votre site Web ?
-    cta:
-      blank: true
-      text: Découvrir en démo
-      url: https://theme-3--lawyerify-demo.netlify.app/
+
   - type: figure
     background: true
     screenshot: true

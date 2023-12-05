@@ -2,15 +2,35 @@
 isPage: true
 draft: false
 title: Avocat indépendant
-description: Une présentation claire de vous-même ainsi que votre ou vos domaines d’expertises.
+description: Une présentation claire de vous-même ainsi que votre ou vos
+  domaines d’expertises.
 image:
   src: /images/uploads/267.Graduating.svg
 hero:
   title: Avocat indépendant
-  text: Une présentation claire de vous-même ainsi que votre ou vos domaines d’expertises.
+  text: Une présentation claire de vous-même ainsi que votre ou vos domaines
+    d’expertises.
   image:
     src: /images/uploads/267.Graduating.svg
 blocks:
+  - type: video
+    heading:
+      surtitle: Testez le !
+      title: A quoi pourrait ressembler votre site Web ?
+    grid: large
+    background: false
+    video:
+      mp4: /videos/lawyerify-independent.mp4
+      webm: /videos/lawyerify-independent.webm
+      screenshot: true
+      autoplay: true
+      controls: false
+      loop: true
+  - type: cta
+    cta:
+      blank: true
+      text: Découvrir le site démo
+      url: https://theme-3-independent--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
@@ -27,19 +47,13 @@ blocks:
           text: Voir en détail
           url: /les-fonctionnalites/expertises/
       - title: Actualités et parutions
-        text: Que ce soit pour écrire ou relayer un article, plusieurs moyens sont possibles pour alimenter le contenu de votre site.
+        text:
+          Que ce soit pour écrire ou relayer un article, plusieurs moyens sont
+          possibles pour alimenter le contenu de votre site.
         icon: journal-richtext
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
-  - type: cta
-    heading:
-      surtitle: Testez le !
-      title: A quoi pourrait ressembler votre site Web ?
-    cta:
-      blank: true
-      text: Découvrez un site Web démo
-      url: https://theme-3-independent--lawyerify-demo.netlify.app/
   - type: figure
     background: true
     screenshot: true
