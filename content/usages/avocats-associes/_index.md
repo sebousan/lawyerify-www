@@ -18,8 +18,8 @@ blocks:
     grid: large
     background: false
     video:
-      mp4: /videos/lawyerify-independent.mp4
-      webm: /videos/lawyerify-independent.webm
+      mp4: /videos/lawyerify-associates.mp4
+      webm: /videos/lawyerify-associates.webm
       screenshot: true
       autoplay: true
       controls: false
