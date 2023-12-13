@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Cabinet d’avocats international
-description: Tous vos cabinets et vos équipes, votre actualié, vos parutions, en français ou en plusieurs langues.
+description: Tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
 image:
   src: /images/uploads/183.Teaming-Up.svg
 hero:
   title: Cabinet d’avocats international
-  text: Présentez tous vos cabinets et vos équipes, votre actualié, vos parutions, en français ou en plusieurs langues.
+  text: Présentez tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
   image:
     src: /images/uploads/183.Teaming-Up.svg
 blocks:
