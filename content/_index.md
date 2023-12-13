@@ -62,8 +62,8 @@ blocks:
     direction: rtl
     surtitle: Orienté métier
     title: Les fonctionnalités
-    text: "Création du contenu : cabinets, personnes (avocats, collaborateurs…),
-      expertises métier, actualités…"
+    text: 'Création du contenu : cabinets, personnes (avocats, collaborateurs…),
+      expertises métier, actualités…'
     cta:
       text: En savoir plus sur les fonctionnalités
       url: /les-fonctionnalites/
@@ -74,9 +74,9 @@ blocks:
     surtitle: Modernité
     title: Les avantages
     text:
-      "Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
+      'Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
       sécurité maximale, site Web performant, rapide, éco-conçu et accessible à
-      tous."
+      tous.'
     cta:
       text: En savoir plus sur les avantages
       url: /les-avantages/
@@ -84,6 +84,7 @@ blocks:
       src: /images/uploads/111.Business-plan.svg
   - type: figure
     background: true
+    screenshot: true
     grid: medium
     offset: center
     heading:
@@ -91,7 +92,7 @@ blocks:
       title: Un espace de gestion de contenu orienté métier
       text: Configuration sur mesure.
     figure:
-      src: /images/uploads/admin-home.png
+      src: /images/uploads/admin-multi-cabinets.png
       legend:
         Page d’accueil de l’espace de gestion de contenu, permettant la mise à
         jour de votre site Web.
