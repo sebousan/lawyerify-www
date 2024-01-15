@@ -40,7 +40,7 @@ blocks:
         text: Rendez votre site Web accessible aux personnes handicapées.
         icon: universal-access-circle
       - title: Eco-conçu
-        text: Un site Web conçu pour générer qu’une faible émition de carbone.
+        text: Un site Web conçu pour générer qu’une faible émission de carbone.
         icon: tree
       - title: Conforme RGPD
         text: Pas de cookie et une approche éthique permettant de s’affranchir des outils Google.
