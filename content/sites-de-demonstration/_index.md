@@ -13,10 +13,10 @@ blocks:
   - type: figure
     offset: center
     grid: medium
-    screenshot: true
     heading:
       title: Site démo avec un thème neutre
     figure:
+      screenshot: true
       src: /images/uploads/demo-theme-0.png
   - type: informations
     column: 4
@@ -48,11 +48,11 @@ blocks:
   - type: figure
     offset: center
     grid: medium
-    screenshot: true
     background: true
     heading:
       title: Thème numéro 1
     figure:
+      screenshot: true
       src: /images/uploads/demo-theme-1.png
   - type: informations
     column: 4
@@ -84,11 +84,11 @@ blocks:
   - type: figure
     offset: center
     grid: medium
-    screenshot: true
     background: false
     heading:
       title: Thème numéro 2
     figure:
+      screenshot: true
       src: /images/uploads/demo-theme-2.png
   - type: informations
     column: 4
@@ -120,11 +120,11 @@ blocks:
   - type: figure
     offset: center
     grid: medium
-    screenshot: true
     background: true
     heading:
       title: Thème numéro 3
     figure:
+      screenshot: true
       src: /images/uploads/demo-theme-3.png
   - type: informations
     column: 4
