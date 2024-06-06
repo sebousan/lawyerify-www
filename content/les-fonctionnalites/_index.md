@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Les fonctionnalités
-description: "Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…"
+description: 'Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…'
 image:
   src: /images/uploads/147.Multitasking.svg
 hero:
   title: Les fonctionnalités
-  text: "Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…"
+  text: 'Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…'
   image:
     src: /images/uploads/147.Multitasking.svg
 show_list: false
@@ -50,11 +50,11 @@ blocks:
       url: /les-fonctionnalites/actualite-parutions/
   - type: editorial
     direction: rtl
-    title: Ventes aux enchères
+    title: Spécificités du cabinet
     text: Présentez les ventes immobilières dont le cabinet est responsable.
     image:
       src: /images/uploads/188.Buildings.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/ventes-immobilieres/
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/specificites-du-cabinet/
 ---
