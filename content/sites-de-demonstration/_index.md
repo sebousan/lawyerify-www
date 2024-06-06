@@ -4,7 +4,7 @@ draft: false
 title: Sites de démonstration
 description: Liste des sites de démonstration
 image:
-  src: /images/uploads/160.Movie-Time.svg
+  src: /images/uploads/160.Movie-Time.png
 hero:
   title: Sites de démonstration
   image:
@@ -39,7 +39,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://international--lawyerify-demo.netlify.app/
-      - title: "*"
+      - title: '*'
         text: Avec tout le contenu possible.
         cta:
           text: Tester le thème
@@ -75,7 +75,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-1-international--lawyerify-demo.netlify.app/
-      - title: "*"
+      - title: '*'
         text: Avec tout le contenu possible.
         cta:
           text: Tester le thème
@@ -111,7 +111,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-2-international--lawyerify-demo.netlify.app/
-      - title: "*"
+      - title: '*'
         text: Avec tout le contenu possible.
         cta:
           text: Tester le thème
@@ -147,7 +147,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-3-international--lawyerify-demo.netlify.app/
-      - title: "*"
+      - title: '*'
         text: Avec tout le contenu possible.
         cta:
           text: Tester le thème

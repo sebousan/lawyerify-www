@@ -4,7 +4,7 @@ draft: false
 title: Contact
 description: Pour toutes informations ou intérogations concernant la solution.
 image:
-  src: /images/uploads/153.Mention.svg
+  src: /images/uploads/153.Mention.png
 hero:
   title: Contact
   text: Pour toutes informations ou intérogations concernant la solution.
@@ -18,7 +18,7 @@ blocks:
       text: email à lawyerify@uncinq.dev
     cta_second:
       blank: true
-      url: "tel:+33678858604"
+      url: 'tel:+33678858604'
       text: téléphone au 06 78 85 86 04
     background: false
     heading:

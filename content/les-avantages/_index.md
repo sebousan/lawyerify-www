@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Les avantages
-description: "Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous."
+description: 'Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous.'
 image:
-  src: /images/uploads/111.Business-plan.svg
+  src: /images/uploads/111.Business-plan.png
 hero:
   title: Les avantages de Lawyerify
-  text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous."
+  text: 'Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous.'
   image:
     src: /images/uploads/111.Business-plan.svg
 blocks:
@@ -35,7 +35,7 @@ blocks:
     title: Sécurité maximale
     text: Les sites Web Lawyerify sont sécurisés grâce à l’utilisation de la technique Jamstack. Pas de langage serveur, ni de base de données.
     image:
-      src: /images/uploads/37.Password.svg
+      src: /images/uploads/377.Account-Protection.svg
     cta:
       text: En savoir plus sur la sécurité
       url: /les-avantages/securite-maximale/

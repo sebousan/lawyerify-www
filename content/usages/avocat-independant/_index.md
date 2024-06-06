@@ -6,6 +6,8 @@ description: Une présentation claire de vous-même ainsi que votre ou vos
   domaines d’expertises.
 image:
   src: /images/uploads/267.Graduating.svg
+seo:
+  image: /images/uploads/267.Graduating.png
 hero:
   title: Avocat indépendant
   text: Une présentation claire de vous-même ainsi que votre ou vos domaines
@@ -56,19 +58,19 @@ blocks:
           url: /les-fonctionnalites/actualite-parutions/
   - type: figure
     background: true
-    screenshot: true
     offset: center
     grid: medium
     heading:
-      surtitle: Editeur de contenu dédié
+      surtitle: Editeur de contenu dédié à votre cabinet
       title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
+      screenshot: true
       src: /images/uploads/admin-independant.png
       legend: Page d’accueil de votre éditeur de contenu
   - type: informations
     heading:
       surtitle: Beaucoup plus sûr
-      title: Déléguez l’infrastructure pour plus de sécurité
+      title: Déléguez l’infrastructure technique pour plus de sécurité
     column: 4
     items:
       - title: Nous nous occupons de sécurisé votre site Web

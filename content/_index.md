@@ -2,7 +2,7 @@
 isIndex: true
 title: Accueil
 image:
-  src: /images/uploads/205.OK.svg
+  src: /images/uploads/205.OK.png
 hero:
   title: Créez le site Web de votre cabinet d’avocats sécurisé et ultra rapide.
   image:
@@ -84,7 +84,6 @@ blocks:
       src: /images/uploads/111.Business-plan.svg
   - type: figure
     background: true
-    screenshot: true
     grid: medium
     offset: center
     heading:
@@ -93,6 +92,7 @@ blocks:
       text: Configuration sur mesure.
     figure:
       src: /images/uploads/admin-multi-cabinets.png
+      screenshot: true
       legend:
         Page d’accueil de l’espace de gestion de contenu, permettant la mise à
         jour de votre site Web.

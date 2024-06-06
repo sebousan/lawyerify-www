@@ -4,12 +4,14 @@ draft: false
 title: Cabinet d’avocats international
 description: Tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
 image:
-  src: /images/uploads/183.Teaming-Up.svg
+  src: /images/uploads/386.Remote-Meeting.svg
+seo:
+  image: /images/uploads/386.Remote-Meeting.png
 hero:
   title: Cabinet d’avocats international
   text: Présentez tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
   image:
-    src: /images/uploads/183.Teaming-Up.svg
+    src: /images/uploads/386.Remote-Meeting.svg
 blocks:
   - type: video
     heading:
@@ -62,19 +64,19 @@ blocks:
 
   - type: figure
     background: true
-    screenshot: true
     offset: center
     grid: medium
     heading:
-      surtitle: Editeur de contenu dédié
+      surtitle: Editeur de contenu dédié à votre cabinet
       title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
+      screenshot: true
       src: /images/uploads/admin-multi-cabinets.png
       legend: Page d’accueil de votre éditeur de contenu
   - type: informations
     heading:
       surtitle: Beaucoup plus sûr
-      title: Déléguez l’infrastructure pour plus de sécurité
+      title: Déléguez l’infrastructure technique pour plus de sécurité
     column: 4
     items:
       - title: Nous nous occupons de sécurisé votre site Web

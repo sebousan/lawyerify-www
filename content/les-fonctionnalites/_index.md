@@ -4,7 +4,7 @@ draft: false
 title: Les fonctionnalités
 description: 'Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…'
 image:
-  src: /images/uploads/147.Multitasking.svg
+  src: /images/uploads/147.Multitasking.png
 hero:
   title: Les fonctionnalités
   text: 'Création du contenu : cabinets, personnes (avocats, collaborateurs…), expertises métier, actualités…'

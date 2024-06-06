@@ -7,9 +7,10 @@ hero:
   image:
     src: /images/uploads/155.Curiosity.svg
 image:
-  src: /images/uploads/155.Curiosity.svg
+  src: /images/uploads/155.Curiosity.png
 ---
-*Date de dernière mise à jour : février 2023*
+
+_Date de dernière mise à jour : février 2023_
 
 ## Bienvenue sur le site lawyerify.io
 
@@ -18,7 +19,6 @@ En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions
 ## Responsable de publication
 
 Le site lawyerify.io est la propriété de {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
-
 
 ## Hébergement
 
