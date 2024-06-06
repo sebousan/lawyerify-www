@@ -99,11 +99,10 @@ blocks:
   - type: editorial
     direction: rtl
     surtitle: À tester !
-    title: Le site exemple
-    text: Naviguez sur notre site de démonstration pour décourvir les différents
-      types de contenus.
+    title: Les sites Web exemples
+    text: Naviguez sur nos sites Web de démonstration pour décourvir les différents types de contenus.
     cta:
-      text: Décourvir le site exemple
+      text: Décourvir les sites Web exemples
       url: /sites-de-demonstration/
     image:
       src: /images/uploads/160.Movie-Time.svg
