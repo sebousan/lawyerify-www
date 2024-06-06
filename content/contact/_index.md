@@ -6,7 +6,7 @@ description: Pour toutes informations ou intérogations concernant la solution.
 image:
   src: /images/uploads/153.Mention.png
 hero:
-  title: Contact
+  title: Contactez-nous
   text: Pour toutes informations ou intérogations concernant la solution.
   image:
     src: /images/uploads/153.Mention.svg
