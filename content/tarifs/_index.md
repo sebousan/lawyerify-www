@@ -1,35 +1,45 @@
 ---
 isPage: true
 draft: false
-title: Tarifs
+title: Forfaits et tarifs
 description: En fonction des besoins et de la taille du cabinet.
 image:
   src: /images/uploads/194.High-Five.png
 hero:
-  title: Tarifs
+  title: Forfaits et tarifs
   text: En fonction des besoins et de la taille du cabinet.
   image:
     src: /images/uploads/194.High-Five.svg
 blocks:
   - type: prices
     heading:
-      surtitle: Tableau des prix
-      title: En fonction de la taille du cabinet
+      surtitle: Un site Web de grande qualité !
+      title: Un site Web pour votre cabinet En fonction de la taille du cabinet
     column: 3
     items:
-      - title: Indépendant
-        text: Avocat indépendant.
+      - title: Pack Indépendant
+        text: Pour un avocat indépendant.
         offer:
           price: 49
           frequency: /mois
           text: HT et facturé une fois par an
         arguments:
+          - text: Licence Lawyerify
+            icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé
             icon: shield-check
+          - text: Responsive
+            icon: phone
+          - text: Référencement soigné
+            icon: search-heart
+          - text: Accessible à tous
+            icon: universal-access-circle
           - text: Conforme au RGPD
-            icon: info-circle
+            icon: heart
+          - text: Eco-conçu
+            icon: tree
           - text: Maintenance du site Web
             icon: clock-history
           - text: Support technique
@@ -45,19 +55,29 @@ blocks:
         cta:
           url: /contact/
           text: Contactez-nous
-      - title: Associés
-        text: Un cabinet de plusieurs personnes.
+      - title: Pack Associés
+        text: Pour un cabinet de plusieurs personnes.
         offer:
           price: 99
           frequency: /mois
           text: HT et facturé une fois par an
         arguments:
+          - text: Licence Lawyerify
+            icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé
             icon: shield-check
+          - text: Responsive
+            icon: phone
+          - text: Référencement soigné
+            icon: search-heart
+          - text: Accessible à tous
+            icon: universal-access-circle
           - text: Conforme au RGPD
-            icon: info-circle
+            icon: heart
+          - text: Eco-conçu
+            icon: tree
           - text: Maintenance du site Web
             icon: clock-history
           - text: Support technique
@@ -75,19 +95,29 @@ blocks:
         cta:
           url: /contact/
           text: Contactez-nous
-      - title: International
-        text: Plusieurs cabinets de plusieurs personnes.
+      - title: Pack International
+        text: Pour plusieurs cabinets de plusieurs personnes.
         offer:
           price: 199
           frequency: /mois
           text: HT et facturé une fois par an
         arguments:
+          - text: Licence Lawyerify
+            icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé
             icon: shield-check
+          - text: Responsive
+            icon: phone
+          - text: Référencement soigné
+            icon: search-heart
+          - text: Accessible à tous
+            icon: universal-access-circle
           - text: Conforme au RGPD
-            icon: info-circle
+            icon: heart
+          - text: Eco-conçu
+            icon: tree
           - text: Maintenance du site Web
             icon: clock-history
           - text: Support technique
@@ -122,9 +152,12 @@ blocks:
         text: Création d’annonce immobilière.
   - type: editorial
     background: true
-    surtitle: Options
+    surtitle: Image de marque
     title: Identité et design personnalisé ?
-    text: Si vous désirez un design spécifique hors des thèmes proposés gratuitement, notre graphiste pourra dans ce cas intervenir pour réaliser les maquettes. Ceci engendera un coût supplémentaire au démarage variable en fonction de vos besoins.
+    text: Oui, si vous désirez un design spécifique hors des thèmes proposés gratuitement, notre graphiste pourra dans ce cas intervenir pour réaliser les maquettes. Ceci engendrera un coût supplémentaire au démarage variable en fonction de vos besoins.
     image:
       src: /images/uploads/166.Painting.svg
+    cta:
+      url: /contact/
+      text: Contactez-nous
 ---

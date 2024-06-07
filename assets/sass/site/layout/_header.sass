@@ -3,6 +3,22 @@ header[role="banner"]
         .active
             --bs-nav-link-color: #{$primary}
             text-decoration: none
+       
+    .nav-primary
+        &:last-child
+            margin-right: 0
+        > li:last-child
+            @include media-breakpoint-down(lg)
+                margin-top: var(--bs-nav-link-padding-y)
+            @include media-breakpoint-up(lg)
+                margin-left: var(--bs-nav-link-padding-x)
+            a
+                background-color: $primary
+                border-radius: $border-radius
+                color: white
+                &:hover
+                    background-color: shade-color($primary, $btn-hover-bg-shade-amount)
+
     .dropdown-menu
         --bs-dropdown-padding-x: 0
         --bs-dropdown-padding-y: 0
