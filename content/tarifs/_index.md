@@ -4,17 +4,17 @@ draft: false
 title: Forfaits et tarifs
 description: En fonction des besoins et de la taille du cabinet.
 image:
-  src: /images/uploads/194.High-Five.png
+  src: /images/uploads/398.Make-It-Rain.png
 hero:
   title: Forfaits et tarifs
   text: En fonction des besoins et de la taille du cabinet.
   image:
-    src: /images/uploads/194.High-Five.svg
+    src: /images/uploads/398.Make-It-Rain.svg
 blocks:
   - type: prices
     heading:
-      surtitle: Un site Web de grande qualité !
-      title: Un site Web pour votre cabinet En fonction de la taille du cabinet
+      surtitle: Forfaits et tarifs
+      title: Un site Web de grande qualité à un prix adapté à la taille du cabinet
     column: 3
     items:
       - title: Pack Indépendant
@@ -84,9 +84,9 @@ blocks:
             icon: hand-thumbs-up
           - text: Actualité
             icon: check
-          - text: Equipe
-            icon: check
           - text: Compétences et expertises
+            icon: check
+          - text: Equipe
             icon: check
           - text: Pages
             icon: check
@@ -126,9 +126,9 @@ blocks:
             icon: check
           - text: Cabinets
             icon: check
-          - text: Equipe
-            icon: check
           - text: Compétences et expertises
+            icon: check
+          - text: Equipe
             icon: check
           - text: Pages
             icon: check

@@ -53,11 +53,19 @@ blocks:
     background: true
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les avocats !
+      title: Pour tous les avocats
     items:
       - Avocat indépendant
       - Avocats associés
       - Cabinet d’avocats international
+  - type: cta
+    background: true
+    heading:
+      surtitle: Forfaits et tarifs
+      title: Et un prix adapté à la taille du cabinet !
+    cta:
+      url: /tarifs/
+      text: En savoir plus sur les forfaits et tarifs
   - type: editorial
     direction: rtl
     surtitle: Orienté métier

@@ -91,6 +91,9 @@ blocks:
       surtitle: En savoir plus ?
       title: Envie d’avoir un site Web bien conçu et facile à modifier ?
     cta:
+      url: /tarifs/
+      text: Forfaits et tarifs
+    cta_second:
       text: Contactez-nous
       url: /contact/
 ---

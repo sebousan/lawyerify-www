@@ -79,12 +79,16 @@ blocks:
         icon: database-check
       - title: Nous nous occupons de maintenir votre site Web
         icon: clock-history
+
   - type: cta
     background: true
     heading:
       surtitle: En savoir plus ?
       title: Envie d’avoir un site Web bien conçu et facile à modifier ?
     cta:
+      url: /tarifs/
+      text: Forfaits et tarifs
+    cta_second:
       text: Contactez-nous
       url: /contact/
 ---
