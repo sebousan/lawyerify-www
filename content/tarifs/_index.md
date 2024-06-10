@@ -14,7 +14,7 @@ blocks:
   - type: prices
     heading:
       surtitle: Forfaits et tarifs
-      title: Un site Web de grande qualité à un prix adapté à la taille du cabinet
+      title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
     column: 3
     items:
       - title: Pack Indépendant
@@ -56,7 +56,7 @@ blocks:
           url: /contact/
           text: Contactez-nous
       - title: Pack Associés
-        text: Pour un cabinet de plusieurs personnes.
+        text: Pour un cabinet de plusieurs collaborateurs.
         offer:
           price: 99
           frequency: /mois
@@ -96,7 +96,7 @@ blocks:
           url: /contact/
           text: Contactez-nous
       - title: Pack International
-        text: Pour plusieurs cabinets de plusieurs personnes.
+        text: Pour plusieurs cabinets de plusieurs collaborateurs.
         offer:
           price: 199
           frequency: /mois
@@ -141,7 +141,7 @@ blocks:
     heading:
       surtitle: Options
       title: Ajout de fonctionnalités
-      text: Toutes les options sont facturées **10€/mois** (HT et facturé une fois par an).
+      text: Toutes les options sont facturées **10€/mois** HT.
     column: 4
     items:
       - icon: globe
