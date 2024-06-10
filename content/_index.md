@@ -62,7 +62,7 @@ blocks:
     background: true
     heading:
       surtitle: Forfaits et tarifs
-      title: Et un prix adapté à la taille du cabinet !
+      title: Et un prix adapté à la taille de votre cabinet !
     cta:
       url: /tarifs/
       text: En savoir plus sur les forfaits et tarifs
