@@ -12,6 +12,12 @@ hero:
     src: /images/uploads/181.Nodes.svg
 ---
 
+## Hugolify
+
+Lawyerify se base sur le framework open-source Hugolify.
+
+{{< blank_link link="https://www.hugoliy.io" text="En savoir plus sur Hugolify" >}}
+
 ## Hugo
 
 Hugo est un générateur de site statique qui permet de créer des sites Web rapidement à partir de fichiers textes tels que Markdown. Il est open-source, rapide et facile à utiliser. Il permet de structurer facilement le contenu et la mise en page en utilisant des modèles, et génère des pages Web en utilisant ces modèles. Cela permet de créer des sites Web à haut rendement qui sont rapides à charger et facile à maintenir. Il est également très adaptable et peut être utilisé pour créer des sites de toutes tailles et de tous types. Il est populaire auprès des développeurs et des blogueurs pour sa simplicité, sa flexibilité et ses performances.

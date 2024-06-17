@@ -28,7 +28,7 @@ blocks:
             icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
-          - text: Sécurisé
+          - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
             icon: phone
@@ -66,7 +66,7 @@ blocks:
             icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
-          - text: Sécurisé
+          - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
             icon: phone
@@ -106,7 +106,7 @@ blocks:
             icon: patch-check
           - text: Hébergement du site Web
             icon: database-check
-          - text: Sécurisé
+          - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
             icon: phone
