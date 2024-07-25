@@ -1,4 +1,4 @@
 imports:
+  - path: github.com/sebousan/hugolify-theme-uncinqify
   - path: github.com/hugolify/hugolify-theme-casestudies
   - path: github.com/hugolify/hugolify-theme
-  # - path: github.com/hugolify/hugolify-decap-cms
