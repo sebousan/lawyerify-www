@@ -11,7 +11,7 @@ hero:
   image:
     src: /images/uploads/398.Make-It-Rain.svg
 blocks:
-  - type: prices
+  - type: comparison
     heading:
       surtitle: Forfaits et tarifs
       title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
