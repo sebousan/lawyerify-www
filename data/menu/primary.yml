@@ -49,4 +49,4 @@ links:
         url: /les-avantages/infrastructure/
   - title: Tarifs
     url: /tarifs/
-    highlighted: true
+    is_highlighted: true
