@@ -3,8 +3,8 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.124.0"
-  GO_VERSION = "1.20.5"
+  HUGO_VERSION = "0.138.0"
+  GO_VERSION = "1.23.3"
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -17,7 +17,8 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-  HUGO_ENV = "staging"
+  # HUGO_ENV = "staging"
+  HUGO_ENV = "production"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
@@ -28,3 +29,9 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/assets/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
