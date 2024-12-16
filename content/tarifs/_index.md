@@ -20,7 +20,7 @@ blocks:
       - title: Pack Indépendant
         text: Pour un avocat indépendant.
         offer:
-          price: 49
+          price: 39
           frequency: /mois
           text: Facturé chaque mois via Stripe ou via facture annuelle.
         arguments:
@@ -58,7 +58,7 @@ blocks:
       - title: Pack Associés
         text: Pour un cabinet de plusieurs collaborateurs.
         offer:
-          price: 99
+          price: 69
           frequency: /mois
           text: Facturé chaque mois via Stripe ou via facture annuelle.
         arguments:
@@ -98,7 +98,7 @@ blocks:
       - title: Pack International
         text: Pour plusieurs cabinets de plusieurs collaborateurs.
         offer:
-          price: 199
+          price: 99
           frequency: /mois
           text: Facturé chaque mois via Stripe ou via facture annuelle.
         arguments:
