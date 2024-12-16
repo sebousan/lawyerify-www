@@ -141,7 +141,7 @@ blocks:
     heading:
       surtitle: Options
       title: Ajout de fonctionnalités
-      text: Toutes les options sont facturées **10€/mois** HT.
+      text: Toutes les options sont facturées **10€/mois**.
     column: 4
     items:
       - icon: globe
