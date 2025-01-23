@@ -22,7 +22,7 @@ blocks:
         offer:
           price: 39
           frequency: /mois
-          text: Facturé chaque mois via Stripe ou via facture annuelle.
+          text: HT et prélevé chaque mois (ou facturé une fois par an)
         arguments:
           - text: Licence Lawyerify
             icon: patch-check
@@ -60,7 +60,7 @@ blocks:
         offer:
           price: 69
           frequency: /mois
-          text: Facturé chaque mois via Stripe ou via facture annuelle.
+          text: HT et prélevé chaque mois (ou facturé une fois par an)
         arguments:
           - text: Licence Lawyerify
             icon: patch-check
@@ -100,7 +100,7 @@ blocks:
         offer:
           price: 99
           frequency: /mois
-          text: Facturé chaque mois via Stripe ou via facture annuelle.
+          text: HT et prélevé chaque mois (ou facturé une fois par an)
         arguments:
           - text: Licence Lawyerify
             icon: patch-check
