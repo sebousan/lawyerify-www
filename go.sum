@@ -8,9 +8,8 @@ github.com/hugolify/hugolify-theme-casestudies v1.0.14 h1:WiT2LYFhtVq//7zXUt+vHT
 github.com/hugolify/hugolify-theme-casestudies v1.0.14/go.mod h1:onu4oRPTkQh3Up05X3V0urIaN0JyAx9NFijp6G3gs+M=
 github.com/midzer/tobii v2.7.1+incompatible h1:wNAKvMPUCzYpSM7qM8TkNtjYdua9s2lC7oZorsE4ixU=
 github.com/midzer/tobii v2.7.1+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
-github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20250123160310-694321792fd6 h1:wlQpeJvANRTX+hKJOdaiD4C8Bl3I31JPwJEenUAIJK0=
-github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20250123160310-694321792fd6/go.mod h1:yUc+GkvQkafMqFMGqXWLTutcRJ5+MIoP3uCoWUixQXg=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20250124102848-4d2f31ab9243 h1:JuQCDvO5SiVwEWpG6I3ZKSTBQKfErb71332abStvltc=
+github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20250124102848-4d2f31ab9243/go.mod h1:yUc+GkvQkafMqFMGqXWLTutcRJ5+MIoP3uCoWUixQXg=
 github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
