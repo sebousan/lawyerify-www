@@ -1,2 +1,3 @@
 _merge: deep
-casestudies:    /etudes-de-cas/:slug/
+page:
+  casestudies:    /etudes-de-cas/:slug/

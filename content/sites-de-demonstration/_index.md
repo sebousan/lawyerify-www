@@ -172,4 +172,86 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-3--lawyerify-demo.netlify.app/
+  - type: figure
+    offset: center
+    grid: medium
+    background: true
+    heading:
+      title: Thème numéro 4
+    figure:
+      screenshot: true
+      src: /images/uploads/demo-theme-4.png
+  - type: informations
+    background: false
+    column: 4
+    items:
+      - title: Indépendant
+        text: Contenu pour un cabinet d’un avocat indépendant.
+        icon: 4-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-4-independent--lawyerify-demo.netlify.app/
+      - title: Associés
+        text: Contenu pour un cabinet d’avocats associés.
+        icon: 4-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-4-associates--lawyerify-demo.netlify.app/
+      - title: International
+        text: Contenu pour un cabinet d’avocats international.
+        icon: 4-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-4-international--lawyerify-demo.netlify.app/
+      - title: '*'
+        text: Avec tout le contenu possible.
+        icon: 4-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-4--lawyerify-demo.netlify.app/
+  - type: figure
+    offset: center
+    grid: medium
+    background: true
+    heading:
+      title: Thème numéro 5
+    figure:
+      screenshot: true
+      src: /images/uploads/demo-theme-5.png
+  - type: informations
+    background: false
+    column: 4
+    items:
+      - title: Indépendant
+        text: Contenu pour un cabinet d’un avocat indépendant.
+        icon: 5-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-5-independent--lawyerify-demo.netlify.app/
+      - title: Associés
+        text: Contenu pour un cabinet d’avocats associés.
+        icon: 5-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-5-associates--lawyerify-demo.netlify.app/
+      - title: International
+        text: Contenu pour un cabinet d’avocats international.
+        icon: 5-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-5-international--lawyerify-demo.netlify.app/
+      - title: '*'
+        text: Avec tout le contenu possible.
+        icon: 5-square
+        cta:
+          text: Tester le thème
+          blank: true
+          url: https://theme-5--lawyerify-demo.netlify.app/
 ---

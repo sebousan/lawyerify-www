@@ -151,6 +151,17 @@ blocks:
         title: Ventes immobilières
         text: Création d’annonce immobilière.
   - type: editorial
+    direction: rtl
+    background: true
+    surtitle: Themes
+    title: 5 thèmes disponibles gratuitement
+    text: Naviguez sur nos sites Web de démonstration pour décourvir les différents thèmes.
+    image:
+      src: /images/uploads/160.Movie-Time.svg
+    cta:
+      text: Décourvir les sites Web exemples
+      url: /sites-de-demonstration/
+  - type: editorial
     background: true
     surtitle: Image de marque
     title: Identité et design personnalisé ?

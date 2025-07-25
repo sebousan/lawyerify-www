@@ -3,4 +3,6 @@ casestudies:
     thumbnail:
       desktop: "291x"
       mobile: "235x"
-      
+
+carousel: false
+map: false
