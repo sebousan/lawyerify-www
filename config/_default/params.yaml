@@ -1,8 +1,13 @@
 _merge: deep
+
+# Images
 casestudies:
     thumbnail:
       desktop: "291x"
       mobile: "235x"
 
+# Javascript
 carousel: false
+bootstrap:
+  modal: false
 map: false
