@@ -24,8 +24,7 @@ module.exports = {
             'fade',
             /-backdrop$/,
             /^is-/
-          ],
-          deep: [/^tobii/]
+          ]
         },
         defaultExtractor: (content) => {
           let els = JSON.parse(content).htmlElements;
