@@ -1,6 +1,9 @@
 _merge: deep
 
 # Images
+image:
+  retina:
+    desktop: true
 casestudies:
     thumbnail:
       desktop: "291x"
