@@ -30,7 +30,7 @@ blocks:
     cta:
       blank: true
       text: Découvrir le site démo
-      url: https://theme-3--lawyerify-demo.netlify.app/
+      url: https://theme-3-international--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
