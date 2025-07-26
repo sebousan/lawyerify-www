@@ -2,12 +2,12 @@
 isPage: true
 draft: false
 title: Les avantages
-description: 'Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous.'
+description: 'Ils sont multiples : Système de gestion de contenu dédié, sécurité maximale, site Web rapide, bien référencé, éco-conçu et accessible à tous.'
 image:
   src: /images/uploads/111.Business-plan.png
 hero:
   title: Les avantages de Lawyerify
-  text: 'Ils sont multiples : CMS orienté métier, sécurité maximale, site Web performant, rapide, éco-conçu et accessible à tous.'
+  text: 'Ils sont multiples : Système de gestion de contenu dédié, sécurité maximale, site Web rapide, bien référencé, éco-conçu et accessible à tous.'
   image:
     src: /images/uploads/111.Business-plan.svg
 blocks:

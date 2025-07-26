@@ -82,8 +82,8 @@ blocks:
     surtitle: Modernité
     title: Les avantages
     text:
-      'Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
-      sécurité maximale, site Web performant, rapide, éco-conçu et accessible à
+      'Ils sont multiples : Système de gestion de contenu dédié,
+      sécurité maximale, site Web rapide, bien référencé, éco-conçu et accessible à
       tous.'
     cta:
       text: En savoir plus sur les avantages
