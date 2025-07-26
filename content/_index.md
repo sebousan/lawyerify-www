@@ -61,7 +61,8 @@ blocks:
     background: true
     heading:
       surtitle: Forfaits et tarifs
-      title: Et un prix adapté à la taille de votre cabinet !
+      title: Et un prix adapté à vos besoins !
+      text: Aucun frais caché ni gonflé, des forfaits au juste prix.
     cta:
       url: /tarifs/
       text: En savoir plus sur les forfaits et tarifs
