@@ -4,12 +4,12 @@ draft: false
 title: Sécurité maximale
 description: Les sites Web Lawyerify sont sécurisés, parce que ces sites utilisent la technologie Jamstack, il n’y a donc pas de langage serveur, ni de base de données, donc aucun risque de piratage.
 image:
-  src: /images/uploads/377.Account-Protection.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116882/377.Account-Protection_beyewm.svg
 hero:
   title: Sécurité maximale
   text: Les sites Web Lawyerify sont sécurisés, parce que ces sites utilisent la technologie Jamstack, il n’y a donc pas de langage serveur, ni de base de données, donc aucun risque de piratage.
   image:
-    src: /images/uploads/377.Account-Protection.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116882/377.Account-Protection_beyewm.svg
 ---
 
 ## Sécurité

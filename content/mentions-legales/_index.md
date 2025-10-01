@@ -5,9 +5,9 @@ title: Mentions légales
 hero:
   title: Mentions légales
   image:
-    src: /images/uploads/155.Curiosity.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116484/155.Curiosity_umucva.svg
 image:
-  src: /images/uploads/155.Curiosity.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116484/155.Curiosity_umucva.svg
 ---
 
 _Date de dernière mise à jour : février 2023_

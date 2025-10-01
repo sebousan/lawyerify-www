@@ -5,15 +5,13 @@ title: Avocat indépendant
 description: Une présentation claire de vous-même ainsi que votre ou vos
   domaines d’expertises.
 image:
-  src: /images/uploads/267.Graduating.svg
-seo:
-  image: /images/uploads/267.Graduating.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116906/403.Lawyer_h8jf76.svg
 hero:
   title: Avocat indépendant
   text: Une présentation claire de vous-même ainsi que votre ou vos domaines
     d’expertises.
   image:
-    src: /images/uploads/267.Graduating.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116668/267.Graduating_qiqwxp.svg
 blocks:
   - type: video
     heading:
@@ -65,7 +63,7 @@ blocks:
       title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
       screenshot: true
-      src: /images/uploads/admin-independant.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313657/admin-independant_jeypik.png
       legend: Page d’accueil de votre éditeur de contenu
   - type: informations
     heading:

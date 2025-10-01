@@ -4,12 +4,12 @@ draft: false
 title: Infrastructure technique
 description: Découvrez l’infrastructure technique de Lawyerify.
 image:
-  src: /images/uploads/181.Nodes.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/181.Nodes_vgmgrr.svg
 hero:
   title: Infrastructure technique
   text: Découvrez l’infrastructure technique de Lawyerify.
   image:
-    src: /images/uploads/181.Nodes.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/181.Nodes_vgmgrr.svg
 ---
 
 ## Hugolify

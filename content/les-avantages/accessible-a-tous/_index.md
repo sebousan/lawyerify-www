@@ -4,13 +4,13 @@ draft: false
 title: Accessible à tous
 description: L’accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap.
 image:
-  src: /images/uploads/150.Cubes.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116481/150.Cubes_llpfto.svg
 hero:
   title: Accessible à tous
   text: L’accessibilité numérique consiste à rendre les services en ligne
     accessibles aux personnes en situation de handicap.
   image:
-    src: /images/uploads/150.Cubes.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116481/150.Cubes_llpfto.svg
 ---
 
 ## Qu’est-ce que l’accessibilité ?

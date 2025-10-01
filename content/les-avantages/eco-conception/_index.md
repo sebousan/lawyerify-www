@@ -7,9 +7,9 @@ hero:
   title: Performance optimale grâce à un site Web éco-conçu
   text: L’éco-conception est un des enjeux des prochaines années, nous vous expliquons pourquoi cette façon de concevoir permet d’avoir des sites Web performant.
   image:
-    src: /images/uploads/179.Planet.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/179.Planet_kydicb.svg
 image:
-  src: /images/uploads/179.Planet.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/179.Planet_kydicb.svg
 ---
 
 ## L'éco-conception

@@ -2,13 +2,13 @@
 isIndex: true
 title: Accueil
 image:
-  src: /images/uploads/205.OK.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
 hero:
   title: Créez le site Web de votre cabinet d’avocats sécurisé et ultra rapide.
   image:
-    src: /images/uploads/205.OK.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
   image_2:
-    src: /images/uploads/website.png
+    src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
   ctas:
     - text: Découvrir les fonctionnalités
       url: /les-fonctionnalites/
@@ -76,7 +76,7 @@ blocks:
       text: En savoir plus sur les fonctionnalités
       url: /les-fonctionnalites/
     image:
-      src: /images/uploads/147.Multitasking.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116479/147.Multitasking_wqtjvy.svg
   - type: editorial
     direction: ltr
     surtitle: Modernité
@@ -89,7 +89,7 @@ blocks:
       text: En savoir plus sur les avantages
       url: /les-avantages/
     image:
-      src: /images/uploads/111.Business-plan.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116455/111.Business-plan_vozhtx.svg
   - type: figure
     background: true
     grid: medium
@@ -99,7 +99,7 @@ blocks:
       title: Un espace de gestion de contenu orienté métier
       text: Configuration sur mesure.
     figure:
-      src: /images/uploads/admin-multi-cabinets.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313660/admin-multi-cabinets_g3zifm.png
       screenshot: true
       legend:
         Page d’accueil de l’espace de gestion de contenu, permettant la mise à
@@ -113,7 +113,7 @@ blocks:
       text: Décourvir les sites Web exemples
       url: /sites-de-demonstration/
     image:
-      src: /images/uploads/160.Movie-Time.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
   - type: editorial
     direction: ltr
     surtitle: Avant/après
@@ -124,7 +124,7 @@ blocks:
       text: En savoir plus sur les études de cas
       url: /etudes-de-cas/
     image:
-      src: /images/uploads/152.Study-Group.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116482/152.Study-Group_zytsf3.svg
   - type: cta
     background: true
     heading:

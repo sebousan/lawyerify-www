@@ -4,12 +4,12 @@ draft: false
 title: Forfaits et tarifs
 description: En fonction des besoins et de la taille du cabinet.
 image:
-  src: /images/uploads/398.Make-It-Rain.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 hero:
   title: Forfaits et tarifs
   text: En fonction des besoins et de la taille du cabinet.
   image:
-    src: /images/uploads/398.Make-It-Rain.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 blocks:
   - type: comparison
     heading:
@@ -157,7 +157,7 @@ blocks:
     title: 5 thèmes disponibles gratuitement
     text: Naviguez sur nos sites Web de démonstration pour décourvir les différents thèmes.
     image:
-      src: /images/uploads/160.Movie-Time.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
     cta:
       text: Décourvir les sites Web exemples
       url: /sites-de-demonstration/
@@ -167,7 +167,7 @@ blocks:
     title: Identité et design personnalisé ?
     text: Oui, si vous désirez un design spécifique hors des thèmes proposés gratuitement, notre graphiste pourra dans ce cas intervenir pour réaliser les maquettes. Ceci engendrera un coût supplémentaire au démarage variable en fonction de vos besoins.
     image:
-      src: /images/uploads/166.Painting.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116531/166.Painting_bvgs0f.svg
     cta:
       url: /contact/
       text: Contactez-nous

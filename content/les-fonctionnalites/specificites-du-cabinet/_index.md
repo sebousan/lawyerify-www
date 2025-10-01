@@ -4,12 +4,12 @@ draft: false
 title: Spécificités du cabinet
 description: Présentez les ventes immobilières dont le cabinet est responsable.
 image:
-  src: /images/uploads/188.Buildings.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116606/188.Buildings_yqccmw.svg
 hero:
   title: Spécificités du cabinet
   text: Présentez les ventes immobilières dont le cabinet est responsable.
   image:
-    src: /images/uploads/188.Buildings.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116606/188.Buildings_yqccmw.svg
 ---
 
 ## Ventes immobilières

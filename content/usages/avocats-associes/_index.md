@@ -4,14 +4,12 @@ draft: false
 title: Avocats associés
 description: Vos domaines d’expertises et la présentation de votre cabinet ainsi que les différents membres.
 image:
-  src: /images/uploads/194.High-Five.svg
-seo:
-  image: /images/uploads/194.High-Five.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116609/194.High-Five_oww259.svg
 hero:
   title: Avocats associés
   text: Vos domaines d’expertises et la présentation de votre cabinet ainsi que les différents membres (associés, collaborateurs…).
   image:
-    src: /images/uploads/194.High-Five.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116609/194.High-Five_oww259.svg
 blocks:
   - type: video
     heading:
@@ -71,7 +69,7 @@ blocks:
       title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
       screenshot: true
-      src: /images/uploads/admin-multi-cabinets.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313660/admin-multi-cabinets_g3zifm.png
       legend: Page d’accueil de votre éditeur de contenu
   - type: informations
     heading:

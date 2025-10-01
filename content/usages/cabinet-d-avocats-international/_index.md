@@ -4,14 +4,12 @@ draft: false
 title: Cabinet d’avocats international
 description: Tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
 image:
-  src: /images/uploads/386.Remote-Meeting.svg
-seo:
-  image: /images/uploads/386.Remote-Meeting.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116887/386.Remote-Meeting_kjfdvr.svg
 hero:
   title: Cabinet d’avocats international
   text: Présentez tous vos cabinets et vos équipes, votre actualité, vos parutions, en français ou en plusieurs langues.
   image:
-    src: /images/uploads/386.Remote-Meeting.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116887/386.Remote-Meeting_kjfdvr.svg
 blocks:
   - type: video
     heading:
@@ -71,7 +69,7 @@ blocks:
       title: Gérez en tout simplicité le le contenu de votre site Web
     figure:
       screenshot: true
-      src: /images/uploads/admin-multi-cabinets.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313660/admin-multi-cabinets_g3zifm.png
       legend: Page d’accueil de votre éditeur de contenu
   - type: informations
     heading:

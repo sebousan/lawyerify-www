@@ -2,13 +2,12 @@
 isIndex: true
 draft: false
 title: Les études de cas
-url: etudes-de-cas
 description: Découvrez les migrations de site Web de nos clients que nous avons réalisés.
 image:
-  src: /images/uploads/152.Study-Group.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116482/152.Study-Group_zytsf3.svg
 hero:
   title: Les études de cas
   text: Découvrez les migrations de site Web de nos clients que nous avons réalisés.
   image:
-    src: /images/uploads/152.Study-Group.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116482/152.Study-Group_zytsf3.svg
 ---

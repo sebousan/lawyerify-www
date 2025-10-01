@@ -4,13 +4,14 @@ draft: false
 title: Sites de démonstration
 description: Liste des sites de démonstration
 image:
-  src: /images/uploads/160.Movie-Time.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
 hero:
   title: Sites de démonstration
   text: Naviguez sur nos sites Web de démonstration pour décourvir les différents types de contenus.
   image:
-    src: /images/uploads/160.Movie-Time.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
 blocks:
+  
   - type: figure
     offset: center
     grid: medium
@@ -18,7 +19,7 @@ blocks:
       title: Site démo avec un thème neutre
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-0.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313108/demo-lawyerify-theme-0_nt5qj0.png
   - type: informations
     column: 4
     items:
@@ -50,6 +51,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://lawyerify-demo.netlify.app/
+  
   - type: figure
     offset: center
     grid: medium
@@ -58,7 +60,7 @@ blocks:
       title: Thème numéro 1
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-1.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313114/demo-lawyerify-theme-1_aosn3i.png
   - type: informations
     background: true
     column: 4
@@ -91,6 +93,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-1--lawyerify-demo.netlify.app/
+  
   - type: figure
     offset: center
     grid: medium
@@ -99,7 +102,7 @@ blocks:
       title: Thème numéro 2
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-2.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313111/demo-lawyerify-theme-2_owxbej.png
   - type: informations
     column: 4
     items:
@@ -131,6 +134,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-2--lawyerify-demo.netlify.app/
+  
   - type: figure
     offset: center
     grid: medium
@@ -139,7 +143,7 @@ blocks:
       title: Thème numéro 3
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-3.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313116/demo-lawyerify-theme-3_o9smee.png
   - type: informations
     background: true
     column: 4
@@ -172,6 +176,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-3--lawyerify-demo.netlify.app/
+  
   - type: figure
     offset: center
     grid: medium
@@ -180,7 +185,7 @@ blocks:
       title: Thème numéro 4
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-4.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313119/demo-lawyerify-theme-4_lcd9ty.png
   - type: informations
     background: false
     column: 4
@@ -213,6 +218,7 @@ blocks:
           text: Tester le thème
           blank: true
           url: https://theme-4--lawyerify-demo.netlify.app/
+  
   - type: figure
     offset: center
     grid: medium
@@ -221,7 +227,7 @@ blocks:
       title: Thème numéro 5
     figure:
       screenshot: true
-      src: /images/uploads/demo-theme-5.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759313106/demo-lawyerify-theme-5_zzxevm.png
   - type: informations
     background: false
     column: 4

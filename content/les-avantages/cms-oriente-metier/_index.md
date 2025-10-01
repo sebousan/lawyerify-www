@@ -4,11 +4,11 @@ draft: false
 title: CMS orienté métier
 description: Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité.
 image:
-  src: /images/uploads/123.Website-builder.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
 hero:
   title: CMS orienté métier
   image:
-    src: /images/uploads/123.Website-builder.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
   text:
     Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à
     jour de contenu est facilité.
@@ -18,9 +18,9 @@ hero:
 
 Voici quelques captures d’écran de l’espace admin Lawyerify qui permet de mettre à jour votre contenu.
 
-{{< figure src="/images/uploads/admin-home.png" legend="Accueil" >}}
-{{< figure src="/images/uploads/admin-cabinets.png" legend="Cabinets" >}}
-{{< figure src="/images/uploads/admin-expertises.png" legend="Expertises" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1759313654/admin-home_rclb96.png" legend="Accueil" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1759313616/admin-cabinets_oqtmgw.png" legend="Cabinets" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1759313644/admin-expertises_bbm1gm.png" legend="Expertises" >}}
 
 ## Fonctionnalités
 

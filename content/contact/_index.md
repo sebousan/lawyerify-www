@@ -4,12 +4,12 @@ draft: false
 title: Contact
 description: Pour toutes informations ou intérogations concernant la solution.
 image:
-  src: /images/uploads/153.Mention.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116483/153.Mention_kqyrso.svg
 hero:
   title: Contactez-nous
   text: Pour toutes informations ou intérogations concernant la solution.
   image:
-    src: /images/uploads/153.Mention.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116483/153.Mention_kqyrso.svg
 blocks:
   - type: cta
     background: false
