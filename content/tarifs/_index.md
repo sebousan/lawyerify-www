@@ -6,15 +6,38 @@ description: En fonction des besoins et de la taille du cabinet.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 hero:
-  title: Forfaits et tarifs
-  text: En fonction des besoins et de la taille du cabinet.
+  title: Tarifs et forfaits
+  text: Des formules adaptées à la taille et aux besoins de votre cabinet, avec une tarification claire et transparente.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 blocks:
+
+  - type: editorial
+    background: false
+    direction: rtl
+    surtitle: Tarifs
+    title: Installation à partir de 1 200 € HT
+    text: >-
+      Des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
+
+      
+      Ce service comprend :
+
+      * L’installation complète du site ;
+      
+      * La mise en place du thème Lawyerify ;
+      
+      * La personnalisation du CMS selon vos besoins ;
+      
+      * La configuration du nom de domaine.
+    image:
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758117377/541.Meditation-Moment_eu5c1h.svg
+
   - type: comparison
     heading:
-      surtitle: Forfaits et tarifs
+      surtitle: Forfaits
       title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
+      text: En complément de l’installation, un abonnement mensuel est requi.
     column: 3
     items:
       - title: Pack Indépendant
@@ -137,6 +160,7 @@ blocks:
         cta:
           url: /contact/
           text: Contactez-nous
+  
   - type: informations
     heading:
       surtitle: Options
@@ -144,6 +168,9 @@ blocks:
       text: Toutes les options sont facturées **10€/mois**.
     column: 4
     items:
+      - icon: cloud-arrow-up
+        title: Images
+        text: Hébergement des images sur un CDN garantissant un chargement ultra-rapide et un espace de stockage considérablement étendu.
       - icon: globe
         title: Multilingue
         text: Site Web en plusieurs langues.
