@@ -26,6 +26,8 @@ blocks:
       * L’installation complète du site ;
       
       * La mise en place du thème Lawyerify ;
+
+      * Ajout du logo, couleurs et typographies du cabinet ;
       
       * La personnalisation du CMS selon vos besoins ;
       
