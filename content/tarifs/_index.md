@@ -16,7 +16,7 @@ blocks:
     background: false
     direction: rtl
     surtitle: Tarifs
-    title: Installation à partir de 1 200 € HT
+    title: Installation à partir de 1 800 € HT
     text: >-
       En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
 
