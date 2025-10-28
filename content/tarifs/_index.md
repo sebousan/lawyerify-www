@@ -174,8 +174,8 @@ blocks:
       - icon: globe
         title: Multilingue
         text: Site Web en plusieurs langues.
-      - icon: buildings
-        title: Ventes immobilières
+      - icon: houses
+        title: Ventes aux enchères
         text: Création d’annonce immobilière.
   - type: editorial
     direction: rtl
