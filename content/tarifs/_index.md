@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: Forfaits et tarifs
+title: Tarifs et forfaits
 description: En fonction des besoins et de la taille du cabinet.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
@@ -18,7 +18,7 @@ blocks:
     surtitle: Tarifs
     title: Installation à partir de 1 200 € HT
     text: >-
-      Des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
+      En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
 
       
       Ce service comprend :
