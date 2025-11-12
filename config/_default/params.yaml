@@ -14,3 +14,14 @@ carousel: false
 bootstrap:
   modal: false
 map: false
+
+# Brand
+brand:
+  name: Lawyerify
+  email: lawyerify@uncinq.dev
+  url: lawyerify.io
+  cms:
+    decap: https://res.cloudinary.com/uncinq/image/upload/v1759159232/screenshot-lawyerify-decapcms-home_effzes.png
+  your:
+    of: de votre cabinet
+    to: à votre cabinet
