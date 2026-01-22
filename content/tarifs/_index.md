@@ -179,6 +179,9 @@ blocks:
       - icon: houses
         title: Ventes aux enchères
         text: Création d’annonce immobilière.
+      - icon: google
+        title: Statistiques
+        text: Accès aux statistiques de votre site Web via Plausible (Conforme RGPD et données en UE).
   - type: editorial
     direction: rtl
     background: true
