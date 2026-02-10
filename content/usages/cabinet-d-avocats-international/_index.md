@@ -66,7 +66,7 @@ blocks:
     grid: medium
     heading:
       surtitle: Editeur de contenu dédié à votre cabinet
-      title: Gérez en tout simplicité le le contenu de votre site Web
+      title: Gérez en tout simplicité le contenu de votre site Web
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313660/admin-multi-cabinets_g3zifm.png
@@ -74,7 +74,7 @@ blocks:
   - type: informations
     heading:
       surtitle: Beaucoup plus sûr
-      title: Déléguez l’infrastructure technique pour plus de sécurité
+      title: Déléguez votre infrastructure technique pour plus de sécurité
     column: 4
     items:
       - title: Nous nous occupons de sécurisé votre site Web

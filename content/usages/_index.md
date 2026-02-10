@@ -2,11 +2,11 @@
 isPage: true
 draft: false
 title: Usages
-description: Pour tous les professionnels exerçants dans le domaine du droit.
+description: Pour tous les professionnels exerçant dans le domaine du droit.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116906/403.Lawyer_h8jf76.svg
 hero:
-  title: Pour tous les professionnels exerçants dans le domaine du droit.
+  title: Pour tous les professionnels exerçant dans le domaine du droit.
   text: Même si vos besoins sont différents en fonction de la taille du cabinet.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116906/403.Lawyer_h8jf76.svg
