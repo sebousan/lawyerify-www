@@ -24,8 +24,8 @@ blocks:
     grid: large
     background: false
     video:
-      mp4: /videos/lawyerify-associates.mp4
-      webm: /videos/lawyerify-associates.webm
+      mp4: /assets/videos/lawyerify-associates.mp4
+      webm: /assets/videos/lawyerify-associates.webm
       screenshot: true
       autoplay: true
       controls: false

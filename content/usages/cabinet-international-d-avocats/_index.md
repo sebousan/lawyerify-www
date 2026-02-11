@@ -24,8 +24,8 @@ blocks:
     grid: large
     background: false
     video:
-      mp4: /videos/lawyerify-international.mp4
-      webm: /videos/lawyerify-international.webm
+      mp4: /assets/videos/lawyerify-international.mp4
+      webm: /assets/videos/lawyerify-international.webm
       screenshot: true
       autoplay: true
       controls: false
