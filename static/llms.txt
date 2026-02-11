@@ -1,0 +1,27 @@
+# Lawyerify - Création de sites Web pour avocats
+
+Lawyerify est une solution de création de sites Web haut de gamme, sécurisés et ultra-rapides, spécifiquement conçue pour les cabinets d'avocats.
+
+> [!NOTE]
+> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookies).
+
+## Services et Offres
+- **Pack Indépendant** : Pour les avocats exerçant seuls.
+- **Pack Associés** : Pour les cabinets avec plusieurs collaborateurs.
+- **Pack International** : Pour les structures multi-cabinets.
+
+## Fonctionnalités Clés
+- **Espace de gestion (CMS)** : Dédié métier (avocats, expertises, actualités).
+- **SEO & GEO Optimisé** : Référencement naturel soigné pour une visibilité locale et nationale.
+- **Sécurité et Performance** : Sites statiques ultra-rapides et hautement sécurisés.
+
+## Liens Utiles
+- [Usages](https://lawyerify.io/usages/)
+- [Fonctionnalités](https://lawyerify.io/les-fonctionnalites/)
+- [Avantages](https://lawyerify.io/les-avantages/)
+- [Tarifs](https://lawyerify.io/tarifs/)
+- [Études de cas](https://lawyerify.io/etudes-de-cas/)
+- [Contact](https://lawyerify.io/contact/)
+
+## Full Detail
+- [llms-full.txt](https://lawyerify.io/llms-full.txt)

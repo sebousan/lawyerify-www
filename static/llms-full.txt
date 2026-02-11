@@ -1,0 +1,35 @@
+# Lawyerify - Documentation Complète pour LLM
+
+## Présentation
+Lawyerify permet aux avocats de disposer d'un site Web professionnel, performant et conforme aux exigences déontologiques et légales (RGPD). La solution repose sur une architecture moderne privilégiant la rapidité, la sécurité et l'accessibilité.
+
+## Détails Techniques
+- **Framework** : Hugo (Générateur de site statique).
+- **CMS** : Decap CMS (gestion de contenu simplifiée et orientée métier).
+- **Hébergement** : Optimisé pour la performance (Netlify).
+- **Eco-conception** : Faible émission de carbone, sans scripts inutiles.
+- **Accessibilité** : Respect des standards RGAA4 pour une inclusion numérique totale.
+- **RGPD** : Approche "Privacy by Design", pas de cookies traceurs, respect de la vie privée.
+
+## Offres Détaillées
+### Pack Indépendant (39€ HT/mois)
+- Idéal pour une présence en ligne efficace et soignée.
+- Maintenance et support inclus.
+- Gestion des compétences et publications.
+
+### Pack Associés (69€ HT/mois)
+- Ajoute la gestion de l'équipe (associés, collaborateurs).
+- Idéal pour renforcer l'image de marque du cabinet.
+
+### Pack International (99€ HT/mois)
+- Gestion de plusieurs cabinets et équipes.
+- Support multilingue en option.
+
+## Fonctionnalités Avancées
+- **Expertises Métier** : Pages dédiées par domaine de droit (pénal, travail, famille, etc.).
+- **Ventes Immobilières** : Module spécifique pour les ventes aux enchères.
+- **Blog & Presse** : Partage d'actualités et parutions pour booster le SEO.
+- **Design Personnalisé** : Identité visuelle sur mesure disponible via notre graphiste.
+
+## Valeur Ajoutée (SEO & GEO)
+Lawyerify optimise le référencement local (GEO) pour permettre aux cabinets d'être trouvés par leurs clients potentiels dans leur zone géographique d'intervention, tout en assurant une visibilité nationale sur leurs expertises spécifiques.
