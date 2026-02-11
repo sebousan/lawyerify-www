@@ -2,15 +2,15 @@ links:
   - title: Pour qui ?
     url: /usages/
     links:
-      - title: Indépendant
-        text: Avocat indépendant
-        url: /usages/avocat-independant/
-      - title: Associés
-        text: Un cabinet de plusieurs personnes
-        url: /usages/avocats-associes/
-      - title: Cabinet d’avocats international
-        text: Plusieurs cabinets de plusieurs personnes
-        url: /usages/cabinet-d-avocats-international/
+      - title: Cabinet d’avocat indépendant
+        text: Création de site internet pour avocat indépendant
+        url: /usages/creation-site-internet-avocat-independant/
+      - title: Cabinet d’avocats associés
+        text: Création de site internet pour un cabinet de plusieurs avocats
+        url: /usages/creation-site-internet-avocats-associes/
+      - title: Cabinet international d’avocats
+        text: Création de site internet pour plusieurs cabinets de plusieurs avocats
+        url: /usages/creation-site-internet-cabinet-international-d-avocats/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
     links:

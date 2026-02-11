@@ -52,11 +52,11 @@ blocks:
     background: true
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les avocats
+      title: Pour tous les cabinets d’avocats
     items:
-      - Avocat indépendant
-      - Avocats associés
-      - Cabinet d’avocats international
+      - cabinet-avocat-independant
+      - cabinet-avocats-associes
+      - cabinet-international-d-avocats
   - type: cta
     background: true
     heading:
