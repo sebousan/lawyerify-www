@@ -102,7 +102,7 @@ blocks:
   - type: faq
     heading:
       surtitle: FAQ
-      title: Questions fréquentes sur la création de site internet pour avocat indépendant
+      title: Questions fréquentes sur la création de site internet pour cabinet d'avocat
       text: Tout ce que vous devez savoir sur la création de site web professionnel pour développer votre activité d'avocat.
     background: true
     items:
@@ -112,8 +112,12 @@ blocks:
         text: Vous pouvez mettre en avant tous vos domaines de spécialisation juridique tels que le droit civil, droit commercial, droit immobilier, droit du travail, droit pénal, droit de la famille, droit des affaires, ou toute autre expertise. Cela permet aux clients de vous identifier facilement selon leurs besoins juridiques spécifiques.
       - summary: Mon site d'avocat sera-t-il optimisé pour le référencement local (SEO) ?
         text: Oui, votre site web est optimisé pour le référencement local. Que vous exerciez à Paris, Lyon, Marseille, Bordeaux, Toulouse ou dans toute autre ville de France, votre site sera visible dans les résultats de recherche locaux pour attirer des clients dans votre zone géographique.
-      - summary: Le site internet respecte-t-il les normes de sécurité et de confidentialité pour les avocats ?
-        text: Absolument. Votre site est conforme aux normes RGPD, sécurisé avec un certificat SSL, protégé contre les cyberattaques, et garantit la confidentialité des données de vos clients. La sécurité est primordiale pour les professions juridiques.
+      - summary: Mon site d'avocat est-il protégé contre les cyberattaques ?
+        text: Oui, la sécurité est au cœur de notre solution. Chaque site bénéficie d'un certificat SSL pour le chiffrement des échanges et d'une protection contre les cyberattaques. Nous assurons l'intégrité technique de votre présence numérique.
+      - summary: Le site respecte-t-il la confidentialité et les normes RGPD ?
+        text: Absolument. La confidentialité est un pilier de la profession d'avocat. Votre site est conçu pour être 100% conforme au RGPD, garantissant une protection optimale des données personnelles de vos clients.
+      - summary: Le site internet est-il accessible aux personnes en situation de handicap ?
+        text: Oui, nous intégrons les meilleures pratiques d'accessibilité numérique pour que votre site soit consultable par tous. Un site accessible renforce l'inclusion et favorise votre référencement naturel.
       - summary: Ai-je besoin de compétences techniques pour gérer mon site d'avocat ?
         text: Non, aucune compétence technique n'est nécessaire. Vous bénéficiez d'une solution clé en main avec un éditeur de contenu simple et intuitif. Vous pouvez facilement mettre à jour vos informations, ajouter des actualités juridiques et gérer votre contenu en toute autonomie.
       - summary: Mon site sera-t-il accessible sur mobile et tablette ?
