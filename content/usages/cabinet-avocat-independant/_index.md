@@ -97,7 +97,7 @@ blocks:
       - url: /tarifs/
         text: Forfaits et tarifs
       - url: /contact/
-        text: Contactez-nous
+        text: Nous contacter
 
   - type: faq
     heading:
