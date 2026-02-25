@@ -1,19 +1,34 @@
 # Lawyerify - Création de sites Web pour avocats
 
-Lawyerify est une solution de création de sites Web haut de gamme, sécurisés et ultra-rapides, spécifiquement conçue pour les cabinets d'avocats.
+Lawyerify est une solution de création de sites Web haut de gamme, sécurisés et ultra-rapides, spécifiquement conçue pour les cabinets d'avocats. Architecture statique moderne (Hugo + Decap CMS), hébergée sur Netlify.
 
-> [!NOTE]
-> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookies).
+> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookies traceurs).
 
-## Services et Offres
-- **Pack Indépendant** : Pour les avocats exerçant seuls.
-- **Pack Associés** : Pour les cabinets avec plusieurs collaborateurs.
-- **Pack International** : Pour les structures multi-cabinets.
+## Usages — Pour qui ?
+
+### Cabinet d'avocat indépendant
+Pour un avocat exerçant seul. Le site présente son parcours, ses compétences et expertises juridiques, ses actualités et parutions, et ses coordonnées. Idéal pour asseoir une présence en ligne sérieuse et attirer de nouveaux clients.
+
+### Cabinet d'avocats associés
+Pour les cabinets avec plusieurs collaborateurs. En plus de la présentation du cabinet, chaque membre de l'équipe (associés, collaborateurs, juristes) dispose d'un profil individuel lié à ses expertises et son bureau.
+
+### Cabinet international d'avocats
+Pour les structures multi-cabinets avec des équipes réparties sur plusieurs sites. Gestion de plusieurs bureaux, support multilingue en option, visibilité internationale.
 
 ## Fonctionnalités Clés
-- **Espace de gestion (CMS)** : Dédié métier (avocats, expertises, actualités).
-- **SEO & GEO Optimisé** : Référencement naturel soigné pour une visibilité locale et nationale.
-- **Sécurité et Performance** : Sites statiques ultra-rapides et hautement sécurisés.
+- **Espace de gestion (CMS)** : Orienté métier (cabinet, équipe, expertises, actualités, parutions).
+- **SEO & GEO Optimisé** : Référencement local et national pour être trouvé par les clients potentiels.
+- **Sécurité et Performance** : Sites statiques ultra-rapides (100/100 performance), sans failles serveur.
+- **Accessibilité RGAA4** : Inclusion numérique totale, score 100/100.
+- **Eco-conception** : Faible empreinte carbone, sans scripts inutiles.
+- **RGPD** : Privacy by Design, aucun cookie traceur.
+
+## Tarifs
+- **Pack Indépendant** : 39 €/mois HT (avocat seul)
+- **Pack Associés** : 69 €/mois HT (cabinet avec équipe)
+- **Pack International** : 99 €/mois HT (cabinets avec plusieurs bureaux)
+- Installation à partir de 1 800 € HT (configuration complète incluse)
+- Options : images CDN, multilingue, ventes aux enchères, statistiques (10 €/mois chacune)
 
 ## Liens Utiles
 - [Usages](https://lawyerify.io/usages/)
@@ -21,6 +36,7 @@ Lawyerify est une solution de création de sites Web haut de gamme, sécurisés 
 - [Avantages](https://lawyerify.io/les-avantages/)
 - [Tarifs](https://lawyerify.io/tarifs/)
 - [Études de cas](https://lawyerify.io/etudes-de-cas/)
+- [Sites de démonstration](https://lawyerify.io/sites-de-demonstration/)
 - [Contact](https://lawyerify.io/contact/)
 
 ## Full Detail

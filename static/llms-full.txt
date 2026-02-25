@@ -1,35 +1,130 @@
 # Lawyerify - Documentation Complète pour LLM
 
 ## Présentation
-Lawyerify permet aux avocats de disposer d'un site Web professionnel, performant et conforme aux exigences déontologiques et légales (RGPD). La solution repose sur une architecture moderne privilégiant la rapidité, la sécurité et l'accessibilité.
+Lawyerify permet aux avocats de disposer d'un site Web professionnel, performant et conforme aux exigences déontologiques et légales (RGPD). La solution repose sur une architecture statique moderne privilégiant la rapidité, la sécurité et l'accessibilité.
 
 ## Détails Techniques
-- **Framework** : Hugo (Générateur de site statique).
-- **CMS** : Decap CMS (gestion de contenu simplifiée et orientée métier).
-- **Hébergement** : Optimisé pour la performance (Netlify).
-- **Eco-conception** : Faible émission de carbone, sans scripts inutiles.
-- **Accessibilité** : Respect des standards RGAA4 pour une inclusion numérique totale.
-- **RGPD** : Approche "Privacy by Design", pas de cookies traceurs, respect de la vie privée.
+- **Framework** : Hugo (générateur de site statique)
+- **CMS** : Decap CMS (gestion de contenu simplifiée et orientée métier)
+- **Hébergement** : Netlify (CDN mondial, haute disponibilité)
+- **Eco-conception** : Faible émission de carbone, sans scripts inutiles
+- **Accessibilité** : Conformité RGAA4, score 100/100
+- **RGPD** : Privacy by Design, aucun cookie traceur, données hébergées en Europe
+- **Thèmes** : 5 thèmes graphiques disponibles, design sur mesure en option
 
-## Offres Détaillées
-### Pack Indépendant (39€ HT/mois)
-- Idéal pour une présence en ligne efficace et soignée.
-- Maintenance et support inclus.
-- Gestion des compétences et publications.
+## Usages — Pour qui ?
 
-### Pack Associés (69€ HT/mois)
-- Ajoute la gestion de l'équipe (associés, collaborateurs).
-- Idéal pour renforcer l'image de marque du cabinet.
+### Cabinet d'avocat indépendant
+Pour un avocat exerçant seul qui souhaite une présence en ligne sérieuse et professionnelle.
 
-### Pack International (99€ HT/mois)
-- Gestion de plusieurs cabinets et équipes.
-- Support multilingue en option.
+**Ce que le site permet de présenter :**
+- Le parcours et la biographie de l'avocat
+- Les compétences et domaines d'expertise juridique (droit pénal, droit du travail, droit de la famille, etc.)
+- Les actualités, articles de fond et parutions presse
+- Les coordonnées et formulaire de contact
 
-## Fonctionnalités Avancées
-- **Expertises Métier** : Pages dédiées par domaine de droit (pénal, travail, famille, etc.).
-- **Ventes Immobilières** : Module spécifique pour les ventes aux enchères.
-- **Blog & Presse** : Partage d'actualités et parutions pour booster le SEO.
-- **Design Personnalisé** : Identité visuelle sur mesure disponible via notre graphiste.
+**Bénéfices clés :**
+- Attirer de nouveaux clients via le SEO local et national
+- Inspirer confiance avec un site sécurisé et professionnel
+- Gérer le contenu soi-même via le CMS sans compétence technique
 
-## Valeur Ajoutée (SEO & GEO)
-Lawyerify optimise le référencement local (GEO) pour permettre aux cabinets d'être trouvés par leurs clients potentiels dans leur zone géographique d'intervention, tout en assurant une visibilité nationale sur leurs expertises spécifiques.
+### Cabinet d'avocats associés
+Pour les cabinets regroupant plusieurs associés, collaborateurs ou juristes.
+
+**Ce que le site permet de présenter :**
+- La présentation et l'histoire du cabinet
+- Les profils individuels de chaque membre de l'équipe (associés, collaborateurs, juristes, administratif)
+- Les expertises collectives et celles propres à chaque avocat
+- Les actualités et parutions du cabinet
+
+**Bénéfices clés :**
+- Renforcer l'image de marque collective du cabinet
+- Valoriser chaque membre de l'équipe avec un profil lié à ses expertises
+- Faciliter la prise de contact avec la bonne personne
+
+### Cabinet international d'avocats
+Pour les structures avec plusieurs bureaux, équipes internationales ou clientèle étrangère.
+
+**Ce que le site permet de présenter :**
+- Plusieurs cabinets/bureaux avec adresses et contacts distincts
+- Des équipes réparties sur plusieurs sites géographiques
+- Une expertise internationale et une présence mondiale
+- Un site multilingue (option)
+
+**Bénéfices clés :**
+- Gérer depuis un seul CMS plusieurs entités géographiques
+- Attirer des clients internationaux grâce au support multilingue
+- Afficher une présence globale tout en restant accessible localement
+
+## Fonctionnalités du CMS
+
+### Présentation du cabinet
+- Création d'un ou plusieurs cabinets (nom, description, image, adresse complète)
+- Contacts : email, téléphone, fax, LinkedIn, Twitter/X
+
+### Présentation de l'équipe
+- Profil individuel par avocat (nom, statut, biographie, photo)
+- Statuts disponibles : Associé, Collaborateur, Juriste, Administratif
+- Association à des expertises spécifiques et à un bureau
+
+### Compétences et expertises
+- Pages dédiées par domaine de droit (droit pénal, droit du travail, droit de la famille, etc.)
+- Contenu riche optimisé pour le SEO
+
+### Actualités et parutions
+- Articles de blog avec auteur, catégorie et tags
+- Revue de presse : source, lien, date de publication, personnes associées
+
+### Spécificités (module ventes immobilières)
+- Présentation de ventes aux enchères immobilières
+- Dates de visite, date de vente, lieu, galerie photos
+- Documents joints : PV, DTT, cahier des charges
+
+## Tarifs
+
+### Frais d'installation
+À partir de **1 800 € HT** — inclut : configuration complète, mise en place du thème, personnalisation, configuration du domaine.
+
+### Abonnements mensuels
+| Pack | Prix/mois | Prix/an | Pour qui |
+|---|---|---|---|
+| Indépendant | 39 € HT | 468 € HT | Avocat exerçant seul |
+| Associés | 69 € HT | 828 € HT | Cabinet avec équipe |
+| International | 99 € HT | 1 188 € HT | Multi-cabinets |
+
+Tous les packs incluent : licence, hébergement, sécurité, responsive design, SEO, accessibilité RGAA4, conformité RGPD, maintenance et support.
+
+### Options (10 € HT/mois chacune)
+- **Images** : hébergement CDN avec stockage étendu
+- **Multilingue** : site en plusieurs langues
+- **Ventes aux enchères** : module de présentation de ventes immobilières
+- **Statistiques** : analytics Plausible (RGPD, données hébergées en Europe)
+
+### Design sur mesure
+5 thèmes gratuits disponibles. Une identité visuelle sur mesure est possible en option (nécessite un graphiste).
+
+## Valeur Ajoutée SEO & GEO
+Lawyerify optimise le référencement local (GEO) pour permettre aux cabinets d'être trouvés par leurs clients potentiels dans leur zone géographique, tout en assurant une visibilité nationale sur leurs expertises spécifiques.
+
+## Étude de cas — Le 52, cabinet d'avocats (Paris)
+Migration d'un site WordPress vers Lawyerify.
+
+| Indicateur | Avant (WordPress) | Après (Lawyerify) |
+|---|---|---|
+| Performance | 87 % | 100 % |
+| Accessibilité | 62 % | 100 % |
+| Empreinte CO₂ | 21,8 kg/an | 9,58 kg/an (−56 %) |
+| Poids de la page | 1 880 Ko | 483 Ko (−74 %) |
+| Vitesse de chargement | standard | 2× plus rapide |
+| Sécurité | site piraté | aucune faille |
+
+**Témoignage :** L'équipe du cabinet souligne la simplicité de la gestion du contenu, l'absence de spam, et la sérénité apportée par la sécurité du site.
+
+## Sites de démonstration
+5 thèmes disponibles, chacun décliné en 4 versions :
+- Avocat indépendant
+- Cabinet associés
+- Cabinet international
+- Version complète (tous les contenus possibles)
+
+Tous les sites de démonstration sont accessibles et testables en ligne : [Sites de démonstration](https://lawyerify.io/sites-de-demonstration/)
