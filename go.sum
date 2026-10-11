@@ -14,8 +14,8 @@ github.com/midzer/tobii v3.2.0+incompatible h1:+08xCdrQ8dlXrkBIOJFsIUsfgme4Ou1CU
 github.com/midzer/tobii v3.2.0+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
 github.com/orestbida/cookieconsent v3.1.0+incompatible h1:L2uj16SEL1bICkn6pJde9uc1qAPmTcEiFZO93zZKdQI=
 github.com/orestbida/cookieconsent v3.1.0+incompatible/go.mod h1:8N46VI/40AwvzASJDpiwfbu6zylSzKSDZRUVNmVXLxw=
-github.com/sebousan/hugolify-content-uncinqify v0.0.0-20261011160616-2a402530fac4 h1:9xvIJ4Tkhbj5byLYvuT9MpGAHYbQTCl2Qo35SJgc+cM=
-github.com/sebousan/hugolify-content-uncinqify v0.0.0-20261011160616-2a402530fac4/go.mod h1:YUYhIdRN11KsFLRPxZJifhXS34O7gqfhkVPK6ZBkw08=
+github.com/sebousan/hugolify-content-uncinqify v0.0.0-20261011162350-c9a7668f39f2 h1:/27GM562ZKCw3RYSmhg6AO8aI4C9UwITEneSryKNyQ4=
+github.com/sebousan/hugolify-content-uncinqify v0.0.0-20261011162350-c9a7668f39f2/go.mod h1:YUYhIdRN11KsFLRPxZJifhXS34O7gqfhkVPK6ZBkw08=
 github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20260616100422-81169d55dd2d h1:AtgOSTIHELAya4OeaQBqbZKRRghhrALRKw4mdwmsk98=
 github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20260616100422-81169d55dd2d/go.mod h1:qB0HiaLtrnRIzzHYL/M64jxKLjfod06wIGOGGrnkMZ0=
 github.com/twbs/bootstrap v5.3.8+incompatible h1:eK1fsXP7R/FWFt+sSNmmvUH9usPocf240nWVw7Dh02o=
