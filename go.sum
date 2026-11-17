@@ -2,8 +2,8 @@ github.com/Splidejs/splide v4.1.3+incompatible h1:ms0c3Tem9Bq7qcr88nLspZi2SW14mY
 github.com/Splidejs/splide v4.1.3+incompatible/go.mod h1:N10tHuOP81a5HGua3PmZVrpMiBmf/KhId8jZt0oShNk=
 github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03 h1:TyZM0MK9+09/vGdnH8N9xVFix5f1vzU90V5WCyL16oE=
 github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03/go.mod h1:CJ8UtS8LPLOSmpvwRkQJkwqOwwXaDfH5S7iG83GKAlY=
-github.com/hugolify/hugolify-theme-casestudies v1.0.18 h1:PAcQU32MgpemEny5o3X87p+QeGiFosE+Dn9RvZ36ZvA=
-github.com/hugolify/hugolify-theme-casestudies v1.0.18/go.mod h1:onu4oRPTkQh3Up05X3V0urIaN0JyAx9NFijp6G3gs+M=
+github.com/hugolify/hugolify-theme-casestudies/v2 v2.0.0 h1:u3DQsbrl2hqRd1qBYzm8N5suvfwXbLZTfCYcGdzuY5c=
+github.com/hugolify/hugolify-theme-casestudies/v2 v2.0.0/go.mod h1:cCdZSQq2IOkKvHyMbsUVeJ5Dw5k2XytMI0Z03et8AdE=
 github.com/hugolify/hugolify-theme-design-system v0.0.0-20261115204135-96471f6df17b h1:E0Fiure/dYw3acl+Qirx4WIcYPutX3uQe+Ijulx2JCY=
 github.com/hugolify/hugolify-theme-design-system v0.0.0-20261115204135-96471f6df17b/go.mod h1:pmx1M5Ej9OhNx59jVsqRWhWHSv0JVx6U9txsqTWauTQ=
 github.com/hugolify/hugolify-theme-icons v0.0.0-20261114230150-ed8657dec327 h1:v2L/WtwE2wp3owNacAs2x4UhSv23/6QMNl6qdnwnVNE=

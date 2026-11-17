@@ -6,8 +6,7 @@ imports:
   - path: github.com/sebousan/hugolify-theme-uncinqify/v2
 
   # Section modules
-  - path: github.com/hugolify/hugolify-theme-casestudies
-  # - path: github.com/hugolify/hugolify-theme-casestudies/v2
+  - path: github.com/hugolify/hugolify-theme-casestudies/v2
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme/v2 # HTML and Go Template
