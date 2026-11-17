@@ -18,7 +18,7 @@ github.com/orestbida/cookieconsent v3.3.0+incompatible h1:QmOH++JZIJizGRj5WInJbV
 github.com/orestbida/cookieconsent v3.3.0+incompatible/go.mod h1:8N46VI/40AwvzASJDpiwfbu6zylSzKSDZRUVNmVXLxw=
 github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117132209-63ad8f8be4b3 h1:OKXx3/l7J8B9Fwy+y0u/gxer6FJ/cqVwpB+R2R8MqmI=
 github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117132209-63ad8f8be4b3/go.mod h1:4ygIE+mgworMFwzhBRPjRQ0kSNaSO3+gyRlCxdXftp4=
-github.com/sebousan/hugolify-theme-uncinqify/v2 v2.3.0 h1:ksE06gdvDSHqyp/qtkmSazsSKaA/d4JgxMMskfJj5Oc=
-github.com/sebousan/hugolify-theme-uncinqify/v2 v2.3.0/go.mod h1:yaQRH3lR6W9cOJm0IGFpkzHFyHi/aYaY3IvhaUEx10Q=
+github.com/sebousan/hugolify-theme-uncinqify/v2 v2.3.1 h1:3Bovywyz6sd8owpHffwdUPYJbppvbTimJwPg1NsvgY8=
+github.com/sebousan/hugolify-theme-uncinqify/v2 v2.3.1/go.mod h1:yaQRH3lR6W9cOJm0IGFpkzHFyHi/aYaY3IvhaUEx10Q=
 github.com/simple-icons/simple-icons v0.0.0-20260607021030-c3777a7e48a5 h1:KMtcHeiD7TpsH/GQhibbHc1Nd8SB3p2VW6S3lCYk4Vs=
 github.com/simple-icons/simple-icons v0.0.0-20260607021030-c3777a7e48a5/go.mod h1:oOgUUt8yVYOso/wEBi2ojfZP2MU/xxiNccIpaE+jCvE=
