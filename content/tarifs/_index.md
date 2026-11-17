@@ -13,8 +13,8 @@ hero:
 blocks:
 
   - type: editorial
-    background: false
-    direction: rtl
+    ui:
+      direction: rtl
     surtitle: Tarifs
     title: Installation à partir de 1 800 € HT
     text: >-
@@ -40,7 +40,8 @@ blocks:
       surtitle: Forfaits
       title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
       text: En complément de l’installation, un abonnement mensuel est requi.
-    column: 3
+    ui:
+      column: 3
     items:
       - title: Pack Indépendant
         text: Pour un avocat indépendant.
@@ -168,7 +169,8 @@ blocks:
       surtitle: Options
       title: Ajout de fonctionnalités
       text: Toutes les options sont facturées **10€/mois**.
-    column: 4
+    ui:
+      column: 4
     items:
       - icon: cloud-upload
         title: Images
@@ -183,8 +185,9 @@ blocks:
         title: Statistiques
         text: Accès aux statistiques de votre site Web via Plausible (Conforme RGPD et données en UE).
   - type: editorial
-    direction: rtl
-    background: true
+    ui:
+      direction: rtl
+      theme: light
     surtitle: Themes
     title: 5 thèmes disponibles gratuitement
     text: Naviguez sur nos sites Web de démonstration pour décourvir les différents thèmes.
@@ -194,7 +197,8 @@ blocks:
       text: Décourvir les sites Web exemples
       url: /sites-de-demonstration/
   - type: editorial
-    background: true
+    ui:
+      theme: light
     surtitle: Image de marque
     title: Identité et design personnalisé ?
     text: Oui, si vous désirez un design spécifique hors des thèmes proposés gratuitement, notre graphiste pourra dans ce cas intervenir pour réaliser les maquettes. Ceci engendrera un coût supplémentaire au démarage variable en fonction de vos besoins.

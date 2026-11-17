@@ -8,9 +8,11 @@ require (
 	github.com/hugolify/hugolify-theme-casestudies v1.0.18 // indirect
 	github.com/hugolify/hugolify-theme-design-system v0.0.0-20261115204135-96471f6df17b // indirect
 	github.com/hugolify/hugolify-theme-icons v0.0.0-20261114230150-ed8657dec327 // indirect
-	github.com/hugolify/hugolify-theme/v2 v2.73.3 // indirect
+	github.com/hugolify/hugolify-theme/v2 v2.74.0 // indirect
+	github.com/lucide-icons/lucide v0.265.1-0.20261117152740-149eba0aea48 // indirect
 	github.com/midzer/tobii v3.2.1+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.3.0+incompatible // indirect
-	github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117115129-29f6aa926efb // indirect
-	github.com/sebousan/hugolify-theme-uncinqify/v2 v2.1.3 // indirect
+	github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117132209-63ad8f8be4b3 // indirect
+	github.com/sebousan/hugolify-theme-uncinqify/v2 v2.2.0 // indirect
+	github.com/simple-icons/simple-icons v0.0.0-20260607021030-c3777a7e48a5 // indirect
 )

@@ -48,7 +48,19 @@
     }
   }
 
-  /* Information cards are flat grey panels, one step darker on a tinted
+  /* A light block (ui.theme: light) is a grey band of the SASS site, where
+     only the background changed: its headings and links stay blue, its cards
+     keep black titles and no frame. The theme would draw them all from its
+     text colour. */
+  .block-light {
+    --block-card-title-color: var(--color-text);
+    --color-heading: inherit;
+    --color-link: inherit;
+    --color-link-hover: inherit;
+    --item-color-border: transparent;
+  }
+
+  /* Information cards are flat grey panels, one step darker on a light
      block (.block-informations .card of the SASS theme) */
   .block-informations .item {
     --item-border-width: 0;
@@ -57,15 +69,22 @@
     --item-shadow-hover: none;
 
     /* Their call to action is a link, as on the page cards of the design
-       system (components/page.css), underline included. */
+       system (components/page.css): blue text on no background, underlined
+       under the pointer only. The hover values are restated too: left to the
+       button defaults, the link would fill with blue under the pointer. */
     --btn-border-width: var(--item-btn-border-width);
     --btn-color-background: var(--item-btn-color-background);
+    --btn-color-background-hover: var(--item-btn-color-background);
     --btn-color-text: var(--item-btn-color-text);
+    --btn-color-text-decoration: transparent;
+    --btn-color-text-decoration-hover: var(--item-btn-color-text);
+    --btn-color-text-hover: var(--item-btn-color-text);
     --btn-padding-block: 0;
     --btn-padding-inline: 0;
+    --btn-shadow-hover: none;
   }
 
-  .block-informations.block-bg .item {
+  .block-informations.block-light .item {
     --item-color-background: var(--color-gray-100);
   }
 

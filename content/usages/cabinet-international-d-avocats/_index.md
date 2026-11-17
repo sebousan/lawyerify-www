@@ -21,8 +21,8 @@ blocks:
       surtitle: Testez le !
       title: A quoi pourrait ressembler votre site Web ?
       text: Découvrez un exemple concret de création de site internet pour un cabinet international d'avocats avec notre démo interactive.
-    grid: large
-    background: false
+    ui:
+      grid: large
     video:
       mp4: /assets/videos/lawyerify-international.mp4
       webm: /assets/videos/lawyerify-international.webm
@@ -40,7 +40,8 @@ blocks:
       surtitle: Clair et bien conçu
       title: Contenu de votre site Web
       text: Présentez vos implantations internationales, vos équipes multilingues et vos expertises juridiques pour attirer une clientèle mondiale.
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Vos cabinets et contact
         text: Présentez vos différents bureaux dans le monde, leurs localisations et coordonnées complètes pour faciliter la prise de contact internationale.
@@ -68,9 +69,10 @@ blocks:
           url: /les-fonctionnalites/actualite-parutions/
 
   - type: figure
-    background: true
-    offset: center
-    grid: medium
+    ui:
+      theme: light
+      offset: center
+      grid: medium
     heading:
       surtitle: Editeur de contenu dédié à votre cabinet
       title: Gérez en tout simplicité le contenu de votre site Web
@@ -84,7 +86,8 @@ blocks:
       surtitle: Beaucoup plus sûr
       title: Déléguez votre infrastructure technique pour plus de sécurité
       text: Notre solution de création de site web pour cabinet international d'avocats intègre hébergement sécurisé, maintenance et protection des données.
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Sécurité garantie de votre site Web
         text: Certificat SSL, protection contre les cyberattaques et conformité RGPD pour protéger vos données et celles de vos clients internationaux.
@@ -97,7 +100,8 @@ blocks:
         icon: rotate-ccw-clock
 
   - type: cta
-    background: true
+    ui:
+      theme: light
     heading:
       surtitle: En savoir plus ?
       title: Envie d’avoir un site Web bien conçu et facile à modifier ?
@@ -108,7 +112,8 @@ blocks:
         text: Nous contacter
 
   - type: faq
-    background: true
+    ui:
+      theme: light
     heading:
       surtitle: FAQ
       title: Questions fréquentes sur la création de site internet pour cabinet d'avocat

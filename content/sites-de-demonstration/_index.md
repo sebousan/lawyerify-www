@@ -13,15 +13,17 @@ hero:
 blocks:
   
   - type: figure
-    offset: center
-    grid: medium
+    ui:
+      offset: center
+      grid: medium
     heading:
       title: Site démo avec un thème neutre
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313108/demo-lawyerify-theme-0_nt5qj0.png
   - type: informations
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
@@ -53,17 +55,19 @@ blocks:
           url: https://lawyerify-demo.netlify.app/
   
   - type: figure
-    offset: center
-    grid: medium
-    background: true
+    ui:
+      offset: center
+      grid: medium
+      theme: light
     heading:
       title: Thème numéro 1
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313114/demo-lawyerify-theme-1_aosn3i.png
   - type: informations
-    background: true
-    column: 4
+    ui:
+      theme: light
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
@@ -95,16 +99,17 @@ blocks:
           url: https://theme-1--lawyerify-demo.netlify.app/
   
   - type: figure
-    offset: center
-    grid: medium
-    background: false
+    ui:
+      offset: center
+      grid: medium
     heading:
       title: Thème numéro 2
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313111/demo-lawyerify-theme-2_owxbej.png
   - type: informations
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
@@ -136,17 +141,19 @@ blocks:
           url: https://theme-2--lawyerify-demo.netlify.app/
   
   - type: figure
-    offset: center
-    grid: medium
-    background: true
+    ui:
+      offset: center
+      grid: medium
+      theme: light
     heading:
       title: Thème numéro 3
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313116/demo-lawyerify-theme-3_o9smee.png
   - type: informations
-    background: true
-    column: 4
+    ui:
+      theme: light
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
@@ -178,17 +185,18 @@ blocks:
           url: https://theme-3--lawyerify-demo.netlify.app/
   
   - type: figure
-    offset: center
-    grid: medium
-    background: true
+    ui:
+      offset: center
+      grid: medium
+      theme: light
     heading:
       title: Thème numéro 4
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313119/demo-lawyerify-theme-4_lcd9ty.png
   - type: informations
-    background: false
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
@@ -220,17 +228,18 @@ blocks:
           url: https://theme-4--lawyerify-demo.netlify.app/
   
   - type: figure
-    offset: center
-    grid: medium
-    background: true
+    ui:
+      offset: center
+      grid: medium
+      theme: light
     heading:
       title: Thème numéro 5
     figure:
       screenshot: true
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313106/demo-lawyerify-theme-5_zzxevm.png
   - type: informations
-    background: false
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.

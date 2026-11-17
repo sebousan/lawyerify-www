@@ -20,9 +20,11 @@
     --color-link: var(--color-brand);
     --header-color-link: var(--color-text);
 
-    /* The header, the hero and the tinted blocks sit on a light grey
-       ($light #f8f9fa), and the hero text and title are blue ($hero-color) */
-    --block-bg-color: var(--color-gray-50);
+    /* The header, the hero and the light blocks sit on a light grey
+       ($light #f8f9fa), and the hero text and title are blue ($hero-color).
+       A light block keeps the black text of the page. */
+    --color-light: var(--color-gray-50);
+    --color-on-light: var(--color-text);
     --header-color-background: var(--color-gray-50);
     --hero-color-background: var(--color-gray-50);
     --hero-color-link: var(--color-brand);
