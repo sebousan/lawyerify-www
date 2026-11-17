@@ -25,28 +25,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 0-square
+        icon: square
         cta:
           text: Tester le thème
           blank: true
           url: https://independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 0-square
+        icon: square
         cta:
           text: Tester le thème
           blank: true
           url: https://associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 0-square
+        icon: square
         cta:
           text: Tester le thème
           blank: true
           url: https://international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 0-square
+        icon: square
         cta:
           text: Tester le thème
           blank: true
@@ -67,28 +67,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 1-square
+        icon: dice-1
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-1-independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 1-square
+        icon: dice-1
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-1-associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 1-square
+        icon: dice-1
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-1-international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 1-square
+        icon: dice-1
         cta:
           text: Tester le thème
           blank: true
@@ -108,28 +108,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 2-square
+        icon: dice-2
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-2-independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 2-square
+        icon: dice-2
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-2-associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 2-square
+        icon: dice-2
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-2-international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 2-square
+        icon: dice-2
         cta:
           text: Tester le thème
           blank: true
@@ -150,28 +150,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 3-square
+        icon: dice-3
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-3-independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 3-square
+        icon: dice-3
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-3-associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 3-square
+        icon: dice-3
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-3-international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 3-square
+        icon: dice-3
         cta:
           text: Tester le thème
           blank: true
@@ -192,28 +192,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 4-square
+        icon: dice-4
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-4-independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 4-square
+        icon: dice-4
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-4-associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 4-square
+        icon: dice-4
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-4-international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 4-square
+        icon: dice-4
         cta:
           text: Tester le thème
           blank: true
@@ -234,28 +234,28 @@ blocks:
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
-        icon: 5-square
+        icon: dice-5
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-5-independent--lawyerify-demo.netlify.app/
       - title: Associés
         text: Contenu pour un cabinet d’avocats associés.
-        icon: 5-square
+        icon: dice-5
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-5-associates--lawyerify-demo.netlify.app/
       - title: International
         text: Contenu pour un cabinet d’avocats international.
-        icon: 5-square
+        icon: dice-5
         cta:
           text: Tester le thème
           blank: true
           url: https://theme-5-international--lawyerify-demo.netlify.app/
       - title: '*'
         text: Avec tout le contenu possible.
-        icon: 5-square
+        icon: dice-5
         cta:
           text: Tester le thème
           blank: true

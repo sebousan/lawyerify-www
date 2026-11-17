@@ -1,0 +1,16 @@
+chart:
+  ui:
+    offset: center
+datas:
+  ui:
+    align: center
+faq:
+  ui:
+    grid: medium
+    offset: center
+quote:
+  ui:
+    align: center
+video:
+  ui:
+    offset: center

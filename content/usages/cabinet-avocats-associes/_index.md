@@ -31,10 +31,10 @@ blocks:
       controls: false
       loop: true
   - type: cta
-    cta:
-      blank: true
-      text: Découvrir le site démo
-      url: https://theme-3-associates--lawyerify-demo.netlify.app/
+    ctas:
+      - blank: true
+        text: Découvrir le site démo
+        url: https://theme-3-associates--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
@@ -50,19 +50,19 @@ blocks:
           url: /les-fonctionnalites/cabinet/
       - title: Equipe
         text: Mettez en avant vos associés et collaborateurs avec leurs parcours, spécialisations et coordonnées individuelles.
-        icon: people
+        icon: users
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/equipe/
       - title: Compétences et expertises
         text: Présentez tous vos domaines de spécialisation juridique (droit des affaires, droit social, droit fiscal, contentieux...) pour être identifié par les clients.
-        icon: mortarboard
+        icon: graduation-cap
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/expertises/
       - title: Actualités et parutions
         text: Que ce soit pour écrire ou relayer un article, plusieurs moyens sont possibles pour alimenter le contenu de votre site.
-        icon: journal-richtext
+        icon: notebook-text
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
@@ -95,7 +95,7 @@ blocks:
         icon: database-check
       - title: Maintenance technique assurée
         text: Mises à jour de sécurité, sauvegardes régulières et support technique pour un site toujours opérationnel.
-        icon: clock-history
+        icon: rotate-ccw-clock
 
   - type: cta
     background: true

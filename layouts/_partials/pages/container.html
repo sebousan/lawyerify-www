@@ -1,0 +1,12 @@
+{{- /*
+  pages/container.html: the sections of this site (usages, fonctionnalités,
+  avantages) present their pages through their own blocks, so a section never
+  lists its child pages under them: only the content of the page is rendered.
+  Same markup as the core partial otherwise (hugolify-theme/v2,
+  layouts/_partials/pages/container.html).
+*/ -}}
+{{ if .Content }}
+  <div class="container container-list">
+    {{ partial "pages/grid.html" . }}
+  </div>
+{{ end }}

@@ -25,28 +25,28 @@ blocks:
     items:
       - title: Ultra rapide
         text: Un site Web très rapide pour un accès même avec une connexion faible.
-        icon: speedometer2
+        icon: gauge
       - title: Beaucoup plus sûr
         text: Pas de piratage, pas de spam, pas de virus…
         icon: shield-check
       - title: Responsive
         text: Smartphone, tablet, ordinateur portable ou de bureau…
-        icon: phone
+        icon: smartphone
       - title: Plus visible sur Google
         text: Réferencement naturel optimisé grâce aux bonnes pratiques.
-        icon: search-heart
+        icon: search-check
       - title: Accessible à tous
         text: Rendez votre site Web accessible aux personnes handicapées.
-        icon: universal-access-circle
+        icon: accessibility
       - title: Eco-conçu
         text: Un site Web conçu pour générer qu’une faible émission de carbone.
-        icon: tree
+        icon: tree-deciduous
       - title: Conforme RGPD
         text: Pas de cookie et une approche éthique permettant de s’affranchir des outils Google.
         icon: heart
       - title: Pérenne
         text: Un site Web fait pour durer, intemporel.
-        icon: clock-history
+        icon: rotate-ccw-clock
   - type: selected-pages
     section: pages
     background: true
@@ -63,9 +63,9 @@ blocks:
       surtitle: Forfaits et tarifs
       title: Et un prix adapté à vos besoins !
       text: Aucun frais caché ni gonflé, des forfaits au juste prix.
-    cta:
-      url: /tarifs/
-      text: En savoir plus sur les forfaits et tarifs
+    ctas:
+      - url: /tarifs/
+        text: En savoir plus sur les forfaits et tarifs
   - type: editorial
     direction: rtl
     surtitle: Orienté métier
@@ -133,7 +133,7 @@ blocks:
       text:
         N’hésitez pas à nous contacter pour parler de votre projet ou planifier
         une démonstration de la solution.
-    cta:
-      text: Nous contacter
-      url: /contact/
+    ctas:
+      - text: Nous contacter
+        url: /contact/
 ---

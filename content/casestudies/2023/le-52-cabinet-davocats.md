@@ -35,7 +35,7 @@ blocks:
     column: 4
     items:
       - title: Sécurité
-        icon: shield-slash
+        icon: shield-off
         text: Sans mise à jour de ces solutions, le site Web s’expose grandement aux
           piratages.
       - title: Chronophage
@@ -53,15 +53,12 @@ blocks:
       url: https://patchstack.com/whitepaper/wordpress-security-stats-2022/
     background: true
   
-  - align: start
-    background: true
-    grid: small
+  - background: true
     text: >-
       La précédente version du site a été piratée, des données ont été ajoutées sans que les administrateur du site l’autorise.
 
 
       Ci-contre, une capture d’écran des catégories enregistrées. 
-    offset: start
     title: Le wordpress piraté
     type: editorial
     image:
@@ -123,17 +120,17 @@ blocks:
     heading:
       title: Pourquoi améliorer ces critères ?
     items:
-      - icon: people
+      - icon: users
         title: Pour vos utilisateurs
         text: "Un site plus léger, c'est une meilleure expérience : les pages se
           chargent rapidement, même sur mobile et même si le réseau n'est pas
           très bon."
-      - icon: graph-up-arrow
+      - icon: trending-up
         title: Pour votre activité
         text: Un site web plus rapide, c'est une meilleure performance business. Cela a
           aussi de nombreux autres impacts positifs.
       - title: Pour votre empreinte carbone
-        icon: globe-europe-africa
+        icon: earth
         text: En ayant un site web non énergivore vous réduirez considérablement votre
           impact environnemental.
   - type: datas
@@ -318,8 +315,8 @@ blocks:
   - type: cta
     heading:
       title: Bonne visite !
-    cta:
-      text: Découvrez le site web du cabinet 52
-      url: https://www.le52-avocats.com/
-      blank: true
+    ctas:
+      - text: Découvrez le site web du cabinet 52
+        url: https://www.le52-avocats.com/
+        blank: true
 ---

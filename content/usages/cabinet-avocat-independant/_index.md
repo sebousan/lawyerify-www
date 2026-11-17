@@ -31,10 +31,10 @@ blocks:
       controls: false
       loop: true
   - type: cta
-    cta:
-      blank: true
-      text: Découvrir le site démo
-      url: https://theme-3-independent--lawyerify-demo.netlify.app/
+    ctas:
+      - blank: true
+        text: Découvrir le site démo
+        url: https://theme-3-independent--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
@@ -44,10 +44,10 @@ blocks:
     items:
       - title: Votre parcours et contact
         text: Présentez votre formation juridique, votre expérience professionnelle et vos coordonnées complètes (adresse du cabinet, téléphone, email) pour faciliter la prise de contact par vos clients potentiels.
-        icon: person-plus
+        icon: user-plus
       - title: Compétences et expertises
         text: Mettez en avant vos domaines de spécialisation juridique (droit de la famille, droit du travail, droit pénal, droit des affaires...) pour être facilement identifié par les clients recherchant votre expertise.
-        icon: mortarboard
+        icon: graduation-cap
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/expertises/
@@ -55,7 +55,7 @@ blocks:
         text:
           Que ce soit pour écrire ou relayer un article, plusieurs moyens sont
           possibles pour alimenter le contenu de votre site.
-        icon: journal-richtext
+        icon: notebook-text
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
@@ -86,7 +86,7 @@ blocks:
         icon: database-check
       - title: Maintenance technique assurée
         text: Mises à jour de sécurité, sauvegardes régulières et support technique pour un site toujours opérationnel.
-        icon: clock-history
+        icon: rotate-ccw-clock
 
   - type: cta
     background: true

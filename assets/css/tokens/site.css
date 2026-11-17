@@ -1,0 +1,47 @@
+/* tokens/site.css */
+/*
+ * Lawyerify site tokens, on top of the Un Cinq branding of
+ * hugolify-theme-uncinqify. The design system imports this file after the
+ * theme's tokens, so every value here wins over the theme's.
+ */
+@layer tokens {
+  :root {
+    /* Brand: Lawyerify blue ($primary #060C84 of the SASS site), where the
+       Un Cinq theme is black: buttons, links, logo, surtitles. The accent
+       keeps following it: the orange $secondary was never rendered. */
+    --color-brand: #060c84;
+    --color-brand-hover: oklch(from var(--color-brand) calc(l - 0.08) c h);
+    --color-brand-muted: oklch(from var(--color-brand) l c h / 0.1);
+    --color-brand-strong: oklch(from var(--color-brand) calc(l - 0.16) c h);
+
+    /* Headings and links read in that blue ($headings-color, $link-color),
+       but the links of the header bar stay black, as in the SASS navbar. */
+    --color-heading: var(--color-brand);
+    --color-link: var(--color-brand);
+    --header-color-link: var(--color-text);
+
+    /* The header, the hero and the tinted blocks sit on a light grey
+       ($light #f8f9fa), and the hero text and title are blue ($hero-color) */
+    --block-bg-color: var(--color-gray-50);
+    --header-color-background: var(--color-gray-50);
+    --hero-color-background: var(--color-gray-50);
+    --hero-color-link: var(--color-brand);
+    --hero-color-text: var(--color-brand);
+    --hero-title-color: var(--color-brand);
+
+    /* The hero is as tall as what it holds, as in v1, on the home page too */
+    --hero-height: auto;
+    --hero-home-height: auto;
+    --hero-max-height: none;
+
+    /* The pricing cards are white, framed by their border */
+    --comparison-item-color-background: var(--color-background);
+
+    /* Quotes stand upright, as the SASS blockquote did */
+    --quote-font-style: normal;
+
+    /* The images of this site are line illustrations on a transparent ground
+       or opaque screenshots: no placeholder grey behind them. */
+    --color-background-media: transparent;
+  }
+}

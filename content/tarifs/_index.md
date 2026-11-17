@@ -50,25 +50,25 @@ blocks:
           text: Facturé chaque mois via Stripe (ou 468 € HT à chaque début d’année).
         arguments:
           - text: Licence Lawyerify
-            icon: patch-check
+            icon: badge-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
-            icon: phone
+            icon: smartphone
           - text: Référencement soigné
-            icon: search-heart
+            icon: search-check
           - text: Accessible à tous
-            icon: universal-access-circle
+            icon: accessibility
           - text: Conforme au RGPD
             icon: heart
           - text: Eco-conçu
-            icon: tree
+            icon: tree-deciduous
           - text: Maintenance du site Web
-            icon: clock-history
+            icon: rotate-ccw-clock
           - text: Support technique
-            icon: hand-thumbs-up
+            icon: thumbs-up
           - text: Actualité
             icon: check
           - text: Compétences et expertises
@@ -88,25 +88,25 @@ blocks:
           text: Facturé chaque mois via Stripe (ou 828 € HT à chaque début d’année).
         arguments:
           - text: Licence Lawyerify
-            icon: patch-check
+            icon: badge-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
-            icon: phone
+            icon: smartphone
           - text: Référencement soigné
-            icon: search-heart
+            icon: search-check
           - text: Accessible à tous
-            icon: universal-access-circle
+            icon: accessibility
           - text: Conforme au RGPD
             icon: heart
           - text: Eco-conçu
-            icon: tree
+            icon: tree-deciduous
           - text: Maintenance du site Web
-            icon: clock-history
+            icon: rotate-ccw-clock
           - text: Support technique
-            icon: hand-thumbs-up
+            icon: thumbs-up
           - text: Actualité
             icon: check
           - text: Compétences et expertises
@@ -128,25 +128,25 @@ blocks:
           text: Facturé chaque mois via Stripe (ou 1188 € HT à chaque début d’année).
         arguments:
           - text: Licence Lawyerify
-            icon: patch-check
+            icon: badge-check
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
             icon: shield-check
           - text: Responsive
-            icon: phone
+            icon: smartphone
           - text: Référencement soigné
-            icon: search-heart
+            icon: search-check
           - text: Accessible à tous
-            icon: universal-access-circle
+            icon: accessibility
           - text: Conforme au RGPD
             icon: heart
           - text: Eco-conçu
-            icon: tree
+            icon: tree-deciduous
           - text: Maintenance du site Web
-            icon: clock-history
+            icon: rotate-ccw-clock
           - text: Support technique
-            icon: hand-thumbs-up
+            icon: thumbs-up
           - text: Actualité
             icon: check
           - text: Cabinets
@@ -170,7 +170,7 @@ blocks:
       text: Toutes les options sont facturées **10€/mois**.
     column: 4
     items:
-      - icon: cloud-arrow-up
+      - icon: cloud-upload
         title: Images
         text: Hébergement des images sur un CDN garantissant un chargement ultra-rapide et un espace de stockage considérablement étendu.
       - icon: globe
@@ -179,7 +179,7 @@ blocks:
       - icon: houses
         title: Ventes aux enchères
         text: Création d’annonce immobilière.
-      - icon: google
+      - icon: brand:google
         title: Statistiques
         text: Accès aux statistiques de votre site Web via Plausible (Conforme RGPD et données en UE).
   - type: editorial

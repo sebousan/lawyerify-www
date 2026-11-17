@@ -5,14 +5,12 @@ go 1.21
 require (
 	github.com/Splidejs/splide v4.1.3+incompatible // indirect
 	github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03 // indirect
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
-	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/hugolify/hugolify-theme v1.29.0 // indirect
 	github.com/hugolify/hugolify-theme-casestudies v1.0.18 // indirect
-	github.com/midzer/tobii v3.2.0+incompatible // indirect
-	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
-	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20261011162350-c9a7668f39f2 // indirect
-	github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20260616100422-81169d55dd2d // indirect
-	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
-	github.com/twbs/icons v1.13.2 // indirect
+	github.com/hugolify/hugolify-theme-design-system v0.0.0-20261115204135-96471f6df17b // indirect
+	github.com/hugolify/hugolify-theme-icons v0.0.0-20261114230150-ed8657dec327 // indirect
+	github.com/hugolify/hugolify-theme/v2 v2.73.3 // indirect
+	github.com/midzer/tobii v3.2.1+incompatible // indirect
+	github.com/orestbida/cookieconsent v3.3.0+incompatible // indirect
+	github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117115129-29f6aa926efb // indirect
+	github.com/sebousan/hugolify-theme-uncinqify/v2 v2.1.3 // indirect
 )
