@@ -21,9 +21,10 @@ blocks:
 
 
       Tous formés aux côtés de pénalistes de renom et animés d’une passion commune pour la défense, Morgane Le Hir, Joseph Hazan, Sophie Rey-Gascon et Margot Pugliese, ont souhaité fonder une structure qui se consacre quotidiennement à tous les domaines du droit pénal.
-    grid: medium
-    align: center
-    offset: center
+    ui:
+      grid: medium
+      align: center
+      offset: center
 
   - type: informations
     heading:
@@ -32,10 +33,11 @@ blocks:
       
 
         Ce logiciel écrit en PHP repose sur une base de données MySQL. Cela implique un hébergement sur serveur Apache et une maintenance quotidienne du système, de wordpress et de ses plugins.
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Sécurité
-        icon: shield-slash
+        icon: shield-off
         text: Sans mise à jour de ces solutions, le site Web s’expose grandement aux
           piratages.
       - title: Chronophage
@@ -51,24 +53,24 @@ blocks:
       title: Patchstack
       text: State of WordPress Security In 2022
       url: https://patchstack.com/whitepaper/wordpress-security-stats-2022/
-    background: true
+    ui:
+      theme: light
   
-  - align: start
-    background: true
-    grid: small
+  - ui:
+      theme: light
+      direction: ltr
     text: >-
       La précédente version du site a été piratée, des données ont été ajoutées sans que les administrateur du site l’autorise.
 
 
       Ci-contre, une capture d’écran des catégories enregistrées. 
-    offset: start
     title: Le wordpress piraté
     type: editorial
     image:
       src: https://res.cloudinary.com/uncinq/image/upload/v1759149333/le52-screenshot-category-wordpress.png
-    direction: ltr
   - type: quote
-    background: true
+    ui:
+      theme: light
     quote: « L’insécurité et les spams de notre ancienne solution ne nous permettaient pas de garantir un contenu sérieux en ligne  »
     author:
       title: Me Sophie Rey-Gascon
@@ -79,7 +81,8 @@ blocks:
     heading:
       title: Analyse de l’ancien site du cabinet
       text: Grâce à Google Lighthouse qui est un outil open source permettant de mesurer la qualité des pages Web. Voici, ci-dessous, le test de la page d’accueil sur mobile en connexion 4G lente.
-    column: 4
+    ui:
+      column: 4
     show_color: true
     show_gauge: true
     items:
@@ -103,7 +106,8 @@ blocks:
     heading:
       title: Et son impact environnemental ?
       text: En se basant sur une année pour 10000 pages vues par mois (provenant de website carbon calculator)
-    column: 4
+    ui:
+      column: 4
     show_color: false
     show_gauge: false
     items:
@@ -118,29 +122,31 @@ blocks:
         suffix: "kWh"
         limit: 100
   - type: informations
-    column: 3
-    background: true
+    ui:
+      column: 3
+      theme: light
     heading:
       title: Pourquoi améliorer ces critères ?
     items:
-      - icon: people
+      - icon: users
         title: Pour vos utilisateurs
         text: "Un site plus léger, c'est une meilleure expérience : les pages se
           chargent rapidement, même sur mobile et même si le réseau n'est pas
           très bon."
-      - icon: graph-up-arrow
+      - icon: trending-up
         title: Pour votre activité
         text: Un site web plus rapide, c'est une meilleure performance business. Cela a
           aussi de nombreux autres impacts positifs.
       - title: Pour votre empreinte carbone
-        icon: globe-europe-africa
+        icon: earth
         text: En ayant un site web non énergivore vous réduirez considérablement votre
           impact environnemental.
   - type: datas
     heading:
       title: Analyse du nouveau site du cabinet
       text: Grâce à Lawyerify, tous les voyants sont au vert !
-    column: 4
+    ui:
+      column: 4
     show_color: true
     show_gauge: true
     items:
@@ -164,7 +170,8 @@ blocks:
     heading:
       title: Et son impact environnemental 
       text: Même critère de test que pour l'ancien site
-    column: 4
+    ui:
+      column: 4
     show_color: false
     show_gauge: false
     items:
@@ -183,7 +190,8 @@ blocks:
       title: Comparaison des espaces d’administration
       text: D’un côté un admin compliqué et parasité par des fonctionnalités inutiles
         au cabinet. De l’autre coté un admin dédié et simplifié pour le cabinet Le 52.
-    background: true
+    ui:
+      theme: light
     images:
       - src: https://res.cloudinary.com/uncinq/image/upload/v1759149333/le52-screenshot-home-wordpress.png
         legend: Admin Wordpress de l’ancien site
@@ -194,7 +202,8 @@ blocks:
   - type: quote
     quote: « Lawyerify nous a permis de simplifier et de rendre plus agréable la mise
       à jour du contenu de notre site Internet. »
-    background: true
+    ui:
+      theme: light
     author:
       title: Me Joseph Hazan
       text: Cabinet d’avocats Le 52
@@ -231,7 +240,8 @@ blocks:
               backgroundColor: '#060C84'
             }]
           };
-    grid: medium
+    ui:
+      grid: medium
   - type: chart
     heading:
       text: Nombre de fichiers et de requêtes, à chaque visite.
@@ -257,7 +267,8 @@ blocks:
               backgroundColor: '#060C84'
             }]
           };
-    grid: medium
+    ui:
+      grid: medium
   - type: chart
     heading:
       title: Deux fois moins énergivore
@@ -282,7 +293,8 @@ blocks:
               backgroundColor: '#060C84'
             }]
           };
-    grid: small
+    ui:
+      grid: small
   - type: chart
     heading:
       title: Plus rapide
@@ -307,7 +319,8 @@ blocks:
               backgroundColor: '#060C84'
             }]
           };
-    grid: small
+    ui:
+      grid: small
   - type: quote
     quote: « Un cas d’étude simple qui nous permet de constater qu'avec Lawyerify on a un site **deux fois plus rapide** et **deux fois moins énergivore** tout en gardant le même design et contenu »
     author:
@@ -318,8 +331,8 @@ blocks:
   - type: cta
     heading:
       title: Bonne visite !
-    cta:
-      text: Découvrez le site web du cabinet 52
-      url: https://www.le52-avocats.com/
-      blank: true
+    ctas:
+      - text: Découvrez le site web du cabinet 52
+        url: https://www.le52-avocats.com/
+        blank: true
 ---

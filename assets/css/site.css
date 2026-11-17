@@ -1,0 +1,158 @@
+/* site.css */
+/*
+ * Lawyerify site styles, imported last by hugolify-theme-design-system, after
+ * the Un Cinq theme (hugolify-theme-uncinqify). Only what the tokens of
+ * tokens/site.css cannot say lives here.
+ */
+@layer components {
+  /* From a laptop width, block headings are centred while the content below
+     them keeps its own alignment, as the v1 core did from 992px. Editorial
+     blocks nest their heading deeper in the block content, so they are left
+     out. The buttons of a call to action follow. */
+  @media (--md) {
+    .block .block-content > .heading {
+      text-align: center;
+
+      :is(h2, p) {
+        margin-inline: auto;
+      }
+    }
+
+    .block-cta .block-content > .cta {
+      justify-content: center;
+    }
+  }
+
+  /* The wordmark is blue in the header and the footer alike. The Un Cinq
+     theme sets --logo-color to the brand, but the design system does not
+     read that token: the logo would take the link colour of its context. */
+  .logo {
+    color: var(--logo-color);
+  }
+
+  /* Hero: its pictures fill their column (.hero picture of the SASS site).
+     The second image of the Un Cinq theme is lazy, and an inline picture
+     around a lazy image shrinks it to the 300px a browser gives an image
+     whose sizes is "auto". */
+  .hero picture {
+    display: block;
+  }
+
+  /* The illustration takes a third of the row, one twelfth away from the
+     text (col-xl-4 offset-xl-1 of the SASS theme), whatever the width the
+     text takes on that page. */
+  @media (--md) {
+    .hero-content + .hero-media {
+      flex: 0 0 calc(100% / 3);
+      margin-inline: calc(100% / 12 - var(--grid-gap, var(--gap))) auto;
+    }
+  }
+
+  /* A light block (ui.theme: light) is a grey band of the SASS site, where
+     only the background changed: its headings and links stay blue, its cards
+     keep black titles and no frame. The theme would draw them all from its
+     text colour. */
+  .block-light {
+    --block-card-title-color: var(--color-text);
+    --color-heading: inherit;
+    --color-link: inherit;
+    --color-link-hover: inherit;
+    --item-color-border: transparent;
+  }
+
+  /* Information cards are flat grey panels, one step darker on a light
+     block (.block-informations .card of the SASS theme) */
+  .block-informations .item {
+    --item-border-width: 0;
+    --item-color-background: var(--color-gray-50);
+    --item-shadow: none;
+    --item-shadow-hover: none;
+
+    /* Their call to action is a link, as on the page cards of the design
+       system (components/page.css): blue text on no background, underlined
+       under the pointer only. The hover values are restated too: left to the
+       button defaults, the link would fill with blue under the pointer. */
+    --btn-border-width: var(--item-btn-border-width);
+    --btn-color-background: var(--item-btn-color-background);
+    --btn-color-background-hover: var(--item-btn-color-background);
+    --btn-color-text: var(--item-btn-color-text);
+    --btn-color-text-decoration: transparent;
+    --btn-color-text-decoration-hover: var(--item-btn-color-text);
+    --btn-color-text-hover: var(--item-btn-color-text);
+    --btn-padding-block: 0;
+    --btn-padding-inline: 0;
+    --btn-shadow-hover: none;
+  }
+
+  .block-informations.block-light .item {
+    --item-color-background: var(--color-gray-100);
+  }
+
+  /* An incomplete row of cards is centred under the heading */
+  @media (--md) {
+    .block-informations .items {
+      justify-content: center;
+    }
+  }
+
+  /* As in the hero, the second button of a call to action is outlined */
+  .block-cta .block-content > .cta .btn + .btn {
+    --btn-color-background: transparent;
+    --btn-color-text: var(--color-brand);
+  }
+
+  /* A case study thumbnail is a client logo, white on transparent for Le 52:
+     it keeps the light grey ground it had in v1, which tokens/site.css takes
+     off every other media of the site. */
+  .casestudy {
+    --item-media-color-background: var(--color-gray-50);
+  }
+
+  /* The name of a pack reads as a heading, blue and large, like the h3 of
+     the SASS pricing cards; the design system sizes it as an item title. */
+  .comparison .title {
+    --item-title-color: var(--color-heading);
+    --item-title-font-size: var(--font-size-lg);
+  }
+
+  /* Body text: a heading sits close to its first paragraph, and an h2 opens
+     its section with a wide break, the rhythm of the SASS site. */
+  .content-body {
+    > :is(h2, h3) {
+      margin-block-end: var(--spacing-xs);
+    }
+
+    > h2:not(:first-child) {
+      margin-block-start: var(--spacing-fluid-md);
+    }
+  }
+
+  /* The surtitle badge is blue on a blue veil, in the hero too, where the
+     design system mutes it. The Un Cinq theme tints the veil from the text
+     colour; here it is the brand's own muted tint. */
+  .surtitle {
+    --surtitle-color-background: var(--color-brand-muted);
+    --surtitle-color-text: var(--color-brand);
+  }
+}
+
+@layer pages {
+  /* Demo sites: the Un Cinq theme takes the bottom padding off each
+     screenshot, and the design system takes the top padding off the cards
+     that follow it (a block of the same theme): give the pair back the gap
+     it had in v1. */
+  .section-sites-de-demonstration .block-figure {
+    padding-block-end: var(--spacing-fluid-md);
+  }
+}
+
+/* A scrollsnap row resets justify-content from @layer utilities, so the
+   centring of an incomplete row is restated in that layer, the way the design
+   system does it for .block-align-center (components/block-align.css). */
+@layer utilities {
+  @media (--md) {
+    .block-informations .items:is([class^="scrollsnap"], [class*=" scrollsnap"]) {
+      justify-content: safe center;
+    }
+  }
+}

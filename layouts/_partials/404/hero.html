@@ -1,0 +1,18 @@
+{{- /*
+  404/hero.html: the core 404 hero has no media; this one shows the site's
+  404 illustration. The hero is built from the same partials as the hero of
+  any page, fed with the i18n strings of the core.
+*/ -}}
+{{- $hero := dict
+  "title" (i18n "page404.title")
+  "text" (i18n "page404.text")
+  "image" (dict "src" "https://res.cloudinary.com/uncinq/image/upload/v1758116434/88.404_x4pfmj.svg")
+-}}
+<header class="{{ partial "func/GetHeroClasses" $hero }}">
+  <div class="container">
+    <div class="row">
+      {{ partial "commons/hero/content.html" $hero }}
+      {{ partial "commons/hero/media.html" $hero }}
+    </div>
+  </div>
+</header>

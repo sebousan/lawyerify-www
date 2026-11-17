@@ -11,8 +11,6 @@ casestudies:
 
 # Javascript
 carousel: false
-bootstrap:
-  modal: false
 map: false
 
 # Brand

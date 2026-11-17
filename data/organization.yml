@@ -1,0 +1,11 @@
+legal_name: Un Cinq
+address:
+  city: Bordeaux
+  country_code: FR
+contact:
+  email: lawyerify@uncinq.dev
+  phone: '+33 6 78 85 86 04'
+area_served:
+  - name: Worldwide
+vat_id: FR71950935866
+tax_id: '950935866'

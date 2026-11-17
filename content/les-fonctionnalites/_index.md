@@ -13,7 +13,8 @@ hero:
 show_list: false
 blocks:
   - type: editorial
-    direction: rtl
+    ui:
+      direction: rtl
     title: Présentation du cabinet
     text: Lieu(x), contacts et informations.
     image:
@@ -22,7 +23,8 @@ blocks:
       text: En savoir plus
       url: /les-fonctionnalites/cabinet/
   - type: editorial
-    direction: ltr
+    ui:
+      direction: ltr
     title: Présentation de l’équipe
     text: Vous avez la possibilité de présenter chacun de vos collaborateurs…
     image:
@@ -31,7 +33,8 @@ blocks:
       text: En savoir plus
       url: /les-fonctionnalites/equipe/
   - type: editorial
-    direction: rtl
+    ui:
+      direction: rtl
     title: Les compétences et expertises du cabinet
     text: Création de pages dédiées à vos compétences et expertises (droit pénal, du travail, de la famille…).
     image:
@@ -40,7 +43,8 @@ blocks:
       text: En savoir plus
       url: /les-fonctionnalites/expertises/
   - type: editorial
-    direction: ltr
+    ui:
+      direction: ltr
     title: Mettre en avant votre actualité et parutions presse
     text: Partagez l’actualité de votre cabinet sous la forme d’un blog ou d’une liste de parutions.
     image:
@@ -49,7 +53,8 @@ blocks:
       text: En savoir plus
       url: /les-fonctionnalites/actualite-parutions/
   - type: editorial
-    direction: rtl
+    ui:
+      direction: rtl
     title: Spécificités du cabinet
     text: Présentez les ventes immobilières dont le cabinet est responsable.
     image:

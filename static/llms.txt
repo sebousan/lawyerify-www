@@ -2,7 +2,7 @@
 
 Lawyerify est une solution de création de sites Web haut de gamme, sécurisés et ultra-rapides, spécifiquement conçue pour les cabinets d'avocats. Architecture statique moderne (Hugo + Decap CMS), hébergée sur Netlify.
 
-> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookies traceurs).
+> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookie).
 
 ## Usages — Pour qui ?
 
@@ -21,7 +21,7 @@ Pour les structures multi-cabinets avec des équipes réparties sur plusieurs si
 - **Sécurité et Performance** : Sites statiques ultra-rapides (100/100 performance), sans failles serveur.
 - **Accessibilité RGAA4** : Inclusion numérique totale, score 100/100.
 - **Eco-conception** : Faible empreinte carbone, sans scripts inutiles.
-- **RGPD** : Privacy by Design, aucun cookie traceur.
+- **RGPD** : Privacy by Design, aucun cookie.
 
 ## Tarifs
 - **Pack Indépendant** : 39 €/mois HT (avocat seul)
@@ -30,14 +30,20 @@ Pour les structures multi-cabinets avec des équipes réparties sur plusieurs si
 - Installation à partir de 1 800 € HT (configuration complète incluse)
 - Options : images CDN, multilingue, ventes aux enchères, statistiques (10 €/mois chacune)
 
+## Contact
+- E-mail : lawyerify@uncinq.dev
+- Téléphone : +33 6 78 85 86 04
+- Lawyerify est développé par Un Cinq, à Bordeaux (France).
+- Démonstration, devis et questions : [page contact](https://www.lawyerify.io/contact/)
+
 ## Liens Utiles
-- [Usages](https://lawyerify.io/usages/)
-- [Fonctionnalités](https://lawyerify.io/les-fonctionnalites/)
-- [Avantages](https://lawyerify.io/les-avantages/)
-- [Tarifs](https://lawyerify.io/tarifs/)
-- [Études de cas](https://lawyerify.io/etudes-de-cas/)
-- [Sites de démonstration](https://lawyerify.io/sites-de-demonstration/)
-- [Contact](https://lawyerify.io/contact/)
+- [Usages](https://www.lawyerify.io/usages/)
+- [Fonctionnalités](https://www.lawyerify.io/les-fonctionnalites/)
+- [Avantages](https://www.lawyerify.io/les-avantages/)
+- [Tarifs](https://www.lawyerify.io/tarifs/)
+- [Études de cas](https://www.lawyerify.io/etudes-de-cas/)
+- [Sites de démonstration](https://www.lawyerify.io/sites-de-demonstration/)
+- [Contact](https://www.lawyerify.io/contact/)
 
 ## Full Detail
-- [llms-full.txt](https://lawyerify.io/llms-full.txt)
+- [llms-full.txt](https://www.lawyerify.io/llms-full.txt)

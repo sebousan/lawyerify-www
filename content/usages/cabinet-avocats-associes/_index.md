@@ -21,8 +21,8 @@ blocks:
       surtitle: Testez le !
       title: A quoi pourrait ressembler votre site Web ?
       text: Découvrez un exemple concret de création de site internet pour un cabinet d'avocats associés avec notre démo interactive.
-    grid: large
-    background: false
+    ui:
+      grid: large
     video:
       mp4: /assets/videos/lawyerify-associates.mp4
       webm: /assets/videos/lawyerify-associates.webm
@@ -31,16 +31,17 @@ blocks:
       controls: false
       loop: true
   - type: cta
-    cta:
-      blank: true
-      text: Découvrir le site démo
-      url: https://theme-3-associates--lawyerify-demo.netlify.app/
+    ctas:
+      - blank: true
+        text: Découvrir le site démo
+        url: https://theme-3-associates--lawyerify-demo.netlify.app/
   - type: informations
     heading:
       surtitle: Clair et bien conçu
       title: Contenu de votre site Web
       text: Présentez votre cabinet, votre équipe d'avocats et vos domaines d'expertises juridiques pour attirer de nouveaux clients.
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Votre cabinet et contact
         text: Présentez l'histoire de votre cabinet, vos valeurs, votre adresse, téléphone et email pour faciliter la prise de contact par vos clients potentiels.
@@ -50,27 +51,28 @@ blocks:
           url: /les-fonctionnalites/cabinet/
       - title: Equipe
         text: Mettez en avant vos associés et collaborateurs avec leurs parcours, spécialisations et coordonnées individuelles.
-        icon: people
+        icon: users
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/equipe/
       - title: Compétences et expertises
         text: Présentez tous vos domaines de spécialisation juridique (droit des affaires, droit social, droit fiscal, contentieux...) pour être identifié par les clients.
-        icon: mortarboard
+        icon: graduation-cap
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/expertises/
       - title: Actualités et parutions
         text: Que ce soit pour écrire ou relayer un article, plusieurs moyens sont possibles pour alimenter le contenu de votre site.
-        icon: journal-richtext
+        icon: notebook-text
         cta:
           text: Voir en détail
           url: /les-fonctionnalites/actualite-parutions/
 
   - type: figure
-    background: true
-    offset: center
-    grid: medium
+    ui:
+      theme: light
+      offset: center
+      grid: medium
     heading:
       surtitle: Editeur de contenu dédié à votre cabinet
       title: Gérez en tout simplicité le contenu de votre site Web
@@ -85,7 +87,8 @@ blocks:
       surtitle: Beaucoup plus sûr
       title: Déléguez votre infrastructure technique pour plus de sécurité
       text: Notre solution de création de site web pour cabinet d'avocats intègre hébergement sécurisé, maintenance et protection des données.
-    column: 4
+    ui:
+      column: 4
     items:
       - title: Sécurité garantie de votre site Web
         text: Certificat SSL, protection contre les cyberattaques et conformité RGPD pour protéger vos données et celles de vos clients.
@@ -95,10 +98,11 @@ blocks:
         icon: database-check
       - title: Maintenance technique assurée
         text: Mises à jour de sécurité, sauvegardes régulières et support technique pour un site toujours opérationnel.
-        icon: clock-history
+        icon: rotate-ccw-clock
 
   - type: cta
-    background: true
+    ui:
+      theme: light
     heading:
       surtitle: En savoir plus ?
       title: Envie d’avoir un site Web bien conçu et facile à modifier ?
@@ -113,7 +117,8 @@ blocks:
       surtitle: FAQ
       title: Questions fréquentes sur la création de site internet pour cabinet d'avocat
       text: Tout ce que vous devez savoir sur la création de site web professionnel pour développer votre activité d'avocat.
-    background: true
+    ui:
+      theme: light
     items:
       - summary: Pourquoi créer un site internet pour mon cabinet d'avocats associés ?
         text: En tant qu'avocats associés, votre présence en ligne est essentielle pour développer votre clientèle et renforcer votre visibilité locale. Un site internet professionnel vous permet de présenter une fiche détaillée pour chaque avocat, vos compétences juridiques, vos domaines d'expertise et votre parcours professionnel, tout en attirant de nouveaux clients grâce au référencement local.
