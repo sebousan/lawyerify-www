@@ -13,6 +13,6 @@ require (
 	github.com/midzer/tobii v3.2.1+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.3.0+incompatible // indirect
 	github.com/sebousan/hugolify-content-uncinqify/v2 v2.0.0-20261117132209-63ad8f8be4b3 // indirect
-	github.com/sebousan/hugolify-theme-uncinqify/v2 v2.2.0 // indirect
+	github.com/sebousan/hugolify-theme-uncinqify/v2 v2.3.0 // indirect
 	github.com/simple-icons/simple-icons v0.0.0-20260607021030-c3777a7e48a5 // indirect
 )

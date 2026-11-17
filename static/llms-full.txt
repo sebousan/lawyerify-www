@@ -9,7 +9,7 @@ Lawyerify permet aux avocats de disposer d'un site Web professionnel, performant
 - **Hébergement** : Netlify (CDN mondial, haute disponibilité)
 - **Eco-conception** : Faible émission de carbone, sans scripts inutiles
 - **Accessibilité** : Conformité RGAA4, score 100/100
-- **RGPD** : Privacy by Design, aucun cookie traceur, données hébergées en Europe
+- **RGPD** : Privacy by Design, aucun cookie, données hébergées en Europe
 - **Thèmes** : 5 thèmes graphiques disponibles, design sur mesure en option
 
 ## Usages — Pour qui ?
@@ -86,11 +86,11 @@ Pour les structures avec plusieurs bureaux, équipes internationales ou clientè
 À partir de **1 800 € HT** — inclut : configuration complète, mise en place du thème, personnalisation, configuration du domaine.
 
 ### Abonnements mensuels
-| Pack | Prix/mois | Prix/an | Pour qui |
-|---|---|---|---|
-| Indépendant | 39 € HT | 468 € HT | Avocat exerçant seul |
-| Associés | 69 € HT | 828 € HT | Cabinet avec équipe |
-| International | 99 € HT | 1 188 € HT | Multi-cabinets |
+| Pack | Prix/mois | Pour qui |
+|---|---|---|
+| Indépendant | 39 € HT | Avocat exerçant seul |
+| Associés | 69 € HT | Cabinet avec équipe |
+| International | 99 € HT | Multi-cabinets |
 
 Tous les packs incluent : licence, hébergement, sécurité, responsive design, SEO, accessibilité RGAA4, conformité RGPD, maintenance et support.
 
@@ -127,4 +127,17 @@ Migration d'un site WordPress vers Lawyerify.
 - Cabinet international
 - Version complète (tous les contenus possibles)
 
-Tous les sites de démonstration sont accessibles et testables en ligne : [Sites de démonstration](https://lawyerify.io/sites-de-demonstration/)
+Tous les sites de démonstration sont accessibles et testables en ligne : [Sites de démonstration](https://www.lawyerify.io/sites-de-demonstration/)
+
+## Création du site : les étapes
+1. Premier échange et démonstration de la solution.
+2. Devis : pack, options et délais. Les travaux commencent après son acceptation et le versement de l'acompte.
+3. Installation : thème Lawyerify avec le logo, les couleurs et les typographies du cabinet, configuration de l'espace d'administration et du nom de domaine.
+4. Validation : le cabinet découvre son site sur une adresse de prévisualisation et dispose de 8 jours ouvrés pour signaler par écrit ce qui ne correspond pas au devis.
+5. Mise en ligne sur le nom de domaine du cabinet. L'abonnement couvre ensuite l'hébergement, la maintenance et le support technique (par e-mail, les jours ouvrés).
+
+## Contact
+Lawyerify est développé par Un Cinq (EURL), à Bordeaux (France).
+- E-mail : lawyerify@uncinq.dev
+- Téléphone : +33 6 78 85 86 04
+- Page contact (démonstration, devis, questions) : https://www.lawyerify.io/contact/

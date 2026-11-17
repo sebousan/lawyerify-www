@@ -1,11 +1,17 @@
 ---
 isIndex: true
 title: Accueil
+description: >-
+  Site internet clé en main pour cabinets d’avocats : rapide, sécurisé,
+  accessible et visible sur Google et les IA. Hébergement, maintenance et
+  support inclus.
+seo:
+  title: Création de site internet pour avocats
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
 hero:
   surtitle: Lawyerify
-  title: Créez le site Web de votre cabinet d’avocats sécurisé et ultra rapide.
+  title: Créez un site internet sécurisé et ultra rapide pour votre cabinet d’avocats.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
   image_2:
@@ -28,10 +34,10 @@ blocks:
         text: Un site Web très rapide pour un accès même avec une connexion faible.
         icon: gauge
       - title: Beaucoup plus sûr
-        text: Pas de piratage, pas de spam, pas de virus.
+        text: Beaucoup moins exposé au piratage, au spam et aux virus.
         icon: shield-check
       - title: Responsive
-        text: Visible sur smartphone, tablet, ordinateur portable ou de bureau.
+        text: Visible sur smartphone, tablette, ordinateur portable ou de bureau.
         icon: smartphone
       - title: Visible sur Google et les IA
         text: Référencement naturel optimisé pour Google et pour les IA comme ChatGPT.
@@ -39,8 +45,8 @@ blocks:
       - title: Accessible à tous
         text: Rendez votre site Web accessible aux personnes handicapées.
         icon: person-standing
-      - title: Eco-conçu
-        text: Un site Web conçu pour générer qu’une faible émission de carbone.
+      - title: Éco-conçu
+        text: Un site Web conçu pour ne générer qu’une faible émission de carbone.
         icon: tree-deciduous
       - title: Conforme RGPD
         text: Pas de cookie et une approche éthique permettant de s’affranchir des outils Google.
@@ -121,7 +127,7 @@ blocks:
       - surtitle: Modernité
         title: Les avantages
         text:
-          'Ils sont multiples : Système de gestion de contenu dédié,
+          'Ils sont multiples : système de gestion de contenu dédié,
           sécurité maximale, site Web rapide, bien référencé, éco-conçu et accessible à
           tous.'
         cta:
@@ -132,9 +138,9 @@ blocks:
           isLogo: true
       - surtitle: À tester !
         title: Les sites Web exemples
-        text: Naviguez sur nos sites Web de démonstration pour décourvir les différents types de contenus.
+        text: Naviguez sur nos sites Web de démonstration pour découvrir les différents types de contenus.
         cta:
-          text: Décourvir les sites Web exemples
+          text: Découvrir les sites Web exemples
           url: /sites-de-demonstration/
         image:
           src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
@@ -150,6 +156,10 @@ blocks:
       text: Configuration sur mesure.
     figure:
       src: https://res.cloudinary.com/uncinq/image/upload/v1759313660/admin-multi-cabinets_g3zifm.png
+      alt: >-
+        Espace d’administration Lawyerify : menu des contenus (pages,
+        expertises, cabinets, personnes, actualités, parutions) et liste des
+        rubriques du site.
       screenshot: true
       legend:
         Page d’accueil de l’espace de gestion de contenu, permettant la mise à
@@ -161,7 +171,7 @@ blocks:
     surtitle: Avant/après
     title: Les études de cas
     text: Découvrez les migrations de site Web de nos clients que nous avons
-      réalisés.
+      réalisées.
     cta:
       text: En savoir plus sur les études de cas
       url: /etudes-de-cas/
@@ -185,8 +195,9 @@ blocks:
           international. Elle réunit un site rapide et sécurisé, un espace
           d’administration pensé pour la profession, l’hébergement, la
           maintenance et le support technique, pour un abonnement mensuel.
-          Lawyerify est développé à Bordeaux par [Un Cinq](https://www.uncinq.dev),
-          à partir de la technologie open source Hugolify.
+          Lawyerify est développé à Bordeaux par {{< blank_link text="Un Cinq" link="https://uncinq.dev" >}},
+          à partir de la technologie open source {{< blank_link text="Hugolify" link="https://hugolify.io" >}}.
+
       - summary: Combien coûte un site internet d’avocat avec Lawyerify ?
         text: >-
           L’installation est facturée **à partir de 1 800 € HT** : mise en place du
@@ -231,8 +242,8 @@ blocks:
           contenus font la différence.
       - summary: Le site est-il conforme au RGPD ?
         text: >-
-          Un site Lawyerify est conçu pour l’être : **aucun cookie de traçage par
-          défaut et aucun outil Google**. Pour mesurer votre audience, l’option
+          Un site Lawyerify est conçu pour l’être : **aucun cookie et aucun outil
+          Google**. Pour mesurer votre audience, l’option
           Statistiques s’appuie sur Plausible, une solution respectueuse de la
           vie privée dont les données sont **hébergées dans l’Union européenne**.
           Un Cinq agit comme sous-traitant au sens du RGPD ; vous publiez vos

@@ -7,7 +7,7 @@ image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
 hero:
   title: Sites de démonstration
-  text: Naviguez sur nos sites Web de démonstration pour décourvir les différents types de contenus.
+  text: Naviguez sur nos sites Web de démonstration pour découvrir les différents types de contenus.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
 blocks:
@@ -15,7 +15,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
+      grid: small
     heading:
       title: Site démo avec un thème neutre
     figure:
@@ -57,7 +57,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
+      grid: small
       theme: light
     heading:
       title: Thème numéro 1
@@ -101,7 +101,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
+      grid: small
     heading:
       title: Thème numéro 2
     figure:
@@ -143,7 +143,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
+      grid: small
       theme: light
     heading:
       title: Thème numéro 3
@@ -187,8 +187,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
-      theme: light
+      grid: small
     heading:
       title: Thème numéro 4
     figure:
@@ -230,7 +229,7 @@ blocks:
   - type: figure
     ui:
       offset: center
-      grid: medium
+      grid: small
       theme: light
     heading:
       title: Thème numéro 5
@@ -240,6 +239,7 @@ blocks:
   - type: informations
     ui:
       column: 4
+      theme: light
     items:
       - title: Indépendant
         text: Contenu pour un cabinet d’un avocat indépendant.
